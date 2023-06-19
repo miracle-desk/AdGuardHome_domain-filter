@@ -1,4 +1,4 @@
-name: Update DNS-filter.yaml
+name: Update domain-filter.yml
 
 on:
   schedule:
