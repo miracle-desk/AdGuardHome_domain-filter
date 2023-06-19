@@ -5,7 +5,7 @@ def get_update_StevenBlackList_gambling_fakenews_only(url):
     try:
         r = requests.get(url)
         update_StevenBlackList_gambling_fakenews_only = r.text.split("\n")
-        update_StevenBlackList_gambling_fakenews_only = [line.replace("  - DOMAIN,", "").replace("  - DOMAIN-SUFFIX,", "").replace("://", "").replace("127.0.0.1", "").replace("^", "") for line in update_StevenBlackList_gambling_fakenews_only if not line.startswith(('#', '!', '/', '@', '-', '&', 'payload:'))]
+        update_StevenBlackList_gambling_fakenews_only = [line.replace("  - DOMAIN,", "").replace("  - DOMAIN-SUFFIX,", "").replace("  - IP-CIDR,", "").replace("://", "").replace("127.0.0.1", "").replace("^", "") for line in update_StevenBlackList_gambling_fakenews_only if not line.startswith(('#', '!', '/', '@', '-', '&', 'payload:'))]
         domains = []
         ips = []
         for line in update_StevenBlackList_gambling_fakenews_only:
@@ -15,7 +15,8 @@ def get_update_StevenBlackList_gambling_fakenews_only(url):
                     try:
                         # Coba parsing IP dengan modul ipaddress
                         ip = ipaddress.ip_network(line.strip().split('$')[0])
-                        ips.append(ip + "^")
+                        # Karakter setelah ip / akan di hilangkan + tanda ^
+                        ips.append(str(ip).split('/')[0] + "^")
                     except ValueError:
                         # Jika parsing gagal, abaikan baris ini
                         pass
@@ -27,7 +28,7 @@ def get_update_StevenBlackList_gambling_fakenews_only(url):
                         domains.append("||" + domain_suffix)                       
                     elif domain.startswith("."):
                         domain_suffix = domain + "^"
-                        domains.append("||" + domain_suffix)
+                        domains.append("||*" + domain_suffix)
                     elif domain.endswith("."):
                         domain_suffix = domain + "*^"
                         domains.append("||" + domain_suffix)
