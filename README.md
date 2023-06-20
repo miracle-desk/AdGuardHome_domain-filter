@@ -1,2 +1,2 @@
-# AdGuardHome_DNS-filter
-[test] dns filter-AdGuardHome
+# AdGuardHome_domain-filter
+[test] domain filter-AdGuardHome
