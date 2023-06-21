@@ -1,0 +1,10 @@
+||domain1.com^
+||domain3.com^
+||domain3.com^$dvbdfgb
+||domain3.com^$dvbdfgb
+||domain2.com^$dvbdfgb
+||domain1.com^
+||domain2.com^$dvbdfgb
+||192.168.12^$dfff
+||192.168.122^$dfff
+||192.168.124^$dfff
