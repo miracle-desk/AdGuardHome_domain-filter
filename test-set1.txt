@@ -1,7 +1,0 @@
-||domain1.com^
-||domain1.com^
-||domain2.com^$dvbdfgb
-||domain2.com^$dvbdfgb
-||domain2.com^$dvbdfgb
-||domain1.com^
-||domain2.com^$dvbdfgb
