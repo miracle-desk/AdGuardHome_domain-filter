@@ -1,9 +1,19 @@
 # AdGuardHome_domain-filter
 [test] domain filter-AdGuardHome
 ## Daftar block list DNS
-`IDN: ABPindo`
 ```yml
-https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt 
+filters:
+  - enabled: true
+    url: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
+    name: 'IDN: ABPindo'
+
+  - enabled: true
+    url: https://raw.githubusercontent.com/miracle-desk/AdGuardHome_domain-filter/main/Malicious-hosts.txt
+    name: 'Malicious-hosts'
+
+  - enabled: true
+    url: https://raw.githubusercontent.com/miracle-desk/AdGuardHome_domain-filter/main/Malicious-ipv4.txt
+    name: 'Malicious-ipv4'
 ```
 #### server DNS hulu
 ```yml
