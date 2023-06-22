@@ -17,14 +17,14 @@ filters:
 ```
 #### server DNS hulu
 ```yml
-https://security.cloudflare-dns.com/dns-query
-tls://security.cloudflare-dns.com
+https://dns.quad9.net/dns-query
+tls://dns.quad9.net
 ```
 #### server DNS bootstrap
 ```yml
-1.1.1.2
-1.0.0.2
-2606:4700:4700::1112
-2606:4700:4700::1002
+9.9.9.9
+149.112.112.112
+2620:fe::fe
+2620:fe::fe:9
 ```
 
