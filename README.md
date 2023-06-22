@@ -15,12 +15,14 @@ filters:
     url: https://raw.githubusercontent.com/miracle-desk/AdGuardHome_domain-filter/main/Malicious-ipv4.txt
     name: 'Malicious-ipv4'
 ```
-#### server DNS hulu
+## Pengaturan DNS
+### Quad9 DNS
+##### server DNS hulu
 ```yml
 https://dns.quad9.net/dns-query
 tls://dns.quad9.net
 ```
-#### server DNS bootstrap
+##### server DNS bootstrap
 ```yml
 9.9.9.9
 149.112.112.112
