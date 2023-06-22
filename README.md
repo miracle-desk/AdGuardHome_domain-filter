@@ -3,7 +3,7 @@
 ## Daftar block list DNS
 
 `IDN: ABPindo`
-```sh
+```yml
 https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt 
 ```
 
