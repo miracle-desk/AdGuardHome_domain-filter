@@ -1,14 +1,14 @@
 import requests
 import ipaddress
 
-def get_update_StevenBlackList_gambling_fakenews_only(url):
+def get_update_filter(url):
     try:
         r = requests.get(url)
-        update_StevenBlackList_gambling_fakenews_only = r.text.split("\n")
-        update_StevenBlackList_gambling_fakenews_only = [line.replace("  - DOMAIN,", "").replace("  - DOMAIN-SUFFIX,", "").replace("  - IP-CIDR,", "").replace("://", "").replace("127.0.0.1", "").replace("^", "") for line in update_StevenBlackList_gambling_fakenews_only if not line.startswith(('#', '!', '/', '@', '-', '&', 'payload:'))]
+        update_filter = r.text.split("\n")
+        update_filter = [line.replace("  - DOMAIN,", "").replace("  - DOMAIN-SUFFIX,", "").replace("  - IP-CIDR,", "").replace("://", "").replace("127.0.0.1 ", "").replace("0.0.0.0 ", "").replace("^", "") for line in update_filter if not line.startswith(('#', '!', '/', '@', '-', '&', 'payload:'))]
         domains = []
         ips = []
-        for line in update_StevenBlackList_gambling_fakenews_only:
+        for line in update_filter:
             if line:
                 if line[0].isdigit():
                     # Jika baris dimulai dengan angka, itu kemungkinan adalah alamat IP
@@ -43,7 +43,17 @@ def get_update_StevenBlackList_gambling_fakenews_only(url):
         print(e)
         return None
     
-update_StevenBlackList_gambling_fakenews_only = get_update_StevenBlackList_gambling_fakenews_only("https://raw.githubusercontent.com/miracle-desk/clash_rule-provider/main/rule_StevenBlackList.yaml")
+update_StevenBlackList_gambling_fakenews_only = get_update_filter("https://raw.githubusercontent.com/miracle-desk/clash_rule-provider/main/rule_StevenBlackList.yaml")
 if  update_StevenBlackList_gambling_fakenews_only:
     with open("StevenBlackList-gambling-fakenews-only.txt", "w", encoding='utf-8') as f:
         f.write("\n".join( update_StevenBlackList_gambling_fakenews_only))
+
+update_Malicious_hosts = get_update_filter("https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_hostnames.txt")
+if  update_Malicious_hosts:
+    with open("Malicious-hosts.txt", "w", encoding='utf-8') as f:
+        f.write("\n".join( update_Malicious_hosts))
+
+update_Malicious_ipv4 = get_update_filter("https://raw.githubusercontent.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/main/Google_ipv4.txt")
+if  update_Malicious_ipv4:
+    with open("Malicious-ipv4.txt", "w", encoding='utf-8') as f:
+        f.write("\n".join( update_Malicious_ipv4))
