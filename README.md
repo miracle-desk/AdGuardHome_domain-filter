@@ -4,7 +4,15 @@
 ```yml
 filters:
   - enabled: true
-    url: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
+    name: 'AdGuard DNS filter'
+
+  - enabled: true
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_2.txt
+    name: 'AdAway Default Blocklist'
+
+  - enabled: true
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_22.txt
     name: 'IDN: ABPindo'
 
   - enabled: true
@@ -14,6 +22,10 @@ filters:
   - enabled: true
     url: https://raw.githubusercontent.com/miracle-desk/AdGuardHome_domain-filter/main/Malicious-ipv4.txt
     name: 'Malicious-ipv4'
+    
+  - enabled: true
+    url: https://raw.githubusercontent.com/miracle-desk/AdGuardHome_domain-filter/main/StevenBlackList-gambling-fakenews-only.txt
+    name: 'StevenBlackList-gambling-fakenews-only'
 ```
 ## Pengaturan DNS
 ### Quad9 DNS
