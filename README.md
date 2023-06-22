@@ -17,13 +17,13 @@ filters:
 ```
 ## Pengaturan DNS
 ### Quad9 DNS
-##### Standard Regular DNS servers which provide protection from phishing and spyware. They include blocklists, DNSSEC validation, and other security features
-##### server DNS hulu
+#### Standard Regular DNS servers which provide protection from phishing and spyware. They include blocklists, DNSSEC validation, and other security features
+#### server DNS hulu
 ```yml
 https://dns.quad9.net/dns-query
 tls://dns.quad9.net
 ```
-##### server DNS bootstrap
+#### server DNS bootstrap
 ```yml
 9.9.9.9
 149.112.112.112
