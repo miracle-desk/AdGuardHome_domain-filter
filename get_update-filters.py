@@ -35,6 +35,9 @@ def get_update_filter(url):
                     elif domain.startswith("://"):
                         domain_suffix = domain + "^"
                         domains.append("||*." + domain_suffix)
+                    # jika domain memiliki karakter "github", "tiktok", "pinterest", "twitter", "linkedin", "facebook", "instagram", "whatsapp" maka baris tersebut tidak akan ditambahkan
+                    elif any(prefix in domain for prefix in ("github", "pinterest", "pinimg")):
+                        continue
                     else:
                         domains.append("||" + domain + "^")
         rules = domains + ["||" + ip for ip in ips]
