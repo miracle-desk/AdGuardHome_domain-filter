@@ -2298,6 +2298,7 @@
 ||allk8.com^
 ||almeriaxxx.com^
 ||alo789.com^
+||alo789.vip^
 ||alo88.bet^
 ||alo888.com^
 ||api.118kbet.com^
@@ -2392,6 +2393,7 @@
 ||app.228kbet.com^
 ||app.8kbet.vn^
 ||app.betlv.com^
+||app.k8cc.com^
 ||app.vx88.com^
 ||app.wellviet.net^
 ||app611.net^
@@ -2519,6 +2521,7 @@
 ||bt9gl.com^
 ||bvthethao.com^
 ||bwchaoxuan.com^
+||bwing88.com^
 ||bwingmkt1.com^
 ||bwingmkt10.com^
 ||bwingmkt8.com^
@@ -2667,7 +2670,22 @@
 ||dafacai360.com^
 ||dafakaya.com^
 ||dafawin.com^
+||daga.live^
+||daga.win^
+||daga360vn.com^
+||daga88.bet^
+||daga88.com^
+||daga999.live^
+||dagablv.com^
+||dagacampuchia.com^
+||dagacampuchia.io^
+||dagacuadao.org^
+||dagahomqua.com^
+||dagatructiep.casino^
+||dagatructiep.io^
 ||dagatructiep24h.net^
+||dagatructiepthomo.live^
+||dagatructuyen.com^
 ||daily88uu.com^
 ||dailybet365vn.com^
 ||dailybong88.com^
@@ -2874,6 +2892,7 @@
 ||fcb8.vip^
 ||fcb8.win^
 ||fcb88.com^
+||fcb88.vip^
 ||fcb88d.com^
 ||feli88.com^
 ||fi88.club^
@@ -2914,6 +2933,9 @@
 ||funtructuyen88.com^
 ||fxbg7.com^
 ||g9vip.com^
+||ga179.com^
+||gachoic1.com^
+||gachoiviet.com^
 ||gam88.org^
 ||game.789.club^
 ||game.789a.club^
@@ -2952,6 +2974,8 @@
 ||gateway.jbovietnam.com^
 ||gateway.jbovn.com^
 ||gatewayvn.jbovn.com^
+||gatructiep.net^
+||gawin88.com^
 ||gdwbetvn888.com^
 ||gdwviet.com^
 ||gembanca.com^
@@ -3303,6 +3327,7 @@
 ||k188casino.vip^
 ||k2.uk88.top^
 ||k8-vn.com^
+||k8.cc^
 ||k8.digital^
 ||k8.games^
 ||k8.reviews^
@@ -3550,6 +3575,13 @@
 ||k8cash.com^
 ||k8casino.net^
 ||k8casino.win^
+||k8cc.com^
+||k8cc11.com^
+||k8cc22.com^
+||k8cc33.com^
+||k8cc44.com^
+||k8cc55.com^
+||k8cc66.com^
 ||k8cf001.com^
 ||k8cf002.com^
 ||k8cf003.com^
@@ -5318,6 +5350,7 @@
 ||mu9.club^
 ||mu9.com^
 ||mu9.fun^
+||mu9.online^
 ||mu9.vip^
 ||mu9.win^
 ||mu90.com^
@@ -5342,6 +5375,7 @@
 ||nemo.vin^
 ||new.vx88.com^
 ||new88.love^
+||new88.tips^
 ||new8808.vip^
 ||new88111.com^
 ||new8884.com^
@@ -5382,6 +5416,7 @@
 ||nowbetvn.com^
 ||nslokups.com^
 ||nt7cd.com^
+||nuoigada.com^
 ||nxb8.com^
 ||oi8jg.com^
 ||ojr6n.com^
@@ -5396,11 +5431,13 @@
 ||onbet2.com^
 ||onbet3.com^
 ||onbet7.com^
+||onbet993.com^
 ||one88.club^
 ||one88.com^
 ||one88.fun^
 ||one88.me^
 ||one88.top^
+||one88.uk^
 ||one88.us^
 ||one88.vin^
 ||one88.vip^
@@ -5417,6 +5454,7 @@
 ||ovtogame888.com^
 ||ovtogame999.com^
 ||ox1.oxbetd.com^
+||oxbet.cc^
 ||oxbet.club^
 ||oxbet.com^
 ||oxbet.net^
@@ -5455,6 +5493,7 @@
 ||play.top88.us^
 ||play.top88.vn^
 ||play.vic.win^
+||play.vuigiaitri.online^
 ||play.win79.vip^
 ||play.x8.club^
 ||play.x8vn.top^
@@ -5556,6 +5595,7 @@
 ||red88.us^
 ||red88.vin^
 ||red88.vip^
+||red88e.com^
 ||reg.playiwin.site^
 ||resources.bong90.bet^
 ||rewards.w88bkk.com^
@@ -5624,6 +5664,7 @@
 ||sin88.cc^
 ||sin88.club^
 ||sin88.mobi^
+||sin88.uk^
 ||sin88.us^
 ||sin88.vip^
 ||sin88.win^
@@ -5710,8 +5751,10 @@
 ||sv388.cam^
 ||sv388.cloud^
 ||sv388.com^
+||sv388.kim^
 ||sv388.mobi^
 ||sv388.net^
+||sv388live.com^
 ||sv388tructiep.com^
 ||sv66c.com^
 ||sv66s.com^
@@ -5729,6 +5772,7 @@
 ||svvs388.com^
 ||svvv288.com^
 ||svvv388.com^
+||svw38.com^
 ||t.mibet.com^
 ||t0gvf.com^
 ||t1.ta88.com^
@@ -5834,6 +5878,10 @@
 ||thevw155.com^
 ||thk8.net^
 ||tho77.com^
+||thomo360.com^
+||thomo888.net^
+||thomohomnay.com^
+||thugian88.com^
 ||thuonghieunhacai.com^
 ||thuonghieunhacai.net^
 ||thuongkingfun.biz^
@@ -5845,6 +5893,7 @@
 ||tintuc.vlott88.com^
 ||tipkeo.thethaofb88.com^
 ||tipkeomoingay.club^
+||tiptoday.com^
 ||tj77.vip^
 ||tjb11.net^
 ||tjb15.net^
@@ -5853,6 +5902,7 @@
 ||tk88g.com^
 ||to188xj.com^
 ||tobet88.net^
+||tongga88.com^
 ||tool.mibet.com^
 ||top.bet20.bet^
 ||top88.club^
@@ -5862,6 +5912,7 @@
 ||top88.us^
 ||top88.vn^
 ||top88vn.net^
+||top9nhacai.top^
 ||topcc88.me^
 ||topdoithuong.net^
 ||topnohu.com^
@@ -5869,6 +5920,7 @@
 ||tpviet88.com^
 ||tracking.fabet.vip^
 ||tracking.zbet.vn^
+||traiga.vn^
 ||traigacam.com^
 ||trangchu.app^
 ||trangchu.vip^
@@ -5876,6 +5928,7 @@
 ||trangchu2b.com^
 ||trangchu2c.com^
 ||trangchu2d.com^
+||tructiepdaga.info^
 ||trungso.vip^
 ||trunk.websvn.info^
 ||truyenthongthongtin.com^
@@ -6068,6 +6121,7 @@
 ||vue.ooooooo2.com^
 ||vui.fun^
 ||vuicungk8.com^
+||vuigiaitri.online^
 ||vw109.com^
 ||vw115.com^
 ||vw2.co^
@@ -6380,6 +6434,7 @@
 ||www.bong88net.com^
 ||www.bong99.fun^
 ||www.boom66.com^
+||www.bwing88.com^
 ||www.bwingmkt1.com^
 ||www.bwingmkt8.com^
 ||www.cacuoc247.com^
@@ -6661,6 +6716,7 @@
 ||www.thabet88.info^
 ||www.thabet88.vip^
 ||www.thethaofb88.com^
+||www.thugian88.com^
 ||www.tin010.com^
 ||www.tjb11.net^
 ||www.tjb15.net^
@@ -6792,7 +6848,9 @@
 ||x8vn.com^
 ||x8vn.top^
 ||xemdabanh.club^
+||xemdaga.tv^
 ||xemdaga24h.com^
+||xemdagacampuchia.com^
 ||xemkeo188.com^
 ||xemtv.info^
 ||xemtv.live^
