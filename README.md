@@ -12,7 +12,7 @@ filters:
     name: 'AdAway Default Blocklist'
 
   - enabled: true
-    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_22.txt
+    url: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt
     name: 'IDN: ABPindo'
 
   - enabled: true
