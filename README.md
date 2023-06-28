@@ -4,11 +4,11 @@
 ```yml
 filters:
   - enabled: true
-    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
+    url: https://raw.githubusercontent.com/miracle-desk/AdGuardHome_domain-filter/main/filter_AdGuard-DNS.txt
     name: 'AdGuard DNS filter'
 
   - enabled: true
-    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_2.txt
+    url: https://raw.githubusercontent.com/miracle-desk/AdGuardHome_domain-filter/main/filter_AdAway.txt
     name: 'AdAway Default Blocklist'
 
   - enabled: true
@@ -16,15 +16,19 @@ filters:
     name: 'IDN: ABPindo'
 
   - enabled: true
-    url: https://raw.githubusercontent.com/miracle-desk/AdGuardHome_domain-filter/main/Malicious-hosts.txt
+    url: https://raw.githubusercontent.com/miracle-desk/AdGuardHome_domain-filter/main/filter_Malicious-hosts.txt
     name: 'Malicious-hosts'
 
   - enabled: true
-    url: https://raw.githubusercontent.com/miracle-desk/AdGuardHome_domain-filter/main/Malicious-ipv4.txt
+    url: https://raw.githubusercontent.com/miracle-desk/AdGuardHome_domain-filter/main/filter_Malicious-ipv4.txt
     name: 'Malicious-ipv4'
+
+  - enabled: true
+    url: https://raw.githubusercontent.com/miracle-desk/AdGuardHome_domain-filter/main/filter_oisd-full.txt
+    name: 'OISD Blocklist Big'
     
   - enabled: true
-    url: https://raw.githubusercontent.com/miracle-desk/AdGuardHome_domain-filter/main/StevenBlackList-gambling-fakenews-only.txt
+    url: https://raw.githubusercontent.com/miracle-desk/AdGuardHome_domain-filter/main/filter_StevenBlackList-gambling-fakenews-only.txt
     name: 'StevenBlackList-gambling-fakenews-only'
 ```
 ## Pengaturan DNS
