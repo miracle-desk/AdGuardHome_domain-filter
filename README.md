@@ -32,7 +32,7 @@ filters:
     name: 'StevenBlackList-gambling-fakenews-only'
 ```
 ## Pengaturan DNS
-Standard Regular DNS servers which provide protection from phishing and spyware. They include blocklists, DNSSEC validation, and other security features
+Standard Regular DNS servers
 #### server DNS hulu
 ```yml
 https://dns.cloudflare.com/dns-query
