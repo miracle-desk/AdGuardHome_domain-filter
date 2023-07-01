@@ -38,9 +38,7 @@ Standard Regular DNS servers which provide protection from phishing and spyware.
 ```yml
 https://dns.cloudflare.com/dns-query
 https://dns.google/dns-query
-https://dns.quad9.net/dns-query
 tls://dns.google
-tls://dns.quad9.net
 ```
 #### server DNS bootstrap
 ```yml
@@ -52,9 +50,5 @@ tls://dns.quad9.net
 8.8.4.4
 2001:4860:4860::8888
 2001:4860:4860::8844
-9.9.9.9
-149.112.112.112
-2620:fe::fe
-2620:fe::fe:9
 ```
 
