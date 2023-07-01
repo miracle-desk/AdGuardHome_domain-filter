@@ -2,7 +2,7 @@ name: Update domain-filter.yml
 
 on:
   schedule:
-    - cron:  '0 1 * * *' # update setiap 2 hari sekali
+    - cron:  '0 1 * * *'
   workflow_dispatch:
 
 jobs:
