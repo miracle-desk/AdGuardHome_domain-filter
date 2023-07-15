@@ -34,7 +34,7 @@ filters:
 ## Pengaturan DNS
 Standard Regular DNS servers
 #### server DNS hulu
-`https://adguard-dns.io/kb/general/dns-providers/?clid=EksnWn--1tGt9Z--wWTQSv--P3CDXC--A2JJwd--X84IFW--ODXqSW--q1wGpY--fVeSc0--XBz04h--2JBENI--hDHFEk--W9riq5&utm_campaign=dns_kb_providers&utm_medium=ui&utm_source=home`
+##### https://adguard-dns.io/kb/general/dns-providers/?clid=EksnWn--1tGt9Z--wWTQSv--P3CDXC--A2JJwd--X84IFW--ODXqSW--q1wGpY--fVeSc0--XBz04h--2JBENI--hDHFEk--W9riq5&utm_campaign=dns_kb_providers&utm_medium=ui&utm_source=home
 ```yml
 https://dns.cloudflare.com/dns-query
 https://dns.google/dns-query
