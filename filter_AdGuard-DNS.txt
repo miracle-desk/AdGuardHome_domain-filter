@@ -1,7 +1,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Last modified: 2023-07-15T00:24:00.686Z
+! Last modified: 2023-07-16T00:26:47.914Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11,7 +11,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Last modified: 2023-07-15T00:02:52.025Z
+! Last modified: 2023-07-16T00:02:58.242Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -29,6 +29,9 @@
 !
 !
 !
+||foliosedunlin.guru^
+||impunekotoite.com^
+||excellentvids.space^
 ||pariatonet.com^
 ||mqnrrawj.com^
 ||wchctzzkzkhx.com^
@@ -3890,6 +3893,7 @@ vkcdnservice.appspot.com^
 ||allactualstories.com^
 ||allayravage.com^
 ||allcommonblog.com^
+||allcommonstories.com^
 ||allcoolnewz.com^
 ||allcoolposts.com^
 ||allegationhamperexit.com^
@@ -8559,6 +8563,7 @@ vkcdnservice.appspot.com^
 ||degaswassail.website^
 ||degeronium.com^
 ||deggerfletton.com^
+||deghooda.net^
 ||degmfmog.xyz^
 ||degrainbro.website^
 ||degutu.xyz^
@@ -10036,6 +10041,7 @@ vkcdnservice.appspot.com^
 ||eputysolomon.com^
 ||eqacypykxa.com^
 ||eqads.com^
+||equabilityassortshrubs.com^
 ||equabilitythereupon.com^
 ||equesk.com^
 ||equilibriumindifferentsoak.com^
@@ -12588,6 +12594,7 @@ vkcdnservice.appspot.com^
 ||highrevenuegate.com^
 ||hightopnews.com^
 ||hightopnewstoday.com^
+||highwaycpmrevenue.com^
 ||highwaydizzy.com^
 ||higseres.com^
 ||hikvar.ru^
@@ -12958,6 +12965,7 @@ vkcdnservice.appspot.com^
 ||hypogeeinial.com^
 ||hypogynbalker.com^
 ||hypoot.com^
+||hypots.com^
 ||hypozoabytes.life^
 ||hyrcanquittor.com^
 ||hyrewusha.pro^
@@ -14300,6 +14308,7 @@ vkcdnservice.appspot.com^
 ||kmapagpkik.com^
 ||kmkixuha.com^
 ||kmmsfoqbhc.xyz^
+||kmodukuleqasfo.info^
 ||kmqkdhqaqt.com^
 ||kmyunderthf.info^
 ||knackseafood.com^
@@ -16212,6 +16221,7 @@ vkcdnservice.appspot.com^
 ||mpsqvsylctp.com^
 ||mpsuadv.ru^
 ||mptentry.com^
+||mptgate.com^
 ||mpununmrsiur.com^
 ||mqabjtgli.xyz^
 ||mqarrenothanca.xyz^
@@ -16891,6 +16901,7 @@ vkcdnservice.appspot.com^
 ||nosebleedlonerdays.com^
 ||nossairt.net^
 ||nosselaune.space^
+||nostormidentification.com^
 ||nostromedia.com^
 ||notabilitysedative.com^
 ||notablynationality.com^
@@ -21166,6 +21177,7 @@ vkcdnservice.appspot.com^
 ||sandcomemunicat.info^
 ||sandelf.com^
 ||sandflyligules.com^
+||sandyconference.com^
 ||sanggilregard.com^
 ||sangogne.com^
 ||sanhitaamerce.uno^
@@ -23754,6 +23766,7 @@ vkcdnservice.appspot.com^
 ||toogeepaun.com^
 ||toolsthwartgrim.com^
 ||toolsyjejune.com^
+||toolsyjejunen.com^
 ||toomeepi.xyz^
 ||toonoost.net^
 ||toorebutheh.xyz^
@@ -25951,6 +25964,7 @@ vkcdnservice.appspot.com^
 ||wmober.com^
 ||wmolgnjo.xyz^
 ||wmptctl.com^
+||wmpuem.com^
 ||wndvcmyrqwnbdy.xyz^
 ||wnjjhksaue.com^
 ||wnp.com^
@@ -45779,8 +45793,8 @@ inapps.appsflyersdk.com^
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-06-29 06:43:55 CEST
-# entries:        1113
+# last updated:   2023-07-15 20:37:05 CEST
+# entries:        1156
 # format:         hosts (hosts -- in hosts file format)
 ||1terms.com^
 ||a.zxcvads.com^
@@ -46218,6 +46232,48 @@ inapps.appsflyersdk.com^
 ||tracking.ditv.di.se^
 ||tracking.di.se^
 ||tracking.dn.se^
+||tracking.etidning.allehanda.se^
+||tracking.etidning.arbetarbladet.se^
+||tracking.etidning.avestatidning.com^
+||tracking.etidning.bblat.se^
+||tracking.etidning.borlangetidning.se^
+||tracking.etidning.dalademokraten.se^
+||tracking.etidning.di.se^
+||tracking.etidning.dn.se^
+||tracking.etidning.falkopingstidning.se^
+||tracking.etidning.falukuriren.se^
+||tracking.etidning.gd.se^
+||tracking.etidning.hd.se^
+||tracking.etidning.ht.se^
+||tracking.etidning.jp.se^
+||tracking.etidning.ljusdalsposten.se^
+||tracking.etidning.ljusnan.se^
+||tracking.etidning.ltz.se^
+||tracking.etidning.lt.se^
+||tracking.etidning.moratidning.se^
+||tracking.etidning.na.se^
+||tracking.etidning.norrteljetidning.se^
+||tracking.etidning.nyaludvikatidning.se^
+||tracking.etidning.nynashamnsposten.se^
+||tracking.etidning.op.se^
+||tracking.etidning.salaallehanda.com^
+||tracking.etidning.skaraborgslanstidning.se^
+||tracking.etidning.skd.se^
+||tracking.etidning.skovdenyheter.se^
+||tracking.etidning.smalandsdagblad.se^
+||tracking.etidning.smalanningen.se^
+||tracking.etidning.smt.se^
+||tracking.etidning.soderhamnskuriren.se^
+||tracking.etidning.sodran.se^
+||tracking.etidning.st.nu^
+||tracking.etidning.sydsvenskan.se^
+||tracking.etidning.tidningenangermanland.se^
+||tracking.etidning.tidningenharjedalen.se^
+||tracking.etidning.tranastidning.se^
+||tracking.etidning.vastgotabladet.se^
+||tracking.etidning.vetlandaposten.se^
+||tracking.etidning.vlt.se^
+||tracking.etidning.vn.se^
 ||tracking.falkopingstidning.se^
 ||tracking.falukuriren.se^
 ||tracking.fasab6f.se^
@@ -46261,6 +46317,7 @@ inapps.appsflyersdk.com^
 ||tracking.visitorsvoice.com^
 ||tracking.vlt.se^
 ||tracking.vn.se^
+||tracking.etidning.fagersta-posten.se^
 ||tracking.fagersta-posten.se^
 ||traffic.feedremedy.com^
 ||trafikstyrelsen.com^
@@ -47500,8 +47557,10 @@ inapps.appsflyersdk.com^
 ||bdates.fun^
 ||berylnbb.com^
 ||betcss.site^
+||bifyeldv.top^
 ||bkhblj.xyz^
 ||boewgph.icu^
+||bttazsyk.icu^
 ||caider.fun^
 ||chiese.site^
 ||ciadre.fun^
@@ -47543,11 +47602,13 @@ inapps.appsflyersdk.com^
 ||hypwbv.xyz^
 ||hzhabei.cn^
 ||ipadf.xyz^
+||iplm.cc^
 ||jdcnwd.com^
 ||jhzfwl.cn^
 ||jokerlulm.com^
 ||jpqed.xyz^
 ||jrmrijv.icu^
+||jszavs1.com^
 ||jujcjz.xyz^
 ||kahgjjd.com^
 ||kgeesh.site^
@@ -47561,6 +47622,7 @@ inapps.appsflyersdk.com^
 ||lwide.xyz^
 ||metaversemolecule.com^
 ||moobtcnse.xyz^
+||ngbthf.xyz^
 ||nieae.xyz^
 ||nryqr.cn^
 ||oifyeldk.top^
@@ -47569,9 +47631,12 @@ inapps.appsflyersdk.com^
 ||pcvzpj.xyz^
 ||pirxzl.xyz^
 ||plbs9k.icu^
+||pmxalz.xyz^
 ||powedw.com^
 ||pstvvb.xyz^
 ||qifyeldy.top^
+||qqnde.xyz^
+||qselic.top^
 ||rdufuxr.icu^
 ||relafp.xyz^
 ||ronbbf.xyz^
@@ -47582,6 +47647,7 @@ inapps.appsflyersdk.com^
 ||ssjuxsc.cn^
 ||tgbevv.xyz^
 ||tifyeldi.top^
+||tmwbszn.icu^
 ||tqdctl.xyz^
 ||uejdsw.com^
 ||ulojlvmejkaem.xyz^
@@ -47599,12 +47665,14 @@ inapps.appsflyersdk.com^
 ||zcvyzsyd.icu^
 ||zerolcp.cn^
 ||zfcdirf.icu^
-||jszavs1.com^
-||tmwbszn.icu^
-||qselic.top^
-||pmxalz.xyz^
-||qqnde.xyz^
-||ngbthf.xyz^
+||dojyiu8.com^
+||btescs.fun^
+||rabuagc.cn^
+||dyeperd.icu^
+||xjzyhp.xyz^
+||ewfsef.com^
+||allcp.xyz^
+||nqdufv.xyz^
 ||zfteiv.xyz^
 ||ziravd.xyz^
 ||zonyff.xyz^
