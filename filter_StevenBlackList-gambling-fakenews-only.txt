@@ -2414,6 +2414,7 @@
 ||b52.vip^
 ||b52.win^
 ||b52d.club^
+||b52k.club^
 ||b88ag.com^
 ||b89.bet^
 ||banca-red88.top^
@@ -2469,6 +2470,8 @@
 ||big88.one^
 ||bigbet0015.com^
 ||bigbet2258.com^
+||bigboss23.com^
+||bigboss93.com^
 ||bigk8th888.com^
 ||bk368.com^
 ||bk8.live^
@@ -2845,6 +2848,7 @@
 ||f6.macauclub.fun^
 ||f6.playv8.vip^
 ||f8bet.com^
+||f8bet.games^
 ||f8bet.homes^
 ||f8bet.site^
 ||f8bet.win^
@@ -3053,6 +3057,7 @@
 ||happynb.com^
 ||hb88017.com^
 ||hb88031.com^
+||hb88032.com^
 ||hb8864.com^
 ||hb8875.com^
 ||hb8887.com^
@@ -3067,6 +3072,8 @@
 ||hi88vip8.com^
 ||hiephoilangnghevietnam.com^
 ||hit1.club^
+||hit32.club^
+||hit68.net^
 ||hl8.daily123hl8.com^
 ||hl8atm.com^
 ||hl8bai.com^
@@ -3100,6 +3107,7 @@
 ||i9bet.net^
 ||i9bet.poker^
 ||i9bet.vip^
+||i9bet07.com^
 ||i9bet1.com^
 ||i9bet10.com^
 ||i9bet100.com^
@@ -3235,6 +3243,7 @@
 ||iwin.club^
 ||iwin.info^
 ||iwin.us^
+||iwin10.club^
 ||iwin58.vip^
 ||iwin6699.com^
 ||iwin68m.com^
@@ -4834,6 +4843,7 @@
 ||maffiliate.w88club.com^
 ||maint.v79top.com^
 ||man.club^
+||manclub.fun^
 ||manclub.live^
 ||manclub.us^
 ||manclub.vin^
@@ -4859,6 +4869,7 @@
 ||may88vn.top^
 ||mayclub.net^
 ||mayman.vuabai9.com^
+||mb88.bet^
 ||mb88.com^
 ||mbx88.com^
 ||mc.bong99.com^
@@ -4973,6 +4984,7 @@
 ||nhat.bet^
 ||nhat.game^
 ||nhat.it^
+||nhat1.club^
 ||nhatvip.mobi^
 ||nhatvip.org^
 ||nhatvip.us^
@@ -5055,6 +5067,7 @@
 ||play.go88.im^
 ||play.go88.vip^
 ||play.go88s.tv^
+||play.hit68.net^
 ||play.manclub.vin^
 ||play.nemo.vin^
 ||play.playiwin.biz^
@@ -5182,6 +5195,7 @@
 ||rik.top^
 ||rik.vip^
 ||rik.win^
+||rik6.com^
 ||rikbet789.club^
 ||rikgame.live^
 ||rikk.us^
@@ -5330,6 +5344,7 @@
 ||sum4.club^
 ||sun.to^
 ||sun.win^
+||sun13.win^
 ||sun52.bid^
 ||sun52.click^
 ||sun52.tv^
@@ -5472,6 +5487,7 @@
 ||thabet88.co^
 ||thabet88.info^
 ||thabet88.vip^
+||thaifastpay.top^
 ||thaik8.net^
 ||thailandk8.com^
 ||thailandk8.net^
@@ -5553,6 +5569,7 @@
 ||top9nhacai.top^
 ||topcc88.me^
 ||topdoithuong.net^
+||topnhacaihot.com^
 ||topnohu.com^
 ||tpviet66.com^
 ||tpviet88.com^
@@ -5657,6 +5674,7 @@
 ||vig.vietbet.eu^
 ||vin168.com^
 ||vin68.com^
+||vin777.work^
 ||vinalottery.com^
 ||vip.8kbet.vn^
 ||vip.dangkyrikvip.tv^
@@ -5917,6 +5935,7 @@
 ||win79.download^
 ||win79.pro^
 ||win79.vip^
+||win79a.com^
 ||win79play.me^
 ||win86.info^
 ||win88.me^
@@ -6189,6 +6208,7 @@
 ||www.goal86.top^
 ||www.h3bet.com^
 ||www.happynb.com^
+||www.hb88032.com^
 ||www.hb8864.com^
 ||www.hb8887.com^
 ||www.hb88g.com^
@@ -6291,6 +6311,7 @@
 ||www.manclub.vin^
 ||www.mansion66.com^
 ||www.may88.club^
+||www.mb88.bet^
 ||www.mbx88.com^
 ||www.mc876.com^
 ||www.me88vn1.com^
@@ -6390,6 +6411,7 @@
 ||www.thabet88.co^
 ||www.thabet88.info^
 ||www.thabet88.vip^
+||www.thaifastpay.top^
 ||www.thethaofb88.com^
 ||www.thugian88.com^
 ||www.tin010.com^
@@ -6600,6 +6622,7 @@
 ||zo.club^
 ||zo.game^
 ||zo1.win^
+||zo2.win^
 ||zo88.org^
 ||zowinvn.vip^
 ||ztij6.com^
