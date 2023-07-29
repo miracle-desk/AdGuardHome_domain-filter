@@ -2415,6 +2415,7 @@
 ||b52.win^
 ||b52d.club^
 ||b52k.club^
+||b52vn.org^
 ||b88ag.com^
 ||b89.bet^
 ||banca-red88.top^
@@ -5058,6 +5059,7 @@
 ||piwik.88thaicasinoslots.com^
 ||pkwin1.com^
 ||play.b52.win^
+||play.b52vn.org^
 ||play.bom52.club^
 ||play.bum3.club^
 ||play.choisport.com^
@@ -5273,6 +5275,7 @@
 ||sin88bet.vip^
 ||sin88s.com^
 ||sin88vao.com^
+||sinbet.vip^
 ||sky88.bet^
 ||sky88.com^
 ||sky88.fun^
@@ -6378,6 +6381,7 @@
 ||www.sin88.biz^
 ||www.sin88.club^
 ||www.sin88s.com^
+||www.sinbet.vip^
 ||www.sky88.win^
 ||www.socvip9.club^
 ||www.sodo109.com^
