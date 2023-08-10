@@ -1,7 +1,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Last modified: 2023-08-09T00:21:09.152Z
+! Last modified: 2023-08-10T00:20:54.040Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11,7 +11,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Last modified: 2023-08-09T00:02:39.324Z
+! Last modified: 2023-08-10T00:02:37.528Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -29,6 +29,7 @@
 !
 !
 !
+||gastersliddry.com^
 ||anemenzemkwkm.top^
 ||ginsicih.xyz^
 ||manoirshrine.com^
@@ -11854,7 +11855,6 @@ vkcdnservice.appspot.com^
 ||get-things-done.net^
 ||get2m5sgstohne.com^
 ||get2nesoft1.ru^
-||getadjacent.com^
 ||getadx.com^
 ||getalltraffic.com^
 ||getapo.com^
@@ -13394,7 +13394,6 @@ vkcdnservice.appspot.com^
 ||hypozoabytes.life^
 ||hyrcanquittor.com^
 ||hyrewusha.pro^
-||hyros.com^
 ||hystericalpotprecede.com^
 ||hystrixcreped.com^
 ||hzkachqd.com^
@@ -28893,6 +28892,7 @@ vkcdnservice.appspot.com^
 ||hotelscombined.com.au^
 ||hprofits.com^
 ||httpool.com^
+||hyros.com^
 ||ibannerexchange.com^
 ||ibillboard.com^
 ||icorp.ro^
@@ -34520,6 +34520,7 @@ vkcdnservice.appspot.com^
 ! More info: https://getadmiral.com/products/measure
 ! Add same rules to the Admiral section of Annoyances filter
 !
+||parentpicture.com^
 ||suspectmark.com^
 ||daughterstone.com^
 ||boundlessveil.com^
@@ -36493,7 +36494,6 @@ vkcdnservice.appspot.com^
 ||data.mob.com^
 ||datacollect*.abtasty.com^
 ||dbfukofby5ycr.cloudfront.net^
-||dc.tremormedia.com^
 ||dc8xl0ndzn2cb.cloudfront.net^
 ||dcs.maxthon.com^
 ||dct.mango-office.ru^
@@ -36503,7 +36503,6 @@ vkcdnservice.appspot.com^
 ||deliver.oztam.com.au^
 ||delog.afreecatv.com^
 ||detwzgl8cvciv.cloudfront.net^
-||device-analytics.rollout.io^
 ||device-metrics-us*.amazon.com^
 ||df.tanx.com^
 ||discovery-script.newspic.kr^
@@ -37301,15 +37300,10 @@ vkcdnservice.appspot.com^
 ||stats.propublica.org^
 ||stats.pusher.com^
 ||stats.qmerce.com^
-||stats.radiostreamlive.com^
-||stats.rutracker.ga^
 ||stats.searchftps.net^
 ||stats.searchftps.org^
-||stats.searchsight.com^
 ||stats.sharenet.co.za^
 ||stats.shopify.com^
-||stats.simply-hentai.com^
-||stats.slashgear.com^
 ||stats.slideshare.net^
 ||stats.someecards.com^
 ||stats.storify.com^
@@ -38931,7 +38925,6 @@ inapps.appsflyersdk.com^
 ||getpublica.com^
 ||getrockerbox.com^
 ||getviously.com^
-||gglscr.online^
 ||giddyuptrk.com^
 ||gim.co.il^
 ||glassboxcdn.com^
@@ -39302,7 +39295,6 @@ inapps.appsflyersdk.com^
 ||trackingca.com^
 ||trackingpro.pro^
 ||trackmethod.com^
-||trackmstr.com^
 ||trackmytarget.com^
 ||trackmyusers.com^
 ||trackonomics.net^
@@ -40244,7 +40236,6 @@ inapps.appsflyersdk.com^
 ||click.appinthestore.com^
 ||click360v2-ingest.azurewebsites.net^
 ||clicks.tyuwq.com^
-||clicktale.pantherssl.com^
 ||clickthru.lefbc.com^
 ||clicktracker.iscan.nl^
 ||client-logger.salemove.com^
@@ -41453,7 +41444,6 @@ inapps.appsflyersdk.com^
 ! Czech
 ||a.centrum.cz^
 ||bisko.mall.tv^
-||bnr.alza.cz^
 ||counter.cnw.cz^
 ||h.imedia.cz^
 ||hit.skrz.cz^
@@ -41479,7 +41469,6 @@ inapps.appsflyersdk.com^
 ||statistics.rbi-nl.com^
 ||trkr.shoppingminds.net^
 ||dnt-userreport.com^
-||insight.fonecta.fi^
 ||tags.op-palvelut.fi^
 ! Georgian
 ||links.boom.ge^
@@ -41622,7 +41611,6 @@ inapps.appsflyersdk.com^
 ||ctx.citiservi.es^
 ||datanoticias.prisasd.com^
 ||g-stats.openhost.es^
-||hits.eluniversal.com.mx^
 ||mat.socy.es^
 ||mtm.qdqmedia.com^
 ||pub.servidoresge.com^
@@ -41814,6 +41802,7 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||voidnetwork.cloud^
 ||tds.bid^
 ||streetuptowind.com^
 ||sarafan.fun^
@@ -48789,11 +48778,14 @@ inapps.appsflyersdk.com^
 ||89mtdab.xyz^
 ||a8age.com^
 ||a9able.com^
+||aaenv48847h.com^
 ||abdluv.xyz^
 ||abrnfctkn.xyz^
 ||akdie.xyz^
 ||allcp.xyz^
 ||amerzbj.cn^
+||aqvwn18102h.com^
+||b4g7k9d2.com^
 ||baiduisjkbvsjkl.com^
 ||baiduvjsbvjknlsvsv.com^
 ||baitaiz.com^
@@ -48858,12 +48850,14 @@ inapps.appsflyersdk.com^
 ||dojyiu8.com^
 ||donchen501.cn^
 ||dosre12.xyz^
+||dqjojx.xyz^
 ||dstbekdf.xyz^
 ||dstbunkfw.xyz^
 ||dwfjtz.xyz^
 ||dyeperd.icu^
 ||dzkwj0y.xyz^
 ||eamqbaqzaewwq.top^
+||ebscb0l.xyz^
 ||eers0cy.com^
 ||eghyahl.cn^
 ||eheb8.cn^
@@ -48907,6 +48901,7 @@ inapps.appsflyersdk.com^
 ||gyq3bew.icu^
 ||gyutmrp.com^
 ||hacde3.icu^
+||haffo70.com^
 ||hanwdsii.com^
 ||hasgde.site^
 ||hbqabbg.cn^
@@ -48940,6 +48935,7 @@ inapps.appsflyersdk.com^
 ||hujunhao.name^
 ||huoju.asia^
 ||hxhohd.xyz^
+||hxinitv.icu^
 ||hyeqp.xyz^
 ||hypwbv.xyz^
 ||hzhabei.cn^
@@ -49019,6 +49015,7 @@ inapps.appsflyersdk.com^
 ||metaversemolecule.com^
 ||mifyeldx.top^
 ||misapopait.com^
+||mkjnba.com^
 ||mkjnbg.com^
 ||mkjnha.com^
 ||mmead.xyz^
@@ -49117,11 +49114,13 @@ inapps.appsflyersdk.com^
 ||thesac2.top^
 ||thesac7.top^
 ||tifyeldi.top^
+||tknkfd.xyz^
 ||tlprlf.xyz^
 ||tmwbszn.icu^
 ||tptp002.cfd^
 ||tpvuxt.xyz^
 ||tqdctl.xyz^
+||tseda1.icu^
 ||tseda6.icu^
 ||ttykabh.icu^
 ||tushwjp.icu^
@@ -49140,6 +49139,7 @@ inapps.appsflyersdk.com^
 ||vcydyzd.icu^
 ||vghnnh.xyz^
 ||vhjxrj.xyz^
+||vlgkotr.cn^
 ||vmdlxj.xyz^
 ||vnfsbl.xyz^
 ||vpsgu.cn^
@@ -49169,6 +49169,7 @@ inapps.appsflyersdk.com^
 ||xlvqhx.xyz^
 ||xmawwbz.icu^
 ||xmxupz.xyz^
+||xn--jvrp4x1zyfta.net^
 ||xn--zw0autp42d.cn^
 ||xpcwrgy.cn^
 ||xpicj1.cc^
@@ -49177,6 +49178,7 @@ inapps.appsflyersdk.com^
 ||xukang09.cn^
 ||xukou.net^
 ||yegziyf.cn^
+||ygzqlnt.cn^
 ||yhhnjg.com^
 ||yjnhkd.com^
 ||yjnhndt.com^
@@ -49198,12 +49200,12 @@ inapps.appsflyersdk.com^
 ||ziravd.xyz^
 ||znyjmbh.icu^
 ||zonyff.xyz^
-||haffo70.com^
-||vlgkotr.cn^
-||tseda1.icu^
-||hxinitv.icu^
-||mkjnba.com^
-||dqjojx.xyz^
+||bavde3.icu^
+||xkmwxwy.cn^
+||5ggj5cp.com^
+||dalmfn.xyz^
+||lokngd.com^
+||pjsbuhl.icu^
 ||zxrcfw.com^
 ||zypzzv.xyz^
 ||01fen.com^
@@ -55314,7 +55316,10 @@ analytics-*.aasaam.com
 ||stats.europe.newsweek.com^
 ||stats.eyeviewdigital.com^
 ||stats.farfetch.com^
+||stats.radiostreamlive.com^
 ||stats.redditmedia.com^
+||stats.searchsight.com^
+||stats.slashgear.com^
 ||stats.thevideo.me^
 ||stats.wwitv.com^
 ||t.delfi.
