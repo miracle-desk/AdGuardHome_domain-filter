@@ -2387,6 +2387,10 @@
 ||api.vnq8.net^
 ||api.vx88.com^
 ||api2-gateway.go88.com^
+||api4.hit1.co^
+||api4.taitx1.club^
+||api6.hit1.co^
+||api6.taitx1.club^
 ||apicmsdl.loc89.fun^
 ||apiproxy.12b99.com^
 ||app.228kbet.com^
@@ -2416,6 +2420,7 @@
 ||b52.win^
 ||b52d.club^
 ||b52k.club^
+||b52m.club^
 ||b52vn.org^
 ||b88ag.com^
 ||b89.bet^
@@ -2645,6 +2650,7 @@
 ||cuoc88.net^
 ||cuoc8899.com^
 ||cuoc8live.com^
+||cuocb52.me^
 ||cuocba.com^
 ||cuocbanh88.com^
 ||cuocbanh88.net^
@@ -3044,6 +3050,7 @@
 ||go88s.tv^
 ||go88vn.live^
 ||go88vn.vip^
+||go88x.club^
 ||goal123.com^
 ||goal68.com^
 ||goal68.net^
@@ -3080,6 +3087,7 @@
 ||hi88vip8.com^
 ||hiephoilangnghevietnam.com^
 ||hit1.club^
+||hit1.co^
 ||hit32.club^
 ||hit68.net^
 ||hl8.daily123hl8.com^
@@ -3095,6 +3103,7 @@
 ||hl8vi.com^
 ||hl8vn.fun^
 ||hm.fabet.vip^
+||hoahao.vip^
 ||hot51.com^
 ||hotlive.in^
 ||hotlive8.vip^
@@ -3249,6 +3258,7 @@
 ||inhotvw.com^
 ||interwinvn.com^
 ||ios.v99win.app^
+||ip.cuocb52.me^
 ||iwiin.club^
 ||iwin.club^
 ||iwin.info^
@@ -5070,6 +5080,7 @@
 ||piwik.88thaicasinoslots.com^
 ||pkwin1.com^
 ||play.b52.win^
+||play.b52m.club^
 ||play.b52vn.org^
 ||play.bom52.club^
 ||play.bum3.club^
@@ -5080,6 +5091,7 @@
 ||play.go88.im^
 ||play.go88.vip^
 ||play.go88s.tv^
+||play.hit1.co^
 ||play.hit68.net^
 ||play.manclub.vin^
 ||play.nemo.vin^
@@ -5256,6 +5268,7 @@
 ||sam86vip.tv^
 ||sam86vip.vin^
 ||samvip.bet^
+||sanos.fun^
 ||sasa889.com^
 ||sbc2888.live^
 ||sbc31.com^
@@ -5301,6 +5314,7 @@
 ||sky88.uk^
 ||sky88.win^
 ||sky88vao.club^
+||skyclub.city^
 ||sm611.com^
 ||sm66.news^
 ||smart.8live.com^
@@ -5473,8 +5487,10 @@
 ||taimanclub.com^
 ||tainbet.net^
 ||taiok88.app^
+||taiskyclub.online^
 ||taisum.co^
 ||taisun52.live^
+||taitx1.club^
 ||taiuk88.net^
 ||taiv8.com^
 ||taiv8.info^
@@ -5626,6 +5642,7 @@
 ||tx.king96.net^
 ||tx.socvip.com^
 ||tx.socvip9.club^
+||tx1.vip^
 ||tz.bet20.bet^
 ||tzzxt.com^
 ||ud1a.com^
