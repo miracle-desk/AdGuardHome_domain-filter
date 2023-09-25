@@ -1,7 +1,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Last modified: 2023-09-24T00:19:19.195Z
+! Last modified: 2023-09-25T00:18:27.596Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11,7 +11,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Last modified: 2023-09-24T00:02:44.297Z
+! Last modified: 2023-09-25T00:02:22.799Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -29,6 +29,8 @@
 !
 !
 !
+||ebdokvydrvqvrak.xyz^
+||koojaith.xyz^
 ||mwbrnpmixxtu.com^
 ||ofdxfsho.com^
 ||zdxcuchr.com^
@@ -48991,6 +48993,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||lokalwerben.t-online.de^
 ||quartermedia-ad-service.net^
 ||ad.dl.mainpost.de^
 ||plx.eispop.com^
@@ -49730,8 +49733,8 @@ inapps.appsflyersdk.com^
 # Aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-09-08 09:22:59 CEST
-# entries:        1182
+# last updated:   2023-09-24 12:49:41 CEST
+# entries:        1183
 # format:         hosts (hosts -- in hosts file format)
 ||1terms.com^
 ||a.zxcvads.com^
@@ -49939,6 +49942,7 @@ inapps.appsflyersdk.com^
 ||greatstoryvideo.se^
 ||gtm.findroommate.dk^
 ||gtm.proff.se^
+||gtm.stampenmedia.se^
 ||gwen.insertcoin.se^
 ||gymsharksverige.com.se^
 ||gym-shark-sverige.com.se^
@@ -51491,6 +51495,7 @@ inapps.appsflyersdk.com^
 ! Source name: EasyList China ad servers
 !
 ||asd8900.oss-*.aliyuncs.com^
+||ky891.oss-*.aliyuncs.com^
 ||tupian888.*.bcebos.com^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
@@ -51525,6 +51530,7 @@ inapps.appsflyersdk.com^
 ||777aa999aa.com^
 ||777zz777zz.com^
 ||789peizi.com^
+||7ohy3f.cn^
 ||7xixi.site^
 ||81wx.info^
 ||8861198.com^
@@ -51556,6 +51562,7 @@ inapps.appsflyersdk.com^
 ||appaaaddd.com^
 ||aqvwn18102h.com^
 ||arpg2.com^
+||asclan.icu^
 ||asdyui16.cn^
 ||atdlbgx.xyz^
 ||availablesshaother.com^
@@ -51919,6 +51926,7 @@ inapps.appsflyersdk.com^
 ||jutwzssh.icu^
 ||jvjlkih.com^
 ||jweoe.xyz^
+||jwltpv.xyz^
 ||jwylcrb.cn^
 ||jxmiyrh.icu^
 ||jxtejf.xyz^
@@ -51964,6 +51972,7 @@ inapps.appsflyersdk.com^
 ||lamkghx.icu^
 ||lanver.fun^
 ||lbnqnp.xyz^
+||lctcbtly.xyz^
 ||ldjhlqr.cn^
 ||leadc4.icu^
 ||legdeh.fun^
@@ -52019,6 +52028,7 @@ inapps.appsflyersdk.com^
 ||mkjnba.com^
 ||mkjnbg.com^
 ||mkjnha.com^
+||mlhdvjv.xyz^
 ||mmead.xyz^
 ||mnhknds.com^
 ||mnpbxjq.cn^
@@ -52031,6 +52041,7 @@ inapps.appsflyersdk.com^
 ||mvgucp.com^
 ||naqiwjj.icu^
 ||naryvz.xyz^
+||nba55.cc^
 ||nbtfbb.xyz^
 ||ncgqmzm.cn^
 ||ndqcz0e.xyz^
@@ -52156,6 +52167,7 @@ inapps.appsflyersdk.com^
 ||rixqlvd.cn^
 ||rjzqtz.xyz^
 ||rlqoyht.icu^
+||rnfhsji.cn^
 ||ronbbf.xyz^
 ||rpyor0k.xyz^
 ||rrxddl.xyz^
@@ -52172,6 +52184,7 @@ inapps.appsflyersdk.com^
 ||sacfasv.com^
 ||sacre.cn^
 ||sbcjahdc.com^
+||sbdvjsbjslkv.com^
 ||sbeaje.com^
 ||schedfi.com^
 ||sd01you.com^
@@ -52288,6 +52301,7 @@ inapps.appsflyersdk.com^
 ||vmbzhfh.cn^
 ||vmdlxj.xyz^
 ||vnfsbl.xyz^
+||voxirf.xyz^
 ||vpsgu.cn^
 ||vrlvnz.xyz^
 ||vrr.name^
@@ -52398,6 +52412,7 @@ inapps.appsflyersdk.com^
 ||zents10.top^
 ||zents5.top^
 ||zents7.top^
+||zents8.top^
 ||zerolcp.cn^
 ||zexfzson.icu^
 ||zfcdirf.icu^
@@ -52428,13 +52443,13 @@ inapps.appsflyersdk.com^
 ||zxrcfw.com^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
-||zents8.top^
-||mlhdvjv.xyz^
-||lctcbtly.xyz^
-||jwltpv.xyz^
-||voxirf.xyz^
-||sbdvjsbjslkv.com^
-||asclan.icu^
+||gqgfrgx.cn^
+||haise2.top^
+||ddlvpmt.xyz^
+||rtnuld.xyz^
+||uslsjwnk.xyz^
+||venum.top^
+||ecmwsx.icu^
 ||01v62.xyz^
 ||0272aa.com^
 ||0272bb.com^
