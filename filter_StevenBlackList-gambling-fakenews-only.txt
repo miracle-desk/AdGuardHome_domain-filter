@@ -2302,6 +2302,7 @@
 ||alo888.com^
 ||api.118kbet.com^
 ||api.11zalo.com^
+||api.123bhh.com^
 ||api.22zalo.com^
 ||api.338kbet.com^
 ||api.33beta.com^
@@ -2770,6 +2771,7 @@
 ||dk.gamequyong.xyz^
 ||dk.rikkk.net^
 ||dk.thangiwin.org^
+||dk.thethaouk88.org^
 ||dk.topcc88.me^
 ||dk.vaorikvip.net^
 ||dk8.games^
@@ -3100,10 +3102,22 @@
 ||happy9luck.com^
 ||happynb.com^
 ||hay8822.com^
+||hb88.com^
+||hb88013.com^
+||hb88016.com^
 ||hb88017.com^
+||hb88021.com^
+||hb88024.com^
+||hb88025.com^
+||hb88028.com^
+||hb88029.com^
 ||hb88031.com^
 ||hb88032.com^
+||hb88033.com^
+||hb88036.com^
+||hb88037.com^
 ||hb88038.com^
+||hb88039.com^
 ||hb8864.com^
 ||hb8875.com^
 ||hb8887.com^
@@ -5020,6 +5034,7 @@
 ||new88.ai^
 ||new88.love^
 ||new88.tips^
+||new8803.com^
 ||new8805.com^
 ||new8808.vip^
 ||new88111.com^
@@ -5624,6 +5639,7 @@
 ||thethaodabet.com^
 ||thethaofb88.com^
 ||thethaofi88.com^
+||thethaouk88.org^
 ||thethaovip.vip^
 ||thevw155.com^
 ||thk8.net^
@@ -6123,6 +6139,7 @@
 ||www.123b.com^
 ||www.123b.org^
 ||www.123bdly.com^
+||www.123bhh.com^
 ||www.123win.pro^
 ||www.12b99.com^
 ||www.157win.com^
@@ -6367,6 +6384,7 @@
 ||www.hb88031.com^
 ||www.hb88032.com^
 ||www.hb88038.com^
+||www.hb88039.com^
 ||www.hb8864.com^
 ||www.hb8887.com^
 ||www.hb88g.com^
@@ -6471,6 +6489,7 @@
 ||www.mansion66.com^
 ||www.may88.club^
 ||www.mb88.bet^
+||www.mb88.com^
 ||www.mbx88.com^
 ||www.mc876.com^
 ||www.me88vn1.com^
@@ -9321,6 +9340,8 @@
 ||zetpoker.eu^
 ||zodiacu.com^
 ||zpisportbk.com^
+||www.draftkings.com^
+||luckylandslots.com^
 ||plus.google.com^
 ||ae0.bb01.ams2.tfbnw.net^
 ||ae0.bb01.atl1.tfbnw.net^
