@@ -3060,6 +3060,7 @@
 ||gdwbetvn888.com^
 ||gdwviet.com^
 ||gem1.win^
+||gem79.win^
 ||gembanca.com^
 ||genvip88.com^
 ||genvipios.com^
@@ -5554,6 +5555,7 @@
 ||tai.do99.site^
 ||tai.fa88.win^
 ||tai.fa88vn.live^
+||tai.gem79.win^
 ||tai.genvip88.com^
 ||tai.go88.club^
 ||tai.go88.com^
@@ -5590,10 +5592,12 @@
 ||taigame789.club^
 ||taigamesunwin.vin^
 ||taigamesunwin.vip^
+||taigem79.net^
 ||taigem79.win^
 ||taigenvip.club^
 ||taigenvip88.club^
 ||taigenvip88.com^
+||taigenvipios.club^
 ||taigenvipios.fun^
 ||taigo88.net^
 ||taigo88vn.com^
