@@ -1,7 +1,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Last modified: 2023-10-24T00:18:22.672Z
+! Last modified: 2023-10-25T00:18:10.484Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11,7 +11,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Last modified: 2023-10-24T00:02:31.925Z
+! Last modified: 2023-10-25T00:02:25.539Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -29,6 +29,9 @@
 !
 !
 !
+||promo.pixelsee.app^
+||lugajxy.com^
+||loivpdbzx.com^
 ||pubgalaxy.com^
 ||othiijwtgcmjmj.com^
 ||xlarixmmdvr.xyz^
@@ -1972,6 +1975,7 @@ vkcdnservice.appspot.com^
 ||4030b44c32.com^
 ||4073284684.com^
 ||407433bfc441.com^
+||4087aa0dc1.com^
 ||40ceexln7929.com^
 ||40e82f6c27.com^
 ||40f380afa3.com^
@@ -6568,6 +6572,7 @@ vkcdnservice.appspot.com^
 ||brokeloy.com^
 ||brokerspock.com^
 ||brominewf.guru^
+||bromisescapose.com^
 ||bromoilnapalms.com^
 ||bromusic.site^
 ||broochambitioncopies.com^
@@ -8953,6 +8958,7 @@ vkcdnservice.appspot.com^
 ||datingtoday.top^
 ||datingtopgirls.com^
 ||datingvr.ru^
+||dattoswitches.com^
 ||daubierbatties.uno^
 ||daughterbump.com^
 ||daughterinlawrib.com^
@@ -15440,6 +15446,7 @@ vkcdnservice.appspot.com^
 ||jacobsyrma.live^
 ||jacragatztit.com^
 ||jacsmuvkymw.com^
+||jactantsplodgy.com^
 ||jadcenter.com^
 ||jadedhide.pro^
 ||jadqoc.xyz^
@@ -18023,6 +18030,7 @@ vkcdnservice.appspot.com^
 ||mergaksi.net^
 ||mergedlava.com^
 ||mergerpep.com^
+||mergessidi.com^
 ||meritedgasser.com^
 ||merligopotlid.com^
 ||mermaidcontemplateadjoining.com^
@@ -21299,6 +21307,7 @@ vkcdnservice.appspot.com^
 ||pgonews.pro^
 ||pgpartner.com^
 ||pgssl.com^
+||phaglalt.com^
 ||phague.com^
 ||phaignux.xyz^
 ||phaikroo.net^
@@ -25593,6 +25602,7 @@ vkcdnservice.appspot.com^
 ||smisto.com^
 ||smists.com^
 ||smithamenamel.com^
+||smithumbewreck.com^
 ||smitry.com^
 ||smjulynews.com^
 ||smjxarmaflpmxj.com^
@@ -26312,6 +26322,7 @@ vkcdnservice.appspot.com^
 ||stotchou.com^
 ||stotoowu.net^
 ||stougnee.com^
+||stouksom.xyz^
 ||stoushgowds.com^
 ||stovearmpitagreeable.com^
 ||stovecharacterize.com^
@@ -51591,6 +51602,7 @@ inapps.appsflyersdk.com^
 ||ads.jogloitcenter.com
 ||c303.pw^
 ! XL Axiata
+! Indosat Ooredoo
 ! Telkom Indihome
 ||welcome.indihome.co.id^
 !||d31qbv1cthcecs.cloudfront.net^$3p,domain=~advertisingfresh.com|~kaskus.co.id
@@ -52421,6 +52433,7 @@ inapps.appsflyersdk.com^
 ||aueajkn.cn^
 ||awaw.asia^
 ||bbfnrn.xyz^
+||berrynicolo.com^
 ||beste3.icu^
 ||bgbqfqwi.xyz^
 ||bjtgds.xyz^
@@ -52441,6 +52454,7 @@ inapps.appsflyersdk.com^
 ||crazyit8.com^
 ||crhabkd.cn^
 ||cuvtnzv.cn^
+||cxpjrqa.cn^
 ||ddvoht.xyz^
 ||dhgfhedxx.xyz^
 ||diaocaixiaq.cn^
@@ -52463,6 +52477,7 @@ inapps.appsflyersdk.com^
 ||foizico.cn^
 ||fptdxkm.com^
 ||fzgetdy.cn^
+||gejhhh.cn^
 ||gelbjvl.cn^
 ||gixgav.icu^
 ||gizlnr.com^
@@ -52485,10 +52500,12 @@ inapps.appsflyersdk.com^
 ||gmx28.top^
 ||gmx29.top^
 ||gmx30.top^
+||gmx42.top^
 ||gmx45.top^
 ||gmx46.top^
 ||gmx47.top^
 ||gmx48.top^
+||gqleov.icu^
 ||grthhr.xyz^
 ||gslejoki.xyz^
 ||gth112.com^
@@ -52509,8 +52526,10 @@ inapps.appsflyersdk.com^
 ||insfengdata.com^
 ||ionjkcj.cn^
 ||iqs871.com^
+||irtefs.xyz^
 ||iujlwn.icu^
 ||jlhlnd.xyz^
+||jmhngn.com^
 ||jndxsuy.xyz^
 ||jnkmhn.com^
 ||jofknbpe.xyz^
@@ -52524,6 +52543,7 @@ inapps.appsflyersdk.com^
 ||kwtgntyu.xyz^
 ||kyikdee.cn^
 ||kzprugp.xyz^
+||l404k.com^
 ||ldvnehc.xyz^
 ||lianglili2.cn^
 ||liuyi22.cn^
@@ -52556,6 +52576,7 @@ inapps.appsflyersdk.com^
 ||negnixa.cn^
 ||nerydw.xyz^
 ||newpgqnfapkamg.xyz^
+||njppuaj.cn^
 ||njtbiml.xyz^
 ||nofizx.xyz^
 ||nrzzaep.xyz^
@@ -52574,6 +52595,7 @@ inapps.appsflyersdk.com^
 ||pqjeoqa.cn^
 ||psroyx.icu^
 ||qauksl.icu^
+||qbhjokk.xyz^
 ||qinjgh.icu^
 ||qmoxxhc.cn^
 ||qmwx4.xyz^
@@ -52625,6 +52647,7 @@ inapps.appsflyersdk.com^
 ||vdggsd017.com^
 ||vgjaxnuw.xyz^
 ||vivienjumpe.com^
+||vizhtd.xyz^
 ||vttqld.xyz^
 ||vxdpmxw.xyz^
 ||whdwydt.cn^
@@ -52650,6 +52673,7 @@ inapps.appsflyersdk.com^
 ||yepgdita.xyz^
 ||yhlzadr.xyz^
 ||yhtpsy8888.cc^
+||yivkzvog.xyz^
 ||yuanxiaa.cn^
 ||yuanxiab.cn^
 ||yutiqf.icu^
@@ -52664,14 +52688,11 @@ inapps.appsflyersdk.com^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
-||cxpjrqa.cn^
-||njppuaj.cn^
-||yivkzvog.xyz^
-||irtefs.xyz^
-||qbhjokk.xyz^
-||vizhtd.xyz^
-||jmhngn.com^
-||gqleov.icu^
+||hynahyqq.xyz^
+||gmx44.top^
+||dsbfpt.xyz^
+||cthbini.xyz^
+||kaaqgf.icu^
 ||zzyy20.top^
 ||01v62.xyz^
 ||023best.cn^
