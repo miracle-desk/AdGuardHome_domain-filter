@@ -1,7 +1,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Last modified: 2023-10-28T00:17:28.135Z
+! Last modified: 2023-10-29T00:19:51.656Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -11,7 +11,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Last modified: 2023-10-28T00:02:30.590Z
+! Last modified: 2023-10-29T00:02:25.316Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -52611,6 +52611,17 @@ inapps.appsflyersdk.com^
 ||gmx40.top^
 ||vrivslffndepxqd.xyz^
 ||clcmdie.com^
+||fcgxidqwcx.xyz^
+||iknhgj.com^
+||dvclhmt.cn^
+||g2ak5.com^
+||dskjhs.com^
+||sqevnrb.com^
+||oehcxmhk.xyz^
+||dfxvkgz.xyz^
+||aidmat.icu^
+||gmx39.top^
+||tgjdbx.xyz^
 ||zzyy20.top^
 ||01v62.xyz^
 ||023best.cn^
