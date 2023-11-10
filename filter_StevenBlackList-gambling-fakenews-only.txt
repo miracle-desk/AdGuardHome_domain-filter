@@ -2200,6 +2200,7 @@
 ||ad.app8.top^
 ||ad.choingay11b.mobi^
 ||ad.choingay88.com^
+||ad.dangkygo88.in^
 ||ad.gamequyong.site^
 ||ad.gamequyong.xyz^
 ||ad.mibet.com^
@@ -2749,6 +2750,7 @@
 ||dangkybayvip.com^
 ||dangkybum.club^
 ||dangkyee88.online^
+||dangkygo88.in^
 ||dangkykubet.vip^
 ||dangkyrikvip.tv^
 ||dangkythabet.com^
@@ -4810,6 +4812,7 @@
 ||luckyxoso.com^
 ||lux39.club^
 ||lux888.club^
+||luxgame.online^
 ||luxvip.pro^
 ||lxviet66.com^
 ||m-static.ktokto.mobi^
@@ -5508,6 +5511,7 @@
 ||sunwinclub.fun^
 ||sunwinvn.club^
 ||superslot777.bet^
+||susu86.onilne^
 ||sv1.sv88.uk^
 ||sv1.sv88.vip^
 ||sv1.sv88d.com^
@@ -6156,6 +6160,8 @@
 ||winbet999.info^
 ||winclub.net^
 ||wintbr.com^
+||winvn.vip^
+||winvn18.com^
 ||wm88viet.com^
 ||wm88vn.com^
 ||wo88.ac^
@@ -6770,6 +6776,7 @@
 ||www.win79.vip^
 ||www.win999.vip^
 ||www.winclub.net^
+||www.winvn18.com^
 ||www.ww88club.com^
 ||www.xemkeo188.com^
 ||www.xengtructuyen.com^
