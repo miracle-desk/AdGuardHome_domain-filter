@@ -3147,6 +3147,7 @@
 ||hi88vip7.com^
 ||hi88vip8.com^
 ||hiephoilangnghevietnam.com^
+||hipoker123.com^
 ||hit1.club^
 ||hit1.co^
 ||hit21.club^
@@ -4725,6 +4726,8 @@
 ||kufun.site^
 ||kufun.win^
 ||kuwin.bet^
+||landpage.hipoker123.com^
+||landpage.tienlen2022.com^
 ||langvuichoi.net^
 ||ld99.club^
 ||leto58.xyz^
@@ -5696,6 +5699,7 @@
 ||thuongkingfun.biz^
 ||thvwbet.com^
 ||tienlen.8day66.com^
+||tienlen2022.com^
 ||tienve.thethaofb88.com^
 ||tin.11bet.net^
 ||tin010.com^
@@ -6208,6 +6212,7 @@
 ||www.228kbet.com^
 ||www.22zalo.com^
 ||www.2826.bet^
+||www.30winvn.com^
 ||www.331725.com^
 ||www.331729.com^
 ||www.338kbet.com^
