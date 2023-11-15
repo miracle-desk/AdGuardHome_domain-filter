@@ -6165,6 +6165,7 @@
 ||winclub.net^
 ||wintbr.com^
 ||winvn.vip^
+||winvn13.com^
 ||winvn18.com^
 ||wm88viet.com^
 ||wm88vn.com^
@@ -6251,6 +6252,7 @@
 ||www.8559553.com^
 ||www.8559555.com^
 ||www.8559558.com^
+||www.85vnd.com^
 ||www.885ae888.com^
 ||www.887ae888.com^
 ||www.888b.com^
@@ -6781,6 +6783,7 @@
 ||www.win79.vip^
 ||www.win999.vip^
 ||www.winclub.net^
+||www.winvn13.com^
 ||www.winvn18.com^
 ||www.ww88club.com^
 ||www.xemkeo188.com^
