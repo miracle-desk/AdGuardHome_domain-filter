@@ -2387,6 +2387,8 @@
 ||api.v7king.com^
 ||api.vh79.com^
 ||api.vn1610.com^
+||api.vn357.bet^
+||api.vn666.bet^
 ||api.vnloto.com^
 ||api.vnq8.bet^
 ||api.vnq8.com^
@@ -2588,6 +2590,7 @@
 ||casino888vn.com^
 ||casinoae888.com^
 ||casinomcw.com^
+||caygame2023.com^
 ||cdn.868vip.live^
 ||cdn.888loc.io^
 ||cdn.kingbet86.info^
@@ -2647,6 +2650,7 @@
 ||cjofg.com^
 ||click.mibet.com^
 ||click.mibet88.com^
+||club2win.com^
 ||clubdanhbai.com^
 ||clubk8.fun^
 ||clubk8fun.com^
@@ -3122,6 +3126,7 @@
 ||hb88013.com^
 ||hb88016.com^
 ||hb88017.com^
+||hb88020.com^
 ||hb88021.com^
 ||hb88024.com^
 ||hb88025.com^
@@ -3219,6 +3224,7 @@
 ||i9bet124.com^
 ||i9bet13.com^
 ||i9bet14.com^
+||i9bet145.com^
 ||i9bet15.com^
 ||i9bet16.com^
 ||i9bet17.com^
@@ -4726,8 +4732,16 @@
 ||kufun.site^
 ||kufun.win^
 ||kuwin.bet^
+||landpage.caygame2023.com^
+||landpage.club2win.com^
 ||landpage.hipoker123.com^
+||landpage.megawin99x.com^
+||landpage.royalclub11.com^
+||landpage.taixiugame777.com^
+||landpage.talaphom.com^
+||landpage.talaphom123.com^
 ||landpage.tienlen2022.com^
+||landpage.xidachplay.com^
 ||langvuichoi.net^
 ||ld99.club^
 ||leto58.xyz^
@@ -4991,6 +5005,7 @@
 ||media.1789bet.com^
 ||media.happynb.com^
 ||media.lixi99.com^
+||megawin99x.com^
 ||mi3368.com^
 ||mibet.cc^
 ||mibet.com^
@@ -5306,6 +5321,7 @@
 ||qq288jak.com^
 ||qq628.live^
 ||qq8788viet.com^
+||quangcaosanvip.win^
 ||quatanthu.club^
 ||quatanthu.group^
 ||quayhuk8.info^
@@ -5347,6 +5363,7 @@
 ||rio66qc.club^
 ||ritq4.com^
 ||royal77vn.com^
+||royalclub11.com^
 ||rubik88.com^
 ||rvbet005.com^
 ||rw8800.com^
@@ -5589,6 +5606,7 @@
 ||tai789.net^
 ||tai789.vip^
 ||tai789.win^
+||tai9606.com^
 ||tai99vin.net^
 ||taib52.club^
 ||taib52.com^
@@ -5633,7 +5651,10 @@
 ||taiv8.top^
 ||taiwin79.win^
 ||taix1.club^
+||taixiugame777.com^
 ||taixiusunwin.games^
+||talaphom.com^
+||talaphom123.com^
 ||tangl0c.8day66.com^
 ||tap88.club^
 ||tbab395.com^
@@ -5924,7 +5945,9 @@
 ||vn3338.com^
 ||vn3339.com^
 ||vn34.com^
+||vn357.bet^
 ||vn5858.com^
+||vn666.bet^
 ||vn67801.com^
 ||vn789.net^
 ||vn88.bet^
@@ -6166,6 +6189,8 @@
 ||wintbr.com^
 ||winvn.vip^
 ||winvn13.com^
+||winvn15.com^
+||winvn17.com^
 ||winvn18.com^
 ||wm88viet.com^
 ||wm88vn.com^
@@ -6212,6 +6237,7 @@
 ||www.2277789.com^
 ||www.228kbet.com^
 ||www.22zalo.com^
+||www.23winvn.com^
 ||www.2826.bet^
 ||www.30winvn.com^
 ||www.331725.com^
@@ -6273,6 +6299,7 @@
 ||www.8kbet.vn^
 ||www.8live.fun^
 ||www.8vnd.club^
+||www.8vnd7.com^
 ||www.8x055.com^
 ||www.8xbet.fun^
 ||www.8xbet.tv^
@@ -6474,6 +6501,7 @@
 ||www.i9bet109.com^
 ||www.i9bet111.com^
 ||www.i9bet124.com^
+||www.i9bet145.com^
 ||www.i9bet24.com^
 ||www.i9bet25.com^
 ||www.i9bet26.com^
@@ -6721,7 +6749,9 @@
 ||www.vn138viet.com^
 ||www.vn1610.com^
 ||www.vn34.com^
+||www.vn357.bet^
 ||www.vn500.com^
+||www.vn666.bet^
 ||www.vn67801.com^
 ||www.vn88.bet^
 ||www.vn88.casino^
@@ -6784,6 +6814,8 @@
 ||www.win999.vip^
 ||www.winclub.net^
 ||www.winvn13.com^
+||www.winvn15.com^
+||www.winvn17.com^
 ||www.winvn18.com^
 ||www.ww88club.com^
 ||www.xemkeo188.com^
@@ -6822,6 +6854,7 @@
 ||xeng52.com^
 ||xengtructuyen.com^
 ||xidach.8day66.com^
+||xidachplay.com^
 ||xingtou888.com^
 ||xkiosx.xyz^
 ||xljs2.com^
