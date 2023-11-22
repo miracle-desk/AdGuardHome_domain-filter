@@ -1,9 +1,9 @@
 !
 ! Title: AdAway Default Blocklist
 ! Description: Open-source ad blocker for Android using the hosts file
-! Last modified: 2023-06-30T10:53:00.521Z
+! Last modified: 2023-11-21T17:45:17.050Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.22
+! Compiled by @adguard/hostlist-compiler v1.0.23
 !
 !
 ! Source name: AdAway Default Blocklist
