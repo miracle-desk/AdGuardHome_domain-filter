@@ -2756,8 +2756,10 @@
 ||dailybong88.bet^
 ||dailybong88.com^
 ||dailyk8.com^
+||dailynet88.com^
 ||dailysbobetz.me^
 ||daman2.com^
+||dangky.dailynet88.com^
 ||dangky.go88.com^
 ||dangky.thethaofb88.com^
 ||dangkybayvip.com^
@@ -7020,6 +7022,7 @@
 ||atg.se^
 ||axbet.com^
 ||b-bets.com^
+||bacanaplay.pt^
 ||balkanbet.co.rs^
 ||ballebaazi.com^
 ||bananajackpot.com^
@@ -7058,6 +7061,7 @@
 ||betandclick.com^
 ||betano.bg^
 ||betano.cz^
+||betano.pt^
 ||betanysports.eu^
 ||betbanks.com^
 ||betboro.com^
@@ -7073,6 +7077,7 @@
 ||betcityru.com^
 ||betclic.com^
 ||betclic.pl^
+||betclic.pt^
 ||betclock.com^
 ||betcostarica.ag^
 ||betcris.com^
@@ -7195,12 +7200,14 @@
 ||betway.co.ke^
 ||betway.bg^
 ||betway.com^
+||betway.pt^
 ||betworks.com^
 ||betxchange.co.za^
 ||betzest.com^
 ||betzone.com^
 ||bgbet.com^
 ||bgo.com^
+||bidluck.pt^
 ||bigbetworld.com^
 ||bingo.com^
 ||bingo.vernons.com^
@@ -7243,6 +7250,7 @@
 ||bustadice.com^
 ||butterflybingo.com^
 ||bwin.com^
+||bwin.pt^
 ||cafecasino.lv^
 ||caliente.mx^
 ||campaign.rizk.com^
@@ -7287,6 +7295,7 @@
 ||casinostugan.com^
 ||casinotown.se^
 ||casinowinner.com^
+||casinoportugal.pt^
 ||casinsi.com^
 ||casumo.com^
 ||cbet.lt^
@@ -7487,6 +7496,7 @@
 ||esports.gtorb.com^
 ||esportsbetting.com^
 ||esportscasino.com^
+||estorilsolcasinos.pt^
 ||etherdice.io^
 ||etipos.sk^
 ||etopaz.az^
@@ -7572,6 +7582,7 @@
 ||golazobet.com^
 ||goldbetsports.com^
 ||goldenbetsng.com^
+||goldenpark.pt^
 ||goldmedalbingo.com^
 ||goliathcasino.com^
 ||gossipbingo.com^
@@ -7712,6 +7723,7 @@
 ||latloto.lv^
 ||lazvegas.com^
 ||leaguex.com^
+||lebull.pt^
 ||legendsportsbook.com^
 ||legolas.bet^
 ||leisure888.com^
@@ -7857,6 +7869,7 @@
 ||monacoaces.com^
 ||moneyplayscasino.com^
 ||montecarlocasino.com^
+||moosh.pt^
 ||morganbet.eu^
 ||mozzartbet.co.ke^
 ||mozzartbet.com^
@@ -7918,6 +7931,7 @@
 ||norskeautomater.com^
 ||norskespilleautomater.com^
 ||nostrabet.com^
+||nossaaposta.pt^
 ||novibet.com^
 ||noxwin.com^
 ||nyspins.com^
@@ -7978,6 +7992,7 @@
 ||playojo.com^
 ||playolg.ca^
 ||playtech.com^
+||placard.pt^
 ||plexodds.com^
 ||plus.betway.com^
 ||pocketvegas.co.uk^
@@ -8103,6 +8118,7 @@
 ||socalsportbook.com^
 ||society.gg^
 ||softbet.eu^
+||solverde.pt^
 ||speedybet.com^
 ||spela.com^
 ||spindipity.com^
@@ -9249,6 +9265,7 @@
 ||www.pokerstars.cz^
 ||www.pokerstars.eu^
 ||www.pokerstars.uk^
+||www.pokerstars.pt^
 ||www.pokerstarscasino.uk^
 ||www.portail.lotoquebec.com^
 ||www.postcodeloterij.nl^
@@ -9535,6 +9552,7 @@
 ||zodiacu.com^
 ||zpisportbk.com^
 ||www.draftkings.com^
+||luckia.pt^
 ||luckylandslots.com^
 ||plus.google.com^
 ||ae0.bb01.ams2.tfbnw.net^
