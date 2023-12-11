@@ -1,7 +1,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Last modified: 2023-12-10T00:21:31.166Z
+! Last modified: 2023-12-11T00:20:23.174Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -11,7 +11,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Last modified: 2023-12-10T00:03:01.783Z
+! Last modified: 2023-12-11T00:02:36.572Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -4988,6 +4988,7 @@ vkcdnservice.appspot.com^
 ||atougnou.com^
 ||atpanchama.com^
 ||atpawniarda.com^
+||atraff.com^
 ||atraichuor.com^
 ||atriblethetch.com^
 ||atripplotx.com^
@@ -5676,6 +5677,7 @@ vkcdnservice.appspot.com^
 ||bebreloomr.com^
 ||becamesensational.com^
 ||becaul.com^
+||beccc1d245.com^
 ||becces.com^
 ||bechatotan.com^
 ||beckerbauds.com^
@@ -6436,6 +6438,7 @@ vkcdnservice.appspot.com^
 ||boredombizarrerepent.com^
 ||borghgeog.com^
 ||borgoonu.net^
+||borhaj.com^
 ||borhod.com^
 ||boridescyamid.com^
 ||boringassistantincite.com^
@@ -7022,6 +7025,7 @@ vkcdnservice.appspot.com^
 ||camiocw.com^
 ||cammpaign.com^
 ||camouque.net^
+||campingknown.com^
 ||campjupiterjul.com^
 ||camplacecash.com^
 ||camprime.com^
@@ -9668,6 +9672,7 @@ vkcdnservice.appspot.com^
 ||djfwtdwiybiq.com^
 ||djldrhxb.com^
 ||djmaza.in^
+||djphnuhkbjf.com^
 ||djqacscl.com^
 ||djxfar6.com^
 ||dk4ywix.com^
@@ -12183,6 +12188,7 @@ vkcdnservice.appspot.com^
 ||fortunegossipyattentive.com^
 ||fortunescrollstrap.com^
 ||fortyflattenrosebud.com^
+||fortyphlosiona.com^
 ||forumsotiatry.com^
 ||forunfezanttor.com^
 ||forworksyconus.com^
@@ -13518,6 +13524,7 @@ vkcdnservice.appspot.com^
 ||guyabe.xyz^
 ||gvhmoascwa.xyz^
 ||gvkmifcvr.com^
+||gvkqpogjqvni.com^
 ||gvmojhugkiud.com^
 ||gvt2.com^
 ||gwallet.com^
@@ -13931,6 +13938,7 @@ vkcdnservice.appspot.com^
 ||hethisisath.xyz^
 ||heucoucjrwno.com^
 ||heukwasanasosett.info^
+||heusysianedu.com^
 ||hevc.site^
 ||hewalleges.guru^
 ||hewawkward.com^
@@ -15485,6 +15493,7 @@ vkcdnservice.appspot.com^
 ||jbkmskjeaevkne.xyz^
 ||jbkwrkmdug.com^
 ||jbm6c54upkui.com^
+||jbnznvnylnkyr.top^
 ||jbnznvnylnqqy.top^
 ||jbnznvnylnyjl.top^
 ||jbrlsr.com^
@@ -15503,6 +15512,7 @@ vkcdnservice.appspot.com^
 ||jdjxjelhrxy.com^
 ||jdlmjessy.com^
 ||jdmodr.com^
+||jdoeknc.com^
 ||jdoqocy.com^
 ||jdt8.net^
 ||jdwhlqb.com^
@@ -15591,6 +15601,7 @@ vkcdnservice.appspot.com^
 ||jgqflgggex.com^
 ||jgszymcphwcege.com^
 ||jgydqhp.com^
+||jhdiujyjihnw.com^
 ||jhfhdkhkh.site^
 ||jhoncj.com^
 ||jhrfemourkojc.com^
@@ -19164,6 +19175,7 @@ vkcdnservice.appspot.com^
 ||nightsboostam.com^
 ||nigion.com^
 ||nigmen.com^
+||nigooshe.net^
 ||nigure.com^
 ||nihiy.com^
 ||nikkiexxxads.com^
@@ -19377,6 +19389,7 @@ vkcdnservice.appspot.com^
 ||noumekiz.net^
 ||nounct.com^
 ||nounooch.com^
+||nounrespectively.com^
 ||noureewo.com^
 ||nouveaulain.com^
 ||novadune.com^
@@ -19623,6 +19636,7 @@ vkcdnservice.appspot.com^
 ||obadluhjxnsnfv.com^
 ||obbkucbipw.com^
 ||obdoboli.xyz^
+||obdtawpwyr.com^
 ||obduratecommence.com^
 ||obduratedroppingmagnitude.com^
 ||obduratewiggle.com^
@@ -20273,6 +20287,7 @@ vkcdnservice.appspot.com^
 ||orisow.com^
 ||orkoedthroug.xyz^
 ||orldwhoisquite.com^
+||orldwhoisquite.org^
 ||orldwhoisquiteh.info^
 ||orlowedonhisdhilt.info^
 ||ormolustuke.top^
@@ -20929,6 +20944,7 @@ vkcdnservice.appspot.com^
 ||pdn-2.com^
 ||pdn-3.com^
 ||pdn-5.com^
+||pdqkkzouflx.com^
 ||pdridjiviq.com^
 ||pdsyibwlxd.xyz^
 ||pdvacde.com^
@@ -22612,6 +22628,7 @@ vkcdnservice.appspot.com^
 ||puxonsir.net^
 ||puyjjq.com^
 ||puysis.com^
+||puzzio.xyz^
 ||puzzlementangrily.com^
 ||puzzlepursued.com^
 ||pvawydmmj.com^
@@ -26973,6 +26990,7 @@ vkcdnservice.appspot.com^
 ||thaninncoos.com^
 ||thankful-conference.pro^
 ||thanksgivingbilliardslight.com^
+||thanksgivingdelights.com^
 ||thanksgivingdelights.name^
 ||thanosofcos5.com^
 ||thanot.com^
@@ -28232,6 +28250,7 @@ vkcdnservice.appspot.com^
 ||ukentsiwoulukdlik.info^
 ||ukfareputfea.xyz^
 ||ukiyoyechromy.com^
+||uklgakwqy.com^
 ||ukmlastityty.info^
 ||ukndaspiratioty.info^
 ||uknsyenergyfle.info^
@@ -31901,6 +31920,7 @@ vkcdnservice.appspot.com^
 ||e-generator.com^
 ||e-planning.net^
 ||e-viral.com^
+||eadsrv.com^
 ||easy-ads.com^
 ||easyhits4u.com^
 ||easyinline.com^
@@ -40754,6 +40774,7 @@ inapps.appsflyersdk.com^
 ||iconnode.com^
 ||id-ward.com^
 ||idx.lat^
+||ilius.net^
 ||impactcdn.com^
 ||impactradius-event.com^
 ||ineed2s.ro^
@@ -45025,6 +45046,7 @@ inapps.appsflyersdk.com^
 ||tags.op-palvelut.fi^
 ! Georgian
 ||links.boom.ge^
+||stats-real-clients.zentech.gr^
 ||heartbeat.pmd.444.hu^
 ||rum.marquardmedia.hu^
 ||videostat-new.index.hu^
@@ -45100,7 +45122,6 @@ inapps.appsflyersdk.com^
 ||ad-tracker-api.luizalabs.com^
 ||analytics-stamp.confi.com.vc^
 ||analytics.spun.com.br^
-||api.nobeta.com.br^
 ||collect.chaordicsystems.com^
 ||events.chaordicsystems.com^
 ||hitserver.ibope.com.br^
@@ -50612,8 +50633,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2023-12-07 06:20:43 CET
-# entries:        1053
+# last updated:   2023-12-10 08:32:21 CET
+# entries:        1054
 # format:         hosts (hosts -- in hosts file format)
 ||1terms.com^
 ||a.zxcvads.com^
@@ -50812,6 +50833,7 @@ inapps.appsflyersdk.com^
 ||ion.btcswe.com^
 ||js.datadome.co^
 ||js.glitnoraffiliates.com^
+||js.multibrandaffiliates.com^
 ||jssdk.pulse.schibsted.com^
 ||js.hs-banner.com^
 ||keenstockholm.com.se^
@@ -51126,6 +51148,7 @@ inapps.appsflyersdk.com^
 ! Source name: EasyList Italy ad servers
 !
 ||adplay.it^
+||brznetwork.com^
 ||delosnetwork.it^
 ||eadv.it^
 ||epeex.io^
@@ -51167,7 +51190,6 @@ inapps.appsflyersdk.com^
 ||banzaiadv.it^
 ||beead.it^
 ||break-even.it^
-||brznetwork.com^
 ||btsaffiliations.com^
 ||casino-sicuro.it^
 ||clacson24.com^
@@ -51510,8 +51532,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 09 Dec 2023 07:40 UTC+7
-! Version: 2312090740
+! Last modified: 10 Dec 2023 22:06 UTC+7
+! Version: 2312102206
 ! Blocked: 859 rules
 ! Expires: 1 days (update frequency)
 !
@@ -52406,6 +52428,7 @@ inapps.appsflyersdk.com^
 ||awareista.com^
 ||awaw.asia^
 ||ax7fv.space^
+||aymwiq.xyz^
 ||azdiqsb.cn^
 ||bachou.cn^
 ||bavkvoks.xyz^
@@ -52436,6 +52459,7 @@ inapps.appsflyersdk.com^
 ||boats4.top^
 ||bollenhurkle.com^
 ||bpbfymv.xyz^
+||bpdtrfb.xyz^
 ||bplrpf.xyz^
 ||brorzpj.cn^
 ||btfjjwt.xyz^
@@ -52561,6 +52585,7 @@ inapps.appsflyersdk.com^
 ||foizico.cn^
 ||fortxfq.cn^
 ||fotaxf.xyz^
+||foxoxn.xyz^
 ||fptdxkm.com^
 ||fqtljn.xyz^
 ||fsgiosi.com^
@@ -52653,6 +52678,7 @@ inapps.appsflyersdk.com^
 ||hinm.online^
 ||hitchprivilege.com^
 ||hixutb.xyz^
+||hjdkvt.xyz^
 ||hjnjjcw.xyz^
 ||hkljed.xyz^
 ||hkrytf.xyz^
@@ -52753,6 +52779,7 @@ inapps.appsflyersdk.com^
 ||koyuod.xyz^
 ||kqbrgl.icu^
 ||kqvvqv.icu^
+||kqwerp.top^
 ||kshrsf.icu^
 ||ksrgsc.xyz^
 ||ktvtxir.xyz^
@@ -52780,6 +52807,7 @@ inapps.appsflyersdk.com^
 ||lkoqtvvajktpjsk.xyz^
 ||lkot.top^
 ||llblwzg.xyz^
+||lleo.top^
 ||llmxt.fun^
 ||llnxdx.xyz^
 ||lmfehr.xyz^
@@ -52847,6 +52875,7 @@ inapps.appsflyersdk.com^
 ||negnixa.cn^
 ||nerydw.xyz^
 ||newpgqnfapkamg.xyz^
+||nfldgbt.xyz^
 ||njppuaj.cn^
 ||njreka.xyz^
 ||njrnwan.cn^
@@ -52863,8 +52892,10 @@ inapps.appsflyersdk.com^
 ||nyhgjmlg.xyz^
 ||nyhgvn.xyz^
 ||nyvgbt.xyz^
+||oafhif.icu^
 ||oapyrzde.xyz^
 ||ocpydszq.xyz^
+||ocryndsu.xyz^
 ||ocwdkp.icu^
 ||oehcxmhk.xyz^
 ||oektiu.xyz^
@@ -52992,7 +53023,9 @@ inapps.appsflyersdk.com^
 ||stylishar.com^
 ||suzoqz.icu^
 ||syjkscy.cn^
+||szbxm.cn^
 ||tae0t.site^
+||tc8ji.website^
 ||tcgaqh.icu^
 ||tcvmtp.xyz^
 ||tdhlmto.cn^
@@ -53040,6 +53073,7 @@ inapps.appsflyersdk.com^
 ||uskoie.xyz^
 ||usxuyr.icu^
 ||uuzsfpju.xyz^
+||uwerpyh.cn^
 ||uwfxvvm.cn^
 ||uzrxoxd.xyz^
 ||v34s6r.com^
@@ -53102,6 +53136,7 @@ inapps.appsflyersdk.com^
 ||wwhsxwow.xyz^
 ||wwwww.asia^
 ||wwxufo.com^
+||wxsignin.top^
 ||wyiegt.icu^
 ||wymzwy.cn^
 ||wyoaij.icu^
@@ -53193,15 +53228,16 @@ inapps.appsflyersdk.com^
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
-||bpdtrfb.xyz^
-||aymwiq.xyz^
-||lleo.top^
-||tc8ji.website^
-||ocryndsu.xyz^
-||nfldgbt.xyz^
-||hjdkvt.xyz^
-||oafhif.icu^
-||kqwerp.top^
+||zf4.top^
+||zxpvalr.xyz^
+||sltle.icu^
+||ptflrj.xyz^
+||aerbgpn.xyz^
+||limopf.top^
+||ravzbd.xyz^
+||ukkkmg.xyz^
+||ucjevgue.xyz^
+||seutop.icu^
 ||zzyy19.top^
 ||zzyy20.top^
 ||01v62.xyz^
