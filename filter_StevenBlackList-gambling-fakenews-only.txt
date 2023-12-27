@@ -2602,6 +2602,7 @@
 ||cdn.888loc.io^
 ||cdn.kingbet86.info^
 ||cdn.vbet88.fun^
+||cdn.vicplay.io^
 ||cdn.vwin010.com^
 ||cdn.winclub.net^
 ||cf68.app^
@@ -5929,6 +5930,7 @@
 ||vi68.org^
 ||vic.fun^
 ||vic.win^
+||vicplay.io^
 ||victorwin555.com^
 ||vicwin.vip^
 ||vietbet.eu^
@@ -6201,6 +6203,7 @@
 ||web.nhatvip.net^
 ||web.taiv8.com^
 ||web.taiv8.top^
+||web.vicplay.io^
 ||web.zo.game^
 ||web.zowinvn.vip^
 ||webdev.vietbet.eu^
