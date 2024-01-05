@@ -2445,6 +2445,7 @@
 ||bancadoithuongvn.com^
 ||bancalucky88.com^
 ||baowin.net^
+||bay789.io^
 ||bay789.vin^
 ||bayvip.biz^
 ||bayvip.tv^
@@ -3009,6 +3010,7 @@
 ||five88.biz^
 ||five88.com^
 ||five88.me^
+||five88.net^
 ||five88.win^
 ||fivevn.net^
 ||fmapt.com^
@@ -4796,6 +4798,8 @@
 ||lixi88zb123.net^
 ||lixi99.com^
 ||lm.jbo010.com^
+||lo88.live^
+||lo88.vin^
 ||loc789.club^
 ||loc88.fun^
 ||loc89.fun^
@@ -5032,6 +5036,7 @@
 ||me88vietnam.com^
 ||me88vn1.com^
 ||me88vn2.com^
+||mec68.com^
 ||media.1789bet.com^
 ||media.happynb.com^
 ||media.lixi99.com^
@@ -5068,6 +5073,8 @@
 ||ms88ca.com^
 ||msmeb.com^
 ||msp2.leto58.xyz^
+||mu88.game^
+||mu88.id^
 ||mu88.uk^
 ||mu88a.com^
 ||mu88ads.com^
@@ -5226,6 +5233,7 @@
 ||play.b52.win^
 ||play.b52m.club^
 ||play.b52vn.org^
+||play.bay789.io^
 ||play.bom52.club^
 ||play.bum3.club^
 ||play.choisport.com^
@@ -5243,6 +5251,8 @@
 ||play.hit38.co^
 ||play.hit68.net^
 ||play.im99.com^
+||play.lo88.live^
+||play.lo88.vin^
 ||play.loc789.club^
 ||play.manclub.vin^
 ||play.nemo.vin^
@@ -5369,6 +5379,7 @@
 ||record.income88.com^
 ||record.pog79aff.com^
 ||red88.com^
+||red88.top^
 ||red88.uk^
 ||red88.us^
 ||red88.vin^
@@ -5855,6 +5866,7 @@
 ||tx.socvip.com^
 ||tx.socvip9.club^
 ||tx1.vip^
+||tydo88.com^
 ||tz.bet20.bet^
 ||tzzxt.com^
 ||ud1a.com^
@@ -9882,8 +9894,12 @@
 ||fundingchoicesmessages.google.com^
 ||instagr.am^
 ||www.instagr.am^
+||threads.net^
+||www.threads.net^
 ||d2rdfnizen5apl.cloudfront.net^
 ||www.t.co^
+||www.x.com^
+||x.com^
 ||media.licdn.com^
 ||static.licdn.com^
 ||www.licdn.com^
