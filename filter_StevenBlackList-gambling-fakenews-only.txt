@@ -2382,6 +2382,7 @@
 ||api.shbet3.com^
 ||api.shbetvv.com^
 ||api.sky88.fun^
+||api.sodo.host^
 ||api.st666.win^
 ||api.st66606.com^
 ||api.t8bet999.com^
@@ -2396,6 +2397,7 @@
 ||api.vnq8.bet^
 ||api.vnq8.com^
 ||api.vnq8.net^
+||api.vnxoso66.net^
 ||api.vx88.com^
 ||api2-gateway.go88.com^
 ||api4.hit1.co^
@@ -2481,6 +2483,7 @@
 ||betk8vn.net^
 ||betlixi88.net^
 ||betlv.com^
+||bettingroup.net^
 ||betvisa.com^
 ||betvnd.cc^
 ||betvnd.vip^
@@ -2645,6 +2648,7 @@
 ||choi99.com^
 ||choibaionlinevn.com^
 ||choibancadoithuong.com^
+||choigamevua.club^
 ||choigiaitri.net^
 ||choihay.vip^
 ||choihitclub.fun^
@@ -3227,6 +3231,7 @@
 ||hx9119.com^
 ||i1lnr.com^
 ||i8bet.org^
+||i9-bet.com^
 ||i99902.com^
 ||i99903.com^
 ||i99904.com^
@@ -3236,6 +3241,7 @@
 ||i9bet.app^
 ||i9bet.bet^
 ||i9bet.com^
+||i9bet.llc^
 ||i9bet.net^
 ||i9bet.poker^
 ||i9bet.vip^
@@ -3389,6 +3395,7 @@
 ||iwinapplink.club^
 ||iwinclub.onl^
 ||iwinclub.win^
+||izv5n.cc^
 ||j3108.com^
 ||j7bet.com^
 ||j9-btc.com^
@@ -4781,6 +4788,7 @@
 ||kufun.me^
 ||kufun.site^
 ||kufun.win^
+||kuwaitfunddev.com^
 ||kuwin.bet^
 ||lambada-tx1app.fun^
 ||langvuichoi.net^
@@ -4793,6 +4801,7 @@
 ||link1vaobk.com^
 ||linkbk8.com^
 ||linkbong88moinhat.com^
+||linkvao009.com^
 ||linkvaobong88w88.com^
 ||linkvaobw.info^
 ||linkvaom88.xyz^
@@ -5067,6 +5076,7 @@
 ||minicasino.io^
 ||minigame.vnloto.com^
 ||minivn.com^
+||missbet.com^
 ||mix79.vip^
 ||mkt.11bet.us^
 ||mkt.debet.com^
@@ -5379,6 +5389,7 @@
 ||qh236.com^
 ||qh238.com^
 ||qh250.com^
+||qh322.com^
 ||qh52.com^
 ||qh91.com^
 ||qq101.com^
@@ -5408,6 +5419,7 @@
 ||rewards.w88bkk.com^
 ||rg.choihitclub.run^
 ||rg.choiwin79.pro^
+||rgames.org^
 ||rgcsn.com^
 ||rik.bet^
 ||rik.club^
@@ -5537,6 +5549,9 @@
 ||soco88.com^
 ||socvip.com^
 ||socvip9.club^
+||sodo.host^
+||sodo02.com^
+||sodo100.com^
 ||sodo103.com^
 ||sodo107.com^
 ||sodo109.com^
@@ -5544,7 +5559,10 @@
 ||sodo13.com^
 ||sodo14.com^
 ||sodo15.com^
+||sodo3839.com^
 ||sodo66.app^
+||sodo66.com^
+||sodo668.net^
 ||sodo678.com^
 ||sodo6868.com^
 ||sodoviet.net^
@@ -5606,7 +5624,11 @@
 ||sv1.sv88vn.com^
 ||sv1.sv88vn.net^
 ||sv288.net^
+||sv368.casino^
+||sv368.one^
+||sv368.vin^
 ||sv368.vip^
+||sv368ga.com^
 ||sv388.biz^
 ||sv388.cam^
 ||sv388.cloud^
@@ -6090,9 +6112,11 @@
 ||vnq8.com^
 ||vnq8.net^
 ||vnq8.win^
+||vnrg5269.com^
 ||vntop88.com^
 ||vnvwbet.com^
 ||vnvwin.com^
+||vnxoso66.net^
 ||vqtq-bet365vn.com^
 ||vscore.bet^
 ||vscore.online^
@@ -6105,6 +6129,7 @@
 ||vstar79.com^
 ||vua1004.club^
 ||vua1005.club^
+||vua2.club^
 ||vua88.club^
 ||vuabai9.com^
 ||vuabet88.org^
@@ -6287,6 +6312,7 @@
 ||winbet99.co^
 ||winbet999.info^
 ||winclub.net^
+||wingo88.vin^
 ||wintbr.com^
 ||winvn.vip^
 ||winvn13.com^
@@ -6311,6 +6337,7 @@
 ||www-989bet.com^
 ||www-c54.com^
 ||www-ee88.com^
+||www-sodo.com^
 ||www.0066130.com^
 ||www.0077130.com^
 ||www.009.casino^
@@ -6367,6 +6394,7 @@
 ||www.5533789.com^
 ||www.558kbet.com^
 ||www.55qh88.com^
+||www.58cc.live^
 ||www.5shbet.com^
 ||www.608822.com^
 ||www.668kbet.com^
@@ -6641,6 +6669,7 @@
 ||www.income88.com^
 ||www.interwinvn.com^
 ||www.iwin.us^
+||www.izv5n.cc^
 ||www.ja77.net^
 ||www.jb777.net^
 ||www.jbo010.com^
@@ -6750,6 +6779,7 @@
 ||www.qh236.com^
 ||www.qh238.com^
 ||www.qh250.com^
+||www.qh322.com^
 ||www.qq288.com^
 ||www.qq8788.net^
 ||www.r88.vn^
@@ -6777,6 +6807,7 @@
 ||www.sinbet.vip^
 ||www.sky88.win^
 ||www.socvip9.club^
+||www.sodo.host^
 ||www.sodo107.com^
 ||www.sodo109.com^
 ||www.sodo14.com^
@@ -6896,6 +6927,7 @@
 ||www.vnq8.net^
 ||www.vnq8.win^
 ||www.vntop88.com^
+||www.vnxoso66.net^
 ||www.vqtq-bet365vn.com^
 ||www.vuabai9.com^
 ||www.vw220.com^
