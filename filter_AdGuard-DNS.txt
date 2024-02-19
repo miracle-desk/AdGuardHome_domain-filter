@@ -1,7 +1,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Last modified: 2024-02-18T00:20:25.873Z
+! Last modified: 2024-02-19T00:19:48.968Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -11,7 +11,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Last modified: 2024-02-18T00:02:43.385Z
+! Last modified: 2024-02-19T00:02:59.091Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -5598,6 +5598,7 @@ vkcdnservice.appspot.com^
 ||billionstarads.com^
 ||billservingineffective.com^
 ||billybobandirect.org^
+||billyhis.com^
 ||billypub.com^
 ||bilsyndication.com^
 ||bimlocal.com^
@@ -10136,6 +10137,7 @@ vkcdnservice.appspot.com^
 ||dragnag.com^
 ||drainlot.com^
 ||drako2sha8de09.com^
+||dralintheirbr.com^
 ||dramasoloist.com^
 ||dramaticagreementsalt.com^
 ||dramipmsxyutc.xyz^
@@ -15005,6 +15007,7 @@ vkcdnservice.appspot.com^
 ||hepani.com^
 ||hepare.com^
 ||heparllasysy.xyz^
+||heparlorne.org^
 ||hepekdxt.xyz^
 ||hepsaign.com^
 ||heptix.net^
@@ -16096,6 +16099,7 @@ vkcdnservice.appspot.com^
 ||ilovemakingpics.com^
 ||iloxvxenlwsv.com^
 ||ilumtoux.net^
+||ilvpbrvrpzrys.com^
 ||ilxhsgd.com^
 ||ilxkwlhqo.com^
 ||ilyf4amifh.com^
@@ -17795,6 +17799,7 @@ vkcdnservice.appspot.com^
 ||kazanbossterrifying.com^
 ||kbadguhvqig.xyz^
 ||kbao7755.de^
+||kbevcidiiqwa.com^
 ||kbkewkjlqjqzr.top^
 ||kbknujjtpnqq.com^
 ||kbmcpatd.com^
@@ -18043,6 +18048,7 @@ vkcdnservice.appspot.com^
 ||kjotkqyzxe.com^
 ||kjqlmeaykennr.top^
 ||kjrlulmt.com^
+||kjrnmkfwqp.com^
 ||kjsckwjvdxju.xyz^
 ||kjsvvnzcto.com^
 ||kjuftmdofmsrhq.com^
@@ -18816,6 +18822,7 @@ vkcdnservice.appspot.com^
 ||lfngqrtheim.com^
 ||lfnwqrghxqrqb.com^
 ||lfooldjzuyfhae.com^
+||lfpmtibqwqre.com^
 ||lfstmedia.com^
 ||lfsuigdrtsszog.com^
 ||lfufujhxmy.com^
@@ -19098,6 +19105,7 @@ vkcdnservice.appspot.com^
 ||llalo.click^
 ||llantynethebrav.xyz^
 ||llapaewllfc.com^
+||llboqevyazylr.top^
 ||llcbcqfwxyhgyda.com^
 ||lleadupthere.xyz^
 ||llevenmanis.xyz^
@@ -20052,6 +20060,7 @@ vkcdnservice.appspot.com^
 ||measurementpond.com^
 ||measuringrules.com^
 ||meatytell.pro^
+||meawo.cloud^
 ||mebeptxj.com^
 ||mechaelpaceway.com^
 ||mechanicsforgave.com^
@@ -22838,6 +22847,7 @@ vkcdnservice.appspot.com^
 ||onwardrespirationcommandment.com^
 ||onwasrv.com^
 ||onwekdebd.xyz^
+||onznwiocrrim.com^
 ||oo00.biz^
 ||oobuwjnlljbah.com^
 ||oocxefrgn.com^
@@ -22972,6 +22982,7 @@ vkcdnservice.appspot.com^
 ||optad360.net^
 ||optaivuy.net^
 ||opteama.com^
+||optedprebend.top^
 ||opter.co^
 ||opthushbeginning.com^
 ||opticlygremio.com^
@@ -24402,7 +24413,6 @@ vkcdnservice.appspot.com^
 ||pixelspivot.com^
 ||pixfuture.net^
 ||pixinform.com^
-||pixiv.org^
 ||pixxur.com^
 ||piybineqejjswp.com^
 ||piz7ohhujogi.com^
@@ -28926,6 +28936,7 @@ vkcdnservice.appspot.com^
 ||smenqskfmpfxnb.bid^
 ||smentbrads.info^
 ||smervyfenks.com^
+||smewwuwppjbebd.com^
 ||smfsojvsaxbgf.com^
 ||smigdxy.com^
 ||smigro.info^
@@ -34775,6 +34786,7 @@ vkcdnservice.appspot.com^
 ||xlcceiswfsntpp.xyz^
 ||xlckxtyqntt.xyz^
 ||xlfrhhp.com^
+||xlgatxqovuvz.com^
 ||xliirdr.com^
 ||xlirdr.com^
 ||xlivesex.com^
@@ -37035,6 +37047,25 @@ vkcdnservice.appspot.com^
 ||158.247.208.
 ||23.109.82.
 ||23.109.87.
+! TrustPid/Utiq
+||utiq-aws.net^
+||utiq.24auto.de^
+||utiq.24hamburg.de^
+||utiq.24rhein.de^
+||utiq.buzzfeed.de^
+||utiq.come-on.de^
+||utiq.einfach-tasty.de^
+||utiq.fnp.de^
+||utiq.fr.de^
+||utiq.hna.de^
+||utiq.ingame.de^
+||utiq.kreiszeitung.de^
+||utiq.merkur.de^
+||utiq.mopo.de^
+||utiq.op-online.de^
+||utiq.soester-anzeiger.de^
+||utiq.tz.de^
+||utiq.wa.de^
 
 !
 ! Source name: EasyList ad servers third-party
@@ -39421,6 +39452,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||event.lib.visumo.io^
 ||gtm.taginstall.com^
 ||mdstats.info^
 ||site-config.com^
@@ -42895,6 +42927,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analytics.castel.jp^
 ||tagging.anaxago.com^
 ||tagging.boataround.com^
 ||tagging.bokus.com^
@@ -46517,6 +46550,7 @@ inapps.appsflyersdk.com^
 ||wordmonetize.com^
 ||wren.condenastdigital.com^
 ||wsmcdn.audioeye.com^
+||wstats.slashed.cloud^
 ||wt.viagogo.net^
 ||wtr-digital-analytics.ew.r.appspot.com^
 ||x.disq.us^
@@ -56921,6 +56955,21 @@ inapps.appsflyersdk.com^
 ||qzalsk.xyz^
 ||ydybwjpa.xyz^
 ||ovjlccs.xyz^
+||1ny3r.icu^
+||jgmywh.icu^
+||ostjpig.cn^
+||nplahh.xyz^
+||cdybwjpa.xyz^
+||uu22662.com^
+||benpsbp.com^
+||tu2024020388.com^
+||xdybwjpa.xyz^
+||kksjsa.top^
+||bwlcpr.xyz^
+||uxrdg.cn^
+||yvudqzoa.xyz^
+||clywws.xyz^
+||anjdwmq.xyz^
 ||01v62.xyz^
 ||052db.website^
 ||053h94.com^
