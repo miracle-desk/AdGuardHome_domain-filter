@@ -1,7 +1,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Last modified: 2024-02-21T00:19:02.460Z
+! Last modified: 2024-02-22T00:18:53.976Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -11,7 +11,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Last modified: 2024-02-21T00:02:39.888Z
+! Last modified: 2024-02-22T00:02:23.589Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -29,6 +29,9 @@
 !
 !
 !
+||ipurseeh.xyz^
+||reonews.pl^
+||reomanager.pl^
 ||adx.ws^
 ||kerryfluence.com^
 ||fxhngjdubf.xyz^
@@ -22255,6 +22258,7 @@ vkcdnservice.appspot.com^
 ||o911o.com^
 ||oacaighy.com^
 ||oacfxrqghamyaq.com^
+||oachailo.net^
 ||oackoubs.com^
 ||oadaheba.net^
 ||oadrojoa.net^
@@ -27964,6 +27968,7 @@ vkcdnservice.appspot.com^
 ||scadstech.com^
 ||scaffoldoppresshaphazard.com^
 ||scaffoldsense.com^
+||scalenerequin.com^
 ||scalesfilamentmow.com^
 ||scaleshustleprice.com^
 ||scalesmothforget.com^
@@ -43013,6 +43018,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analytics.b2.ai^
 ||tracking.ai.rakuten.co.jp^
 ||supportmetrics.apple.com^
 ||securemvt.apple.com^
@@ -47496,6 +47502,7 @@ inapps.appsflyersdk.com^
 ||tracking.smartmeapp.com^
 ||webpixel.smartmeapp.com^
 ||evt-api.ntm.eu^
+||impression-tracker-service-5eimuebuhq-lz.a.run.app^
 ! Tajik
 ||pixel.smartmedia.tj^
 ! Thai
@@ -47643,6 +47650,7 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||monetizer.guru^
 ||1wiipr.xyz^
 ||bcdjcjjhgfiejgfjhah.world^
 ||proppellerads.ru^
@@ -52185,9 +52193,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 20 Feb 2024 11:07 UTC+7
-! Version: 2402201107
-! Blocked: 863 rules
+! Last modified: 21 Feb 2024 11:07 UTC+7
+! Version: 2402211107
+! Blocked: 867 rules
 ! Expires: 1 days (update frequency)
 !
 ||24h-ad.24hstatic.com^
@@ -52202,6 +52210,7 @@ inapps.appsflyersdk.com^
 ||adi.vcmedia.vn^
 ||admicro*.vcmedia.vn^
 ||adnetwork.vn^
+||adop.asia^
 ||adp.vnecdn.net^
 ||ads-admin.hubs.vn^
 ||ads-platform.zalo.me^
@@ -52677,6 +52686,7 @@ inapps.appsflyersdk.com^
 ||bi.vhost.vn^
 ||bidgear-syndication.com^
 ||btrack.homedy.com^
+||bubblyzucchini.com^
 ||campaign.gitiho.com^
 ||cdn-ads.thesaigontimes.vn^
 ||cdn.api-connect.io^
@@ -52745,6 +52755,7 @@ inapps.appsflyersdk.com^
 ||log-dttc.sggp.org.vn^
 ||log-en.nhandan.vn^
 ||log-en.sggp.org.vn^
+||log.247post.vn^
 ||log.anninhthudo.vn^
 ||log.baobackan.com.vn^
 ||log.baocaobang.vn^
@@ -52981,6 +52992,7 @@ inapps.appsflyersdk.com^
 ||widget.kyna.vn^
 ||xads.joboko.com^
 ||xmadsapi.joboko.com^
+||za.agiay.vn^
 ||zigzag.vn^
 
 !
@@ -52988,9 +53000,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 19 Feb 2024 10:57 UTC+7
-! Version: 2402191057
-! Blocked: 4,097 rules
+! Last modified: 21 Feb 2024 11:08 UTC+7
+! Version: 2402211108
+! Blocked: 4,098 rules
 ! Expires: 1 days (update frequency)
 !
 ||0088shop.com^
@@ -53469,6 +53481,7 @@ inapps.appsflyersdk.com^
 ||dichvucong.tgovn.cc^
 ||dichvucong.vgovn.net^
 ||dichvucong.xgovn.net^
+||dichvucong.zvgov.com^
 ||dichvucongbaohiemxahoi.com^
 ||dichvudaohantindung.com^
 ||dichvunhantien-eu.org^
@@ -57020,8 +57033,10 @@ inapps.appsflyersdk.com^
 ||88lm05.com^
 ||8xtm6i.cn^
 ||999xx999kk.com^
+||aaoisp.com^
 ||agmed.cyou^
 ||anjdwmq.xyz^
+||awuvcq.xyz^
 ||bba9603w.com^
 ||bdxpdz.xyz^
 ||benpsbp.com^
@@ -57038,23 +57053,31 @@ inapps.appsflyersdk.com^
 ||cliffnsc.xyz^
 ||clywws.xyz^
 ||cvbjctqs.xyz^
+||cvnxetmq.xyz^
 ||cvudqzoa.xyz^
 ||cwssfg632.shop^
+||ddielv.cn^
 ||dsbqvj.xyz^
+||dxrnksm.xyz^
+||fmfnrf.xyz^
 ||fwcnex.icu^
+||ghgasdt963.shop^
 ||gicjtss.cn^
 ||gvbta.icu^
 ||hbjolp.xyz^
+||heapz.cyou^
 ||hhffks967.shop^
 ||hhffnu135.shop^
 ||hmrwkcx.cn^
 ||jgmywh.icu^
+||jqpejp.xyz^
 ||js131.cn^
 ||kbomku.xyz^
 ||kksjsa.top^
 ||l5kt1.icu^
 ||lfffzv.xyz^
 ||lvdedf.xyz^
+||nddld.cn^
 ||ngnxyub.cn^
 ||nkbkor.icu^
 ||nplahh.xyz^
@@ -57064,12 +57087,14 @@ inapps.appsflyersdk.com^
 ||ostjpig.cn^
 ||ovjlccs.xyz^
 ||p04qzl.cn^
+||p0v2ni.cn^
 ||p45m0.icu^
 ||przbzr.xyz^
 ||qlbbowx.xyz^
 ||qzalsk.xyz^
 ||rfnvqpo.xyz^
 ||ruqwgb.icu^
+||shuocyw.cn^
 ||spsfupq.cn^
 ||szbhb.cn^
 ||szpnz.cn^
@@ -57083,6 +57108,7 @@ inapps.appsflyersdk.com^
 ||uctutu3789.xyz^
 ||uu22662.com^
 ||uxrdg.cn^
+||veaiyl.icu^
 ||wnmaoc.xyz^
 ||wqcfg.cn^
 ||xcypgd.icu^
@@ -57100,16 +57126,14 @@ inapps.appsflyersdk.com^
 ||ydybwjpa.xyz^
 ||yliffnsc.xyz^
 ||yvbjctqs.xyz^
+||yvnxetmq.xyz^
 ||yvudqzoa.xyz^
 ||yyddkm526.shop^
 ||ztxjutz.xyz^
-||nddld.cn^
-||yvnxetmq.xyz^
-||awuvcq.xyz^
-||jqpejp.xyz^
-||fmfnrf.xyz^
-||veaiyl.icu^
-||dxrnksm.xyz^
+||misjgy.xyz^
+||wkywrc.cn^
+||rarcff.xyz^
+||phvfevk.xyz^
 ||01v62.xyz^
 ||052db.website^
 ||053h94.com^
