@@ -1,7 +1,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Last modified: 2024-02-24T00:17:57.758Z
+! Last modified: 2024-02-25T00:20:32.818Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -11,7 +11,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Last modified: 2024-02-24T00:02:27.459Z
+! Last modified: 2024-02-25T00:02:55.665Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -29,6 +29,7 @@
 !
 !
 !
+||4lke.online^
 ||agazejagless.com^
 ||forestallbladdermajestic.com^
 ||ganehangmen.com^
@@ -30714,6 +30715,7 @@ vkcdnservice.appspot.com^
 ||tbiwkjomju.com^
 ||tbm09.com^
 ||tbmwkwbdcryfhb.xyz^
+||tbpot.com^
 ||tbppfktchj.com^
 ||tbradshedm.org^
 ||tbsjkaorxwuchyb.com^
@@ -37184,6 +37186,7 @@ vkcdnservice.appspot.com^
 ||smartadtags.com^
 ||smartadv.ru^
 ||smartclip.net^
+||smartico.one^
 ||smarttargetting.co.uk^
 ||smarttargetting.net^
 ||smartyads.com^
@@ -37568,6 +37571,7 @@ vkcdnservice.appspot.com^
 ||pacontainer.s3.amazonaws.com^
 ||pagead2.googlesyndication.com^
 ||parking.godaddy.com^
+||partner-app.softwareselect.com^
 ||partner.e-conomic.com^
 ||partner.vecteezy.com^
 ||partners.autotrader.co.uk^
@@ -46626,6 +46630,7 @@ inapps.appsflyersdk.com^
 ||pagesense-collect.zoho.com^
 ||pagesocket.glam.com^
 ||pap.qualityunit.com^
+||pbjs-stream.bydata.com^
 ||pegasus.unifygroup.com^
 ||perso.aws.arc.pub^
 ||pets.channeladvisor.com^
@@ -51466,7 +51471,6 @@ inapps.appsflyersdk.com^
 ||server4ads.com^
 ||servote.de^
 ||sexgoesmobile.com^
-||smartico.one^
 ||solads.media^
 ||spaceeditors.com^
 ||sparkads.ws^
@@ -51530,8 +51534,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-02-16 08:49:21 CET
-# entries:        1075
+# last updated:   2024-02-24 12:03:10 CET
+# entries:        1076
 # format:         hosts (hosts -- in hosts file format)
 ||1terms.com^
 ||a.zxcvads.com^
@@ -57331,6 +57335,7 @@ inapps.appsflyersdk.com^
 ||aaoisp.com^
 ||agmed.cyou^
 ||anjdwmq.xyz^
+||arqvm.cn^
 ||awuvcq.xyz^
 ||bba9603w.com^
 ||bdtdat652.shop^
@@ -57376,8 +57381,10 @@ inapps.appsflyersdk.com^
 ||js131.cn^
 ||kbomku.xyz^
 ||kksjsa.top^
+||ktoioo.xyz^
 ||l5kt1.icu^
 ||lfffzv.xyz^
+||luofk.xyz^
 ||lvdedf.xyz^
 ||misjgy.xyz^
 ||nddld.cn^
@@ -57393,6 +57400,7 @@ inapps.appsflyersdk.com^
 ||p0v2ni.cn^
 ||p45m0.icu^
 ||phvfevk.xyz^
+||pjzxdl.xyz^
 ||przbzr.xyz^
 ||qlbbowx.xyz^
 ||qzalsk.xyz^
@@ -57402,8 +57410,10 @@ inapps.appsflyersdk.com^
 ||ruqwgb.icu^
 ||rydyvv.xyz^
 ||shuocyw.cn^
+||sjaaquj.cn^
 ||soffersk.com^
 ||spsfupq.cn^
+||srzpsbf.xyz^
 ||szbhb.cn^
 ||szpnz.cn^
 ||szptp.cn^
@@ -57418,6 +57428,7 @@ inapps.appsflyersdk.com^
 ||uxrdg.cn^
 ||veaiyl.icu^
 ||vxfdepn.cn^
+||wbvfj.xyz^
 ||wkywrc.cn^
 ||wnmaoc.xyz^
 ||wqcfg.cn^
@@ -57427,11 +57438,13 @@ inapps.appsflyersdk.com^
 ||xdrvkdni.xyz^
 ||xdybwjpa.xyz^
 ||xliffnsc.xyz^
+||xn--wgvp78a61swpe6zdozj.cn^
 ||xszw0.icu^
 ||xvbjctqs.xyz^
 ||xvgrszkg.xyz^
 ||xvudqzoa.xyz^
 ||ycqbgm.xyz^
+||yddjmpjo.xyz^
 ||ydfhidrk.xyz^
 ||ydrvkdni.xyz^
 ||ydybwjpa.xyz^
@@ -57445,9 +57458,6 @@ inapps.appsflyersdk.com^
 ||zopuqv.icu^
 ||ztxjutz.xyz^
 ||zuvbzl.xyz^
-||arqvm.cn^
-||yddjmpjo.xyz^
-||ktoioo.xyz^
 ||01v62.xyz^
 ||052db.website^
 ||053h94.com^
