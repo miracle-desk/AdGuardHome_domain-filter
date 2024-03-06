@@ -2208,6 +2208,7 @@
 ||ad.gem88.win^
 ||ad.mibet.com^
 ||ad.playhit.biz^
+||ad.qc789.vip^
 ||ad.rikvip.uk^
 ||ad.taihit.win^
 ||ad.yo88.net^
@@ -2625,6 +2626,7 @@
 ||cdn.868vip.live^
 ||cdn.888loc.io^
 ||cdn.kingbet86.info^
+||cdn.megawin88.mobi^
 ||cdn.vbet88.fun^
 ||cdn.vicplay.io^
 ||cdn.vwin010.com^
@@ -2822,6 +2824,7 @@
 ||debet.top^
 ||debet.win^
 ||debet88.win^
+||deca88.com^
 ||dfbertuah.com^
 ||dfchoingay.com^
 ||dffgames.com^
@@ -5114,6 +5117,7 @@
 ||media.1789bet.com^
 ||media.happynb.com^
 ||media.lixi99.com^
+||megawin88.mobi^
 ||mi3368.com^
 ||mibet.cc^
 ||mibet.com^
@@ -5440,6 +5444,7 @@
 ||qc.x8.club^
 ||qc.x8vn.top^
 ||qc.zo88.org^
+||qc789.vip^
 ||qh205.com^
 ||qh215.com^
 ||qh217.com^
@@ -5767,6 +5772,7 @@
 ||tai.rikvip.tv^
 ||tai.rikvip.us^
 ||tai.rikvip.vip^
+||tai.rikvip.win^
 ||tai.samvip.bet^
 ||tai.son.club^
 ||tai.taisum2.com^
@@ -5848,6 +5854,7 @@
 ||taiv8.com^
 ||taiv8.info^
 ||taiv8.top^
+||taivip52.shop^
 ||taiwin79.win^
 ||taix1.club^
 ||taixhu.gg^
@@ -5865,6 +5872,7 @@
 ||tbr.games^
 ||tdtc.cc^
 ||tdtc.fun^
+||tdtc.vn^
 ||tdtcyy.com^
 ||tdtczz.com^
 ||tf2022v.com^
@@ -6336,6 +6344,7 @@
 ||wbet58.com^
 ||wbet99.net^
 ||wc.taiuk88.net^
+||wcdn.megawin88.mobi^
 ||wcdn.sdjlbg.xyz^
 ||wcdn.vbet88.fun^
 ||we1win.com^
@@ -6833,6 +6842,7 @@
 ||www.mbx88.com^
 ||www.mc876.com^
 ||www.me88vn1.com^
+||www.megawin88.mobi^
 ||www.mibet.com^
 ||www.mibet.mobi^
 ||www.mibet88.com^
@@ -10274,6 +10284,7 @@
 ||clover.co^
 ||pof.com^
 ||match.com^
+||likee.video^
 ||mbga.jp^
 ||mixi.jp^
 ||mixch.tv^
