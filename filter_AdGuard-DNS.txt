@@ -1,7 +1,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Last modified: 2024-03-22T00:18:45.284Z
+! Last modified: 2024-03-23T00:18:34.985Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.23
 !
@@ -11,7 +11,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Last modified: 2024-03-22T00:02:36.794Z
+! Last modified: 2024-03-23T00:02:40.092Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
@@ -773,6 +773,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||d2psma0az3acui.cloudfront.net^
 ||rec.deezer.com^
 ||ads.greengeeks.com^
 ||d1rr5z16sjcy10.cloudfront.net^
@@ -996,8 +997,19 @@
 !
 ||gjc.gjirafa.com^
 ||code.ainsyndication.com^
+!
+!---------------------------------------------------------------------
+!------------------------------ Croatian -----------------------------
+!---------------------------------------------------------------------
+! NOTE: Croatian
+!
+||a.mabipa.com^
+||klik-slider.morgancode.com^
+||lupon.media^
+||redakcija.alo.rs^
 ||traffic.styria.hr^
 ||widget.admiral.hr^
+||widgets.jutarnji.hr^
 ||eph-adsjutarnji.cdn.sysbee.net^
 ||subs.vingd.com^
 !+ NOT_OPTIMIZED
@@ -2860,6 +2872,7 @@ vkcdnservice.appspot.com^
 ||advancingprobationhealthy.com^
 ||advancingrecruitingamy.com^
 ||advang.com^
+||advantagedoctrinepleased.com^
 ||advantageglobalmarketing.com^
 ||advantagepublicly.com^
 ||advantagesclotblend.com^
@@ -10619,6 +10632,7 @@ vkcdnservice.appspot.com^
 ||dsstrk.com^
 ||dsultra.com^
 ||dswqtkpk.com^
+||dsxwcas.com^
 ||dsygubntxgvxo.com^
 ||dt4ever.com^
 ||dt51.net^
@@ -12082,6 +12096,7 @@ vkcdnservice.appspot.com^
 ||excelrepulseclaimed.com^
 ||exceph.com^
 ||exceptinggapslightest.com^
+||exceptionalharshbeast.com^
 ||exceptionweakerboring.com^
 ||exceptscasease.website^
 ||excessivesinner.com^
@@ -12511,6 +12526,7 @@ vkcdnservice.appspot.com^
 ||favorite-tonight.pro^
 ||favoritenought.com^
 ||favoritetonic.com^
+||favorskhivan.com^
 ||favpqrlawfqst.com^
 ||favzzmeziy.com^
 ||fawningforegut.life^
@@ -13942,6 +13958,7 @@ vkcdnservice.appspot.com^
 ||geasefloria.com^
 ||geazjxqwbr.com^
 ||gebadu.com^
+||geckad.com^
 ||geckibou.com^
 ||gecl.xyz^
 ||geddshippy.com^
@@ -17290,6 +17307,7 @@ vkcdnservice.appspot.com^
 ||iqtest365.online^
 ||iqwfauzxumyk.com^
 ||iqxsncsregcxu.xyz^
+||iqxuuski.com^
 ||irbout.com^
 ||irbtwjy.com^
 ||ireced.com^
@@ -21464,6 +21482,7 @@ vkcdnservice.appspot.com^
 ||monksmilestonewill.com^
 ||monnionyusdrum.com^
 ||monopolydecreaserelationship.com^
+||monsoonlassi.com^
 ||monsterofnews.com^
 ||monstrous-boyfriend.pro^
 ||monstrousrowandays.com^
@@ -23542,6 +23561,7 @@ vkcdnservice.appspot.com^
 ||omnatuor.com^
 ||omni-ads.com^
 ||omnidokingon.com^
+||omnipotentglobalbeer.com^
 ||omnipresentstream.com^
 ||omniscrienttow.com^
 ||omnitagjs.com^
@@ -24264,6 +24284,7 @@ vkcdnservice.appspot.com^
 ||owrddzml.com^
 ||owrkwilxbw.com^
 ||owtvhrydewc.com^
+||owwafgaqdapg.com^
 ||owwczycust.com^
 ||owwogmlidz.com^
 ||owxanjxlxtfbjw.com^
@@ -25893,6 +25914,7 @@ vkcdnservice.appspot.com^
 ||precisionclick.com^
 ||precisionnight.com^
 ||precislooed.com^
+||precursorinclinationbruised.com^
 ||predatoryfilament.com^
 ||predatorymould.com^
 ||predestineprohibitionmassive.com^
@@ -29900,6 +29922,7 @@ vkcdnservice.appspot.com^
 ||sklsnpqr.com^
 ||sknkwpvrkz.com^
 ||skogrkrfxmy.com^
+||skolvortex.com^
 ||skuligpzifan.com^
 ||skulkspreppie.com^
 ||skullhalfway.com^
@@ -30087,6 +30110,7 @@ vkcdnservice.appspot.com^
 ||snaglighter.com^
 ||snailteasesimulator.com^
 ||snakeselective.com^
+||snakilyglebae.com^
 ||snakro.com^
 ||snammar-jumntal.com^
 ||snapfooted.com^
@@ -33210,6 +33234,7 @@ vkcdnservice.appspot.com^
 ||uads.digital^
 ||uads.info^
 ||uads.pw^
+||uads.space^
 ||uads.store^
 ||uahpycewbx.com^
 ||uanbpywrumpuj.com^
@@ -34073,6 +34098,7 @@ vkcdnservice.appspot.com^
 ||variablevisualforty.com^
 ||variationaspenjaunty.com^
 ||variationsreviewmocking.com^
+||varicalpraiser.com^
 ||variedpretenceclasped.com^
 ||variedslimecloset.com^
 ||variedsubduedplaice.com^
@@ -35404,6 +35430,7 @@ vkcdnservice.appspot.com^
 ||whounoag.xyz^
 ||whounsou.com^
 ||whourgie.com^
+||whouroazu.net^
 ||whoursie.com^
 ||whoururt.xyz^
 ||whouseem.com^
@@ -37903,6 +37930,7 @@ vkcdnservice.appspot.com^
 ||hotelscombined.com.au^
 ||hprofits.com^
 ||httpool.com^
+||hypelab.com^
 ||hyros.com^
 ||ibannerexchange.com^
 ||ibillboard.com^
@@ -38313,7 +38341,6 @@ vkcdnservice.appspot.com^
 ||statsperformdev.com^
 ||stocker.bonnint.net^
 ||stratos.blue^
-||streamate.com^
 ||streamdefence.com^
 ||strikead.com^
 ||strossle.com^
@@ -38465,6 +38492,7 @@ vkcdnservice.appspot.com^
 ||googleadservices-cn.com^
 ||googleadsserving.cn^
 ||googlevads-cn.com^
+||2aeabdd4-3280-4f03-bc92-1890494f28be.xyz^
 ! Samsung/LG/Philips smart-TV ad domains
 ||ad.lgappstv.com^
 ||ad.nettvservices.com^
@@ -40242,7 +40270,6 @@ vkcdnservice.appspot.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||leadc6.icu^
 ||pangolin16.sgsnssdk.com^
-||i18n-pglstatp.com^
 ||ads.adadapted.com^
 ||zflylg.buzz^
 ||zflfoy.xyz^
@@ -40889,6 +40916,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||jcpclick.com^
 ||analytics-sm.com^
 ||adxcel-ec2.com^
 ||cdn.ad-platform.jmty.jp^
@@ -41136,7 +41164,7 @@ vkcdnservice.appspot.com^
 ||px*.mediahills.ru^
 ||sdk.conscent.in^
 ||tpstelemetry.tencent.com^
-||posthog.com^
+||app.posthog.com^
 ||crossees.com^
 ||plausiblecdn.co^
 ||humanz.com^
@@ -47394,6 +47422,7 @@ inapps.appsflyersdk.com^
 ||b7tp47v2nb3x-a.akamaihd.net^
 ||bacon.section.io^
 ||barium.cheezdev.com^
+||baxter.olx.org^
 ||bc.geocities.
 ||beacon.adelphic.com^
 ||beacon.affil.walmart.com^
@@ -47625,6 +47654,7 @@ inapps.appsflyersdk.com^
 ||hpr.outbrain.com^
 ||hspbotdetection.azurewebsites.net^
 ||hydro-ma-proxy.akamaized.net^
+||i.posthog.com^
 ||icu.getstorybox.com^
 ||iddu1vvb7sk8-a.akamaihd.net^
 ||identification.hotmart.com^
@@ -51516,6 +51546,7 @@ inapps.appsflyersdk.com^
 ! Source name: AdGuard Japanese filter ad servers
 !
 !
+||bibincom.com^
 ||smart-below.com^
 ||ad1.girls-affiliate.com^
 ||manga.boy.jp^
@@ -58230,6 +58261,7 @@ inapps.appsflyersdk.com^
 ||121.204.246.*.gif
 ||0940088.com^
 ||0j775d.cn^
+||0k7wod.cn^
 ||0op8kh.cn^
 ||0oqt9i.cn^
 ||0q5joc.cn^
@@ -58254,6 +58286,7 @@ inapps.appsflyersdk.com^
 ||999bb222ww.com^
 ||999xx999kk.com^
 ||aaoisp.com^
+||actitat.com^
 ||agmed.cyou^
 ||ahtfzhs.xyz^
 ||ahyyqq.xyz^
@@ -58296,6 +58329,7 @@ inapps.appsflyersdk.com^
 ||cdmnlxtu.xyz^
 ||cdrvkdni.xyz^
 ||cdybwjpa.xyz^
+||cfrtdmb.xyz^
 ||chayassa.com^
 ||cherylssb.com^
 ||cijianggun.com^
@@ -58308,6 +58342,7 @@ inapps.appsflyersdk.com^
 ||crjeymh.cn^
 ||ctlrarz.xyz^
 ||ctmrso.xyz^
+||ctyusif.top^
 ||cvbjctqs.xyz^
 ||cvgrszkg.xyz^
 ||cvnxetmq.xyz^
@@ -58316,6 +58351,7 @@ inapps.appsflyersdk.com^
 ||cxlvlbx.xyz^
 ||d3g4a.cyou^
 ||damiul.icu^
+||dataryon.com^
 ||dawdlealmonry.com^
 ||ddielv.cn^
 ||delhirs.com^
@@ -58323,7 +58359,9 @@ inapps.appsflyersdk.com^
 ||difmnd.xyz^
 ||djxpnuo.xyz^
 ||dkjwbv.xyz^
+||dmpqjn.xyz^
 ||dndmygr.cn^
+||dngbjyc.cn^
 ||dorper.cn^
 ||dqhxmbx.cn^
 ||drummers.cn^
@@ -58335,6 +58373,7 @@ inapps.appsflyersdk.com^
 ||dytkgl.icu^
 ||dzfzak.cn^
 ||dzuht.cn^
+||eaqlos.xyz^
 ||ebgwdon.cn^
 ||edjjpgf.xyz^
 ||efmtsw.xyz^
@@ -58346,6 +58385,7 @@ inapps.appsflyersdk.com^
 ||enifdlaw.top^
 ||eqqwgw.xyz^
 ||execuri.com^
+||f7fe0.cyou^
 ||fbfrbt.xyz^
 ||fefgvh.xyz^
 ||fekpcd.icu^
@@ -58364,6 +58404,8 @@ inapps.appsflyersdk.com^
 ||ghgasdt963.shop^
 ||gicjtss.cn^
 ||gkutca.xyz^
+||golilog.com^
+||grtarpcf963.top^
 ||gsuxyg.xyz^
 ||gvbta.icu^
 ||ha723.icu^
@@ -58384,6 +58426,7 @@ inapps.appsflyersdk.com^
 ||hnifdlau.top^
 ||hozatr.xyz^
 ||hrnkdr.xyz^
+||htyusiu.top^
 ||hyusnisu.top^
 ||ijvla.cn^
 ||imevzbn.cn^
@@ -58398,6 +58441,7 @@ inapps.appsflyersdk.com^
 ||jioed.cyou^
 ||jnifdlaa.top^
 ||jozbun.icu^
+||jqbddp.xyz^
 ||jqpejp.xyz^
 ||js131.cn^
 ||justapp.top^
@@ -58462,6 +58506,7 @@ inapps.appsflyersdk.com^
 ||osisk.com^
 ||ostjpig.cn^
 ||ovjlccs.xyz^
+||oxvlxwz.xyz^
 ||p04qzl.cn^
 ||p0v2ni.cn^
 ||p45m0.icu^
@@ -58478,6 +58523,7 @@ inapps.appsflyersdk.com^
 ||qcohkm.xyz^
 ||qetskupch581.shop^
 ||qetskupyka61.shop^
+||qhemphox.com^
 ||qhocciks.com^
 ||qhodog.xyz^
 ||qlbbowx.xyz^
@@ -58488,6 +58534,7 @@ inapps.appsflyersdk.com^
 ||qvnbjjd.xyz^
 ||qw9cu.cyou^
 ||qzalsk.xyz^
+||qzozsa.xyz^
 ||rarcff.xyz^
 ||rbhunp.xyz^
 ||rcyzsh.icu^
@@ -58562,18 +58609,22 @@ inapps.appsflyersdk.com^
 ||uuvzmba.cn^
 ||uxlvk.cn^
 ||uxrdg.cn^
+||uxzvjoj.cn^
 ||vabzndw.cn^
 ||vaekkfv.cn^
+||vcnpnf.xyz^
 ||vdvcjlp.cn^
 ||veaiyl.icu^
 ||vflorp.xyz^
 ||vhvwlb.xyz^
 ||vmnlkr.icu^
+||vpzohx.xyz^
 ||vszzzj.xyz^
 ||vxfdepn.cn^
 ||wbubgob.cn^
 ||wbvfj.xyz^
 ||wefihob.cn^
+||wingsurf.cn^
 ||wisealty.com^
 ||wjwod.cyou^
 ||wkywrc.cn^
@@ -58620,28 +58671,20 @@ inapps.appsflyersdk.com^
 ||yyddkm526.shop^
 ||zagyjnn.cn^
 ||zailgrae.com^
+||zfzys.top^
 ||zhaweifeng.com^
 ||zhihucloud.xyz^
 ||zjrtxt.xyz^
 ||znhlxvb.xyz^
 ||zojyob.icu^
-||eaqlos.xyz^
-||jqbddp.xyz^
-||uxzvjoj.cn^
-||cfrtdmb.xyz^
-||vcnpnf.xyz^
-||ctyusif.top^
-||grtarpcf963.top^
-||dngbjyc.cn^
-||qhemphox.com^
-||f7fe0.cyou^
-||vpzohx.xyz^
-||0k7wod.cn^
-||htyusiu.top^
-||golilog.com^
-||actitat.com^
-||dmpqjn.xyz^
-||qzozsa.xyz^
+||0lmv9e.cn^
+||ityusio.top^
+||xizanzhi.com^
+||hitchun.com^
+||lwrohd.xyz^
+||clmkwi.xyz^
+||fpvdrzx.xyz^
+||hbxzlf.xyz^
 ||zopuqv.icu^
 ||zsjpi.cn^
 ||zttuvj.xyz^
