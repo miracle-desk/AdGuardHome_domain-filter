@@ -2588,6 +2588,7 @@
 ||bongda80.com^
 ||bongdaeuro188.com^
 ||bongvip.com^
+||bons.com^
 ||boom66.com^
 ||box2020.oxbetd.com^
 ||bt9gl.com^
@@ -2624,6 +2625,9 @@
 ||cado888.com^
 ||cadomienphi.com^
 ||cadomienphi.org^
+||cadovn.biz^
+||cadovn.com^
+||cadovn.pro^
 ||cashier2.188thethao.com^
 ||casino86.club^
 ||casino888vn.com^
@@ -2637,6 +2641,7 @@
 ||cdn.vicplay.io^
 ||cdn.vwin010.com^
 ||cdn.winclub.net^
+||cdvn.vip^
 ||cf68.app^
 ||cf68.click^
 ||cf68.club^
@@ -2722,6 +2727,7 @@
 ||comebetvn3.com^
 ||comebetvn9.com^
 ||conggamehot.fun^
+||coopbet.com^
 ||corona999.com^
 ||cstga.com^
 ||cuoc.choilawin.net^
@@ -2793,6 +2799,7 @@
 ||dagablv.com^
 ||dagacampuchia.com^
 ||dagacampuchia.io^
+||dagachoi.tv^
 ||dagacuadao.org^
 ||dagahomqua.com^
 ||dagatructiep.casino^
@@ -2848,6 +2855,7 @@
 ||dk.choitet.vip^
 ||dk.choiwin79.net^
 ||dk.gamequyong.xyz^
+||dk.playgem.club^
 ||dk.rikkk.net^
 ||dk.thangiwin.org^
 ||dk.thethaouk88.org^
@@ -2984,6 +2992,7 @@
 ||f8betapp.net^
 ||f8betgg.com^
 ||f8bets.pro^
+||fa88.tv^
 ||fa88.win^
 ||fa88vn.live^
 ||fabet.ac^
@@ -3071,6 +3080,8 @@
 ||five88.com^
 ||five88.me^
 ||five88.net^
+||five88.top^
+||five88.vin^
 ||five88.win^
 ||fivevn.net^
 ||fmapt.com^
@@ -3190,6 +3201,7 @@
 ||go88.info^
 ||go88.live^
 ||go88.luxury^
+||go88.org^
 ||go88.study^
 ||go88.tv^
 ||go88.vip^
@@ -3250,6 +3262,7 @@
 ||hb8887.com^
 ||hb88p.com^
 ||hb88vn.co^
+||hcm66.com^
 ||hi.oppa888.com^
 ||hi888.app^
 ||hi88vip1.com^
@@ -3291,9 +3304,11 @@
 ||hstsc07cdn.com^
 ||hucd0.com^
 ||hx9119.com^
+||i.go88.org^
 ||i1lnr.com^
 ||i8bet.org^
 ||i9-bet.com^
+||i9.bet^
 ||i99902.com^
 ||i99903.com^
 ||i99904.com^
@@ -3407,6 +3422,7 @@
 ||i9bet999.com^
 ||i9betdl.com^
 ||i9i9bet.com^
+||i9vn.com^
 ||ibet268.com^
 ||ibet889.com^
 ||ibwinghot.com^
@@ -3427,6 +3443,7 @@
 ||img.lucky88.net^
 ||img.may88.club^
 ||img.may88.com^
+||img.may88.game^
 ||img.may88.top^
 ||img.may88.us^
 ||img.mu9.club^
@@ -4761,6 +4778,7 @@
 ||k9vn2.com^
 ||kaivip.club^
 ||kc6bet.net^
+||kc8.link^
 ||kc99.vin^
 ||kenhbong.com^
 ||kenhthethao.net^
@@ -4859,6 +4877,7 @@
 ||kuwin.com^
 ||kuwinvip.com^
 ||lambada-tx1app.fun^
+||lamgiau99.club^
 ||langvuichoi.net^
 ||ld99.club^
 ||leto58.xyz^
@@ -5126,6 +5145,7 @@
 ||may88.club^
 ||may88.com^
 ||may88.fun^
+||may88.game^
 ||may88.top^
 ||may88.us^
 ||may88.vip^
@@ -5218,6 +5238,8 @@
 ||my188bet.com^
 ||myk8.live^
 ||mykubet.com^
+||na99.city^
+||na99.pro^
 ||naapptbwf.com^
 ||nbet.club^
 ||nbet.com^
@@ -5233,6 +5255,7 @@
 ||nbet88.org^
 ||nearom.com^
 ||nemo.vin^
+||net88.vip^
 ||new.vx88.com^
 ||new88.ai^
 ||new88.love^
@@ -5299,6 +5322,7 @@
 ||onbet7.com^
 ||onbet863.com^
 ||onbet993.com^
+||one88.cc^
 ||one88.club^
 ||one88.com^
 ||one88.fun^
@@ -5326,6 +5350,7 @@
 ||oxbet.cc^
 ||oxbet.club^
 ||oxbet.com^
+||oxbet.in^
 ||oxbet.net^
 ||oxbet.top^
 ||oxbet.us^
@@ -5378,6 +5403,7 @@
 ||play.manclub.vin^
 ||play.nemo.vin^
 ||play.playiwin.biz^
+||play.rik88.life^
 ||play.rikgame.live^
 ||play.rikvip.tv^
 ||play.sbotop246.com^
@@ -5407,6 +5433,7 @@
 ||player.oleviet777.com^
 ||player.win102.com^
 ||playgamefa88.live^
+||playgem.club^
 ||playgo88.asia^
 ||playgo88.top^
 ||playhit.biz^
@@ -5435,6 +5462,7 @@
 ||portal.xinloiduocchua.co^
 ||pp88.dev^
 ||pp88.icu^
+||prettygame666.com^
 ||pro.vuigiaitri.org^
 ||prod.bwingmkt1.com^
 ||prod.bwingmkt10.com^
@@ -5511,6 +5539,7 @@
 ||record.pog79aff.com^
 ||red88.com^
 ||red88.top^
+||red88.tv^
 ||red88.uk^
 ||red88.us^
 ||red88.vin^
@@ -5530,6 +5559,7 @@
 ||rik.vip^
 ||rik.win^
 ||rik6.com^
+||rik88.life^
 ||rikbet789.club^
 ||rikgame.live^
 ||rikk.us^
@@ -5788,6 +5818,7 @@
 ||t8bet999.com^
 ||t8betvip.com^
 ||ta88.com^
+||ta88.org^
 ||ta88.vip^
 ||tai-sumvip.city^
 ||tai.b52vn.fun^
@@ -6074,6 +6105,7 @@
 ||uw88vnn3.com^
 ||uw88vnn4.com^
 ||uytin.8day66.com^
+||v.fa88.tv^
 ||v111w.com^
 ||v112w.com^
 ||v121w.com^
@@ -6216,6 +6248,7 @@
 ||vn666.bet^
 ||vn67801.com^
 ||vn789.net^
+||vn86.shop^
 ||vn88.bet^
 ||vn88.biz^
 ||vn88.casino^
@@ -6351,6 +6384,7 @@
 ||vz683.com^
 ||vz79.com^
 ||vz99.app^
+||vz99.ws^
 ||vz99vietnam.com^
 ||w-sunwin.net^
 ||w008.com^
@@ -7079,6 +7113,7 @@
 ||www.vn500.com^
 ||www.vn666.bet^
 ||www.vn67801.com^
+||www.vn86.shop^
 ||www.vn88.bet^
 ||www.vn88.casino^
 ||www.vn88.club^
@@ -7202,7 +7237,14 @@
 ||xoso55.com^
 ||xoso5678.com^
 ||xoso6.com^
+||xoso66.com^
+||xoso66.info^
 ||xoso66.io^
+||xoso66.life^
+||xoso66.me^
+||xoso66.men^
+||xoso66.one^
+||xoso66.org^
 ||xoso6600.com^
 ||xoso678.com^
 ||xoso788.com^
@@ -7242,6 +7284,7 @@
 ||z3.zbetvn.com^
 ||z333666.com^
 ||zbet.com^
+||zbet.fun^
 ||zbet.me^
 ||zbet.vn^
 ||zbet.win^
