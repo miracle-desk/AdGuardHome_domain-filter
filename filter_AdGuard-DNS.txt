@@ -1,7 +1,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Last modified: 2024-05-15T00:20:13.834Z
+! Last modified: 2024-05-16T00:19:42.588Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -11,7 +11,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Last modified: 2024-05-15T00:02:44.603Z
+! Last modified: 2024-05-16T00:02:46.890Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -29,6 +29,7 @@
 !
 !
 !
+||pushatomic.com^
 ||gussiessmutchy.com^
 ||cfusionsys.com^
 ||zmonei.com^
@@ -2007,6 +2008,7 @@ vkcdnservice.appspot.com^
 ||5vpbnbkiey24.com^
 ||5wuefo9haif3.com^
 ||5xd3jfwl9e8v.com^
+||6-partner.com^
 ||6001628d3d.com^
 ||600z.com^
 ||6061de8597.com^
@@ -10602,6 +10604,7 @@ vkcdnservice.appspot.com^
 ||dessly.ru^
 ||destinationoralairliner.com^
 ||destinedsponsornominate.com^
+||destinysfavored.xyz^
 ||destroyedspear.com^
 ||destructionhybrids.com^
 ||desugeng.xyz^
@@ -15199,6 +15202,7 @@ vkcdnservice.appspot.com^
 ||gecl.xyz^
 ||geechaid.xyz^
 ||geedoovu.net^
+||geegleshoaph.com^
 ||geeksundigne.com^
 ||geerairu.net^
 ||geethaihoa.com^
@@ -17060,6 +17064,7 @@ vkcdnservice.appspot.com^
 ||higheurest.com^
 ||highjackclients.com^
 ||highjournalistbargain.com^
+||highlevelbite.com^
 ||highlypersevereenrapture.com^
 ||highlyrecomemu.info^
 ||highmaidfhr.com^
@@ -24960,6 +24965,7 @@ vkcdnservice.appspot.com^
 ||oacfxrqghamyaq.com^
 ||oachailo.net^
 ||oackoubs.com^
+||oackoulimtoo.com^
 ||oadrojoa.net^
 ||oadsaurs.net^
 ||oadsouzi.net^
@@ -26317,6 +26323,7 @@ vkcdnservice.appspot.com^
 ||oypucuqsuwabnxy.com^
 ||oysterexhalereview.com^
 ||oysterfoxfoe.com^
+||oyuvcqmqjyrqd.com^
 ||oywzrri.com^
 ||oyxctgotabvk.com^
 ||oyyihttyklfwcgy.xyz^
@@ -28291,6 +28298,7 @@ vkcdnservice.appspot.com^
 ||professionalsly.com^
 ||professionalswebcheck.com^
 ||professmeeting.com^
+||professorrevealingoctopus.com^
 ||professtrespass.com^
 ||proffering.xyz
 ||proffering.xyz^
@@ -41781,6 +41789,7 @@ vkcdnservice.appspot.com^
 ||ca9246.xyz^
 ||caa2c4.xyz^
 ||d84bc26d.site^
+||d980ed.xyz^
 ||e076.xyz^
 ||e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz^
 ||ec44.site^
@@ -47783,6 +47792,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||temp.twicomi.com^
 ||tracking.carsales.com.au^
 ||beacon.nc-net.or.jp^
 ||lhe-beacon.team-rec.jp^
@@ -51656,9 +51666,11 @@ inapps.appsflyersdk.com^
 ||businessclick.ch^
 ||content-garden.com^
 ||contiamo.com^
+||counter-zaehler.de^
 ||dcmn.io^
 ||dl8.me^
 ||etrust.eu^
+||fast-counter.net^
 ||giga-abs.de^
 ||haymarketstat.de^
 ||hstrck.com^
@@ -52092,6 +52104,7 @@ inapps.appsflyersdk.com^
 ||trecker.aklamio.com^
 ||vtrtl.de^
 ||webcounter.goweb.de^
+||wranalytics.wildrocket.io^
 ||x.bloggurat.net^
 ||zs.dhl.de^
 ||affiliation.planethoster.info^
@@ -54749,6 +54762,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||ad-service.shop^
 ||yonderdim.com^
 ||gr.hdream.cfd^
 ||kriptoparahaber.care^
@@ -55658,6 +55672,7 @@ inapps.appsflyersdk.com^
 ||bd742.com^
 ||cdu-offline.de^
 ||dierussensindschuld.de^
+||fantecio.com^
 ||gayads.biz^
 ||gema-online.de^
 ||holyjesus.de^
@@ -55665,6 +55680,7 @@ inapps.appsflyersdk.com^
 ||swissadserver.ch^
 ||wirverkaufennichts.de^
 ||wixnm.com^
+||zazufi.com^
 !
 ||4rm.de^
 ||a.partner-versicherung.de^
@@ -55906,7 +55922,6 @@ inapps.appsflyersdk.com^
 ||youspacko.com^
 ||z0a.de^
 ||za-ads.de^
-||zazufi.com^
 ||zieltracker.de^
 ||zuppelzockt.com^
 ||zyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqp.de^
@@ -55920,8 +55935,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-05-01 05:40:47 CEST
-# entries:        1076
+# last updated:   2024-05-15 08:11:09 CEST
+# entries:        1077
 # format:         hosts (hosts -- in hosts file format)
 ||1terms.com^
 ||a.zxcvads.com^
@@ -56478,6 +56493,7 @@ inapps.appsflyersdk.com^
 ||www.blogtoplist.se^
 ||www.championsverige.com.se^
 ||www.fakturino.se^
+||www.filasverigese.com^
 ||www.guesssverige.com.se^
 ||www.kundvisaren.se^
 ||www.mymediaindex.com^
@@ -56882,9 +56898,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 12 May 2024 22:45 UTC+7
-! Version: 2405122245
-! Blocked: 874 rules
+! Last modified: 15 May 2024 09:53 UTC+7
+! Version: 2405150953
+! Blocked: 881 rules
 ! Expires: 1 days (update frequency)
 !
 ||24h-ad.24hstatic.com^
@@ -56940,13 +56956,18 @@ inapps.appsflyersdk.com^
 ||anthill.vn^
 ||anymind360-com.cdn.ampproject.org^
 ||api.nas.nct.vn^
+||api.subiz.com.vn^
+||api.subiz.net^
+||api.subiz.xyz^
 ||api.widget.zalo.me^
 ||apilog.mytvnet.vn^
 ||apilogduration.mytvnet.vn^
 ||apinas.nct.vn^
+||apiv4.subiz.com^
 ||app.harafunnel.com^
 ||app.haraloyalty.com^
 ||app.harasocial.com^
+||app.subiz.com.vn^
 ||apps.haraads.com^
 ||assets.harafunnel.com^
 ||atdnetwork.com^
@@ -57085,6 +57106,7 @@ inapps.appsflyersdk.com^
 ||promotionbar.sapoapps.vn^
 ||promotionpopup.sapoapps.vn^
 ||pub.akadigital.vn^
+||public-gcs.subiz-cdn.com^
 ||pushdi.com^
 ||pushdy.com^
 ||pushdy.vn^
@@ -57117,6 +57139,7 @@ inapps.appsflyersdk.com^
 ||stat.play.zing.vn^
 ||static-addtoany-com.cdn.ampproject.org^
 ||static.accesstrade.vn^
+||static.subiz.com^
 ||statistic-blog-v2.sapoapps.vn^
 ||stats.dev.zaloapp.com^
 ||stats.hara.vn^
@@ -57125,11 +57148,6 @@ inapps.appsflyersdk.com^
 ||stats.stg.zaloapp.com^
 ||stats.zaloapp.com^
 ||stc-support-app-brand.zdn.vn^
-||subiz-cdn.com^
-||subiz.com^
-||subiz.com.vn^
-||subiz.net^
-||subiz.xyz^
 ||surfcountor.com^
 ||syndication.adlinknetwork.vn^
 ||t.sieu-viet.com^
@@ -57164,6 +57182,7 @@ inapps.appsflyersdk.com^
 ||v9banners-com.cdn.ampproject.org^
 ||vads.net.vn^
 ||vads.vn^
+||vcdn.subiz-cdn.com^
 ||viam.com.vn^
 ||vietnamnetad.vn^
 ||vipads.cc^
@@ -57174,6 +57193,10 @@ inapps.appsflyersdk.com^
 ||watanet.work^
 ||wg.zaloapp.com^
 ||widget.chat.zalo.me^
+||widget.subiz.com^
+||widget.subiz.net^
+||widget.subiz.xyz^
+||widgetv4.subiz.com^
 ||wiinvent.com.vn^
 ||wiinvent.tv^
 ||yeah1publishing.com^
@@ -57696,9 +57719,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 12 May 2024 22:46 UTC+7
-! Version: 2405122246
-! Blocked: 4,281 rules
+! Last modified: 15 May 2024 09:54 UTC+7
+! Version: 2405150954
+! Blocked: 4,282 rules
 ! Expires: 1 days (update frequency)
 !
 ||0088shop.com^
@@ -57770,6 +57793,7 @@ inapps.appsflyersdk.com^
 ||9g5lm9.cyou^
 ||9smomo.com^
 ||Free-4paid.com^
+||a.viethu.com^
 ||a666.vn^
 ||aaeeonmart.com^
 ||abb-vnbank.cc^
@@ -62825,6 +62849,15 @@ inapps.appsflyersdk.com^
 ||vfxrpl.xyz^
 ||hgcgnfe.icu^
 ||07dy.cc^
+||nuxwlc.cn^
+||ta20k.xyz^
+||awunkse72.shop^
+||cergbtb36.shop^
+||gaochen12.top^
+||azsqkrc.icu^
+||wgidskie.top^
+||bqnxff.xyz^
+||wacisi.xyz^
 ||bpxbzps.xyz^
 ||zuvbzl.xyz^
 ||zwdtvx.xyz^
