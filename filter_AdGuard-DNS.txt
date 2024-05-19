@@ -1,7 +1,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Last modified: 2024-05-18T00:20:07.321Z
+! Last modified: 2024-05-19T00:21:57.663Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -11,7 +11,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Last modified: 2024-05-18T00:02:54.130Z
+! Last modified: 2024-05-19T00:02:46.985Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1829,6 +1829,7 @@ vkcdnservice.appspot.com^
 ||3467b7d02e.com^
 ||34710af267.com^
 ||34pavouhj7.com^
+||357dbd24e2.com^
 ||35volitantplimsoles5.com^
 ||360popads.com^
 ||360protected.com^
@@ -9169,6 +9170,7 @@ vkcdnservice.appspot.com^
 ||conquestafloat.com^
 ||conquestdrawers.com^
 ||conscienciaecompletude.com^
+||consciousness2.fun^
 ||consciousnessmost.com^
 ||consciousslice.com^
 ||consecutionwrigglesinge.com^
@@ -12740,6 +12742,7 @@ vkcdnservice.appspot.com^
 ||eobvppi.com^
 ||eofripvanwin.org^
 ||eofst.com^
+||eoftheappyrinc.info^
 ||eogaeapolaric.com^
 ||eondunpea.com^
 ||eonsmedia.com^
@@ -12997,6 +13000,7 @@ vkcdnservice.appspot.com^
 ||etyequiremu.org^
 ||etymonsibycter.com^
 ||etystoass.com^
+||euauosx.xyz^
 ||euavokhqrxhteot.com^
 ||eucing.com^
 ||eucleidclarty.cfd^
@@ -13550,6 +13554,7 @@ vkcdnservice.appspot.com^
 ||fanydourer.com^
 ||fanza.cc^
 ||fapmeth.com^
+||fapstered.com^
 ||faptdsway.ru^
 ||faquirrelot.com^
 ||faracoon.com^
@@ -14294,6 +14299,7 @@ vkcdnservice.appspot.com^
 ||fmkoyjqnxdj.com^
 ||fmkqhwrfvs.com^
 ||fmocscbstnhbq.com^
+||fmoqabrwef.com^
 ||fmorugnmnihrcv.com^
 ||fmpub.net^
 ||fmsads.com^
@@ -16312,6 +16318,7 @@ vkcdnservice.appspot.com^
 ||gsurihy.com^
 ||gswinnodf.com^
 ||gsziafjjgeq.com^
+||gt5tiybvn.com^
 ||gtbdhr.com^
 ||gtgkbkbwpqyhvq.com^
 ||gtiqmsbpor.com^
@@ -16393,6 +16400,7 @@ vkcdnservice.appspot.com^
 ||gussimsosurvey.space^
 ||gustdertrum.com^
 ||gustilyoblate.uno^
+||gutazngipaf.com^
 ||gutchauzaugh.com^
 ||gutobtdagruw.com^
 ||gutrnesak.com^
@@ -23564,6 +23572,7 @@ vkcdnservice.appspot.com^
 ||msensuedcounteract.com^
 ||msgose.com^
 ||mshago.com^
+||msidxwkjfqbrq.com^
 ||mskjtggjwix.com^
 ||msnvqfjg.com^
 ||msotdipkjtata.com^
@@ -29114,6 +29123,7 @@ vkcdnservice.appspot.com^
 ||qerkbejqwzvvo.top^
 ||qerkbejqwzvyw.top^
 ||qewylqmaqezzj.top^
+||qezehqcicx.com^
 ||qfdn3gyfbs.com^
 ||qfgkixvmwgaf.com^
 ||qfgtepw.com^
@@ -34403,6 +34413,7 @@ vkcdnservice.appspot.com^
 ||taskariose.com^
 ||tastednavigation.com^
 ||tasterscaltha.com^
+||tastesnlynotqui.info^
 ||tastesscalp.com^
 ||tastierxyphoid.com^
 ||tasvagaggox.com^
@@ -34515,6 +34526,7 @@ vkcdnservice.appspot.com^
 ||tecominchisel.com^
 ||tecuil.com^
 ||teddedskeich.com^
+||teddersbeys.com^
 ||teddynineteenthpreoccupation.com^
 ||tedious-weight.pro
 ||tediousdetective.com^
@@ -41808,6 +41820,8 @@ vkcdnservice.appspot.com^
 ||02777e.site^
 ||05751c.site^
 ||07e197.site^
+||1350c3.xyz^
+||20519a.xyz^
 ||295c.site^
 ||2aeabdd4-3280-4f03-bc92-1890494f28be.xyz^
 ||3a2e.site^
@@ -47845,6 +47859,8 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||matomo.motorpresse.de^
+||matomo.menshealth.de^
 ||analytics.denimdream.com^
 ||ny77jj.washingtonpost.com^
 ||spoor-api.ft.com^
@@ -61980,6 +61996,7 @@ inapps.appsflyersdk.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
 ||tupian888.*.bcebos.com^
+||txhfgwgkwt*.asia^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||121.204.246.*.gif
@@ -62938,10 +62955,19 @@ inapps.appsflyersdk.com^
 ||ljdofz.xyz^
 ||zozwnv.xyz^
 ||txhfgwgkwt7.asia^
+||txhfgwgkwt8.asia^
 ||xytcboyz.icu^
 ||cqpph.cn^
 ||hphvd.cn^
 ||bpxbzps.xyz^
+||dsa22.com^
+||mianyaojsj.com^
+||lnxkrd.xyz^
+||oxmvcg.xyz^
+||ugidskit.top^
+||999fb.cn^
+||ltfpbp.xyz^
+||foscvbu.icu^
 ||zuvbzl.xyz^
 ||zwdtvx.xyz^
 ||zwxxcb.icu^
