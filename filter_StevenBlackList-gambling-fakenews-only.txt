@@ -2200,7 +2200,9 @@
 ||ad.8live.net^
 ||ad.app8.top^
 ||ad.choigem.fun^
+||ad.choigo88.run^
 ||ad.choingay11b.mobi^
+||ad.choingay11b.vin^
 ||ad.choingay88.com^
 ||ad.dangkygo88.in^
 ||ad.gamequyong.site^
@@ -2442,6 +2444,7 @@
 ||b29qc.win^
 ||b52.me^
 ||b52.mobi^
+||b52.vin^
 ||b52.vip^
 ||b52.win^
 ||b52d.club^
@@ -2687,12 +2690,14 @@
 ||choigamevua.club^
 ||choigem.fun^
 ||choigiaitri.net^
+||choigo88.run^
 ||choihay.vip^
 ||choihitclub.fun^
 ||choihitclub.run^
 ||choiiwin79.fun^
 ||choilawin.net^
 ||choingay11b.mobi^
+||choingay11b.vin^
 ||choingay88.com^
 ||choingayiwin.cc^
 ||choingayiwin.top^
@@ -2727,6 +2732,7 @@
 ||comebetvn3.com^
 ||comebetvn9.com^
 ||conggamehot.fun^
+||conggiaitri.com^
 ||coopbet.com^
 ||corona999.com^
 ||cstga.com^
@@ -2827,6 +2833,7 @@
 ||dangkyrikvip.me^
 ||dangkyrikvip.org^
 ||dangkyrikvip.tv^
+||dangkysanvip.site^
 ||dangkythabet.com^
 ||danhbaidoithuongizi.com^
 ||danhloo.com^
@@ -2856,6 +2863,7 @@
 ||dk.choiwin79.net^
 ||dk.gamequyong.xyz^
 ||dk.playgem.club^
+||dk.playgem.me^
 ||dk.rikkk.net^
 ||dk.thangiwin.org^
 ||dk.thethaouk88.org^
@@ -3203,6 +3211,7 @@
 ||go88.luxury^
 ||go88.org^
 ||go88.study^
+||go88.top^
 ||go88.tv^
 ||go88.vip^
 ||go888.asia^
@@ -3305,6 +3314,8 @@
 ||hucd0.com^
 ||hx9119.com^
 ||i.go88.org^
+||i.go88.top^
+||i.win79.fun^
 ||i1lnr.com^
 ||i8bet.org^
 ||i9-bet.com^
@@ -3321,6 +3332,7 @@
 ||i9bet.llc^
 ||i9bet.net^
 ||i9bet.poker^
+||i9bet.tw^
 ||i9bet.vip^
 ||i9bet07.com^
 ||i9bet1.com^
@@ -3608,6 +3620,7 @@
 ||jbo064.com^
 ||jbo801.com^
 ||jbo806.com^
+||jbodangki.com^
 ||jboviet.com^
 ||jbovietnam.com^
 ||jbovn.com^
@@ -4939,6 +4952,7 @@
 ||lp.sunwinvn.club^
 ||lp.taiv8.top^
 ||lp.vip79.com^
+||lp.vip79.uk^
 ||lp.vuiuk88.club^
 ||lp.zo.club^
 ||lp.zo1.win^
@@ -5021,6 +5035,7 @@
 ||m.five88.me^
 ||m.fivevn.net^
 ||m.happy9luck.com^
+||m.i9bet.tw^
 ||m.i9bet75.com^
 ||m.k8k26.com^
 ||m.k8sport.com^
@@ -5160,8 +5175,6 @@
 ||mc876.com^
 ||mcw77.com^
 ||me88vietnam.com^
-||me88vn1.com^
-||me88vn2.com^
 ||mec68.com^
 ||media.1789bet.com^
 ||media.happynb.com^
@@ -5263,7 +5276,6 @@
 ||new8803.com^
 ||new8805.com^
 ||new8808.vip^
-||new88111.com^
 ||new8884.com^
 ||new8894.com^
 ||new88w.com^
@@ -5299,6 +5311,7 @@
 ||nhatvip.org^
 ||nhatvip.us^
 ||nnwud.com^
+||nohu.band^
 ||nohu35.com^
 ||nohuk8.fun^
 ||nohuk8.info^
@@ -5427,6 +5440,7 @@
 ||play.yo88.net^
 ||play.yo88.win^
 ||play.yo88vn.vip^
+||play.zom8.club^
 ||play1.son.club^
 ||playbaowin.net^
 ||player.ole777vietnam.com^
@@ -5434,6 +5448,7 @@
 ||player.win102.com^
 ||playgamefa88.live^
 ||playgem.club^
+||playgem.me^
 ||playgo88.asia^
 ||playgo88.top^
 ||playhit.biz^
@@ -5487,6 +5502,7 @@
 ||qc.789d.club^
 ||qc.789k.club^
 ||qc.b52.win^
+||qc.conggiaitri.com^
 ||qc.gamevipclub.fun^
 ||qc.macau.club^
 ||qc.manclubwin.club^
@@ -5720,6 +5736,7 @@
 ||ssv288.com^
 ||st00001.com^
 ||st666.bid^
+||st666.solutions^
 ||st666.tv^
 ||st666.win^
 ||st66602.com^
@@ -5818,6 +5835,7 @@
 ||t8bet999.com^
 ||t8betvip.com^
 ||ta88.com^
+||ta88.me^
 ||ta88.org^
 ||ta88.vip^
 ||tai-sumvip.city^
@@ -5876,6 +5894,7 @@
 ||taigamehay.site^
 ||taigamehayvip.vip^
 ||taigamehot.pro^
+||taigamengay.click^
 ||taigamesunwin.vin^
 ||taigamesunwin.vip^
 ||taigem79.net^
@@ -5934,6 +5953,7 @@
 ||taixiumd5.taisum2.com^
 ||taixiumd5dg.taisum2.com^
 ||taixiusunwin.games^
+||taizom1.fun^
 ||tangl0c.8day66.com^
 ||tap88.club^
 ||tbab395.com^
@@ -6192,6 +6212,7 @@
 ||vip11.us^
 ||vip130130.com^
 ||vip79.com^
+||vip79.uk^
 ||vip79.win^
 ||vipbet001.org^
 ||vipbet998.com^
@@ -6476,6 +6497,7 @@
 ||win79.app^
 ||win79.com^
 ||win79.download^
+||win79.fun^
 ||win79.live^
 ||win79.pro^
 ||win79.site^
@@ -6928,7 +6950,6 @@
 ||www.mb88.com^
 ||www.mbx88.com^
 ||www.mc876.com^
-||www.me88vn1.com^
 ||www.megawin88.mobi^
 ||www.mibet.com^
 ||www.mibet.mobi^
@@ -7297,6 +7318,7 @@
 ||zo1.win^
 ||zo2.win^
 ||zo88.org^
+||zom8.club^
 ||zowinvn.vip^
 ||ztij6.com^
 ||zvhlv.com^

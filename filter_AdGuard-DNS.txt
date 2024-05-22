@@ -1,7 +1,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Last modified: 2024-05-21T00:20:28.745Z
+! Last modified: 2024-05-22T00:19:55.159Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -11,7 +11,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Last modified: 2024-05-21T00:02:55.598Z
+! Last modified: 2024-05-22T00:02:43.972Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -29,6 +29,9 @@
 !
 !
 !
+||synchroscript.deliveryengine.adswizz.com^
+||pubtrky.com^
+||mpqgoircwb.com^
 ||moawgsfidoqm.com^
 ||mkenativji.com^
 ||lwjje.com^
@@ -8421,6 +8424,7 @@ vkcdnservice.appspot.com^
 ||cipangobesots.com^
 ||cipdn.com^
 ||cipledecline.buzz^
+||cippusforebye.com^
 ||cirazi.com^
 ||circuitingratitude.com^
 ||circumscribestallion.com^
@@ -11094,7 +11098,6 @@ vkcdnservice.appspot.com^
 ||distantsoil.com^
 ||distilinborn.com^
 ||distiljunctioninstallation.com^
-||distilled.ie^
 ||distinct-bicycle.com^
 ||distinguishedshrug.com^
 ||distinguishtendhypothesis.com^
@@ -12912,6 +12915,7 @@ vkcdnservice.appspot.com^
 ||escers.com^
 ||escharatheins.com^
 ||escthermae.com^
+||esculicturbans.com^
 ||esculinconsent.top^
 ||escy55gxubl6.com^
 ||esdcubited.uno^
@@ -15072,6 +15076,7 @@ vkcdnservice.appspot.com^
 ||galileesubvii.digital^
 ||galiowen.com^
 ||galjwnhotubfg.com^
+||galleonpiotine.com^
 ||galleyssleeps.top^
 ||gallonranchwhining.com^
 ||gallopextensive.com^
@@ -15693,6 +15698,7 @@ vkcdnservice.appspot.com^
 ||gloognoogrix.com^
 ||gloogruk.com^
 ||gloolrey.com^
+||glooltoora.net^
 ||gloomfabricgravy.com^
 ||gloomilybench.com^
 ||gloomilychristian.com^
@@ -15917,6 +15923,7 @@ vkcdnservice.appspot.com^
 ||gomain2.pro^
 ||gomastabrat.com^
 ||gomnlt.com^
+||gonairoomsoo.xyz^
 ||gondwrists.life^
 ||goneawaytogy.info^
 ||goneryacked.top^
@@ -18624,6 +18631,7 @@ vkcdnservice.appspot.com^
 ||instinctivetheeexemplify.com^
 ||institutehopelessbeck.com^
 ||instituteplump.com^
+||instopvials.com^
 ||instraffic.com^
 ||instructionluxuriant.com^
 ||instructionwantsflew.com^
@@ -23300,6 +23308,7 @@ vkcdnservice.appspot.com^
 ||molypsigry.pro^
 ||momclumsycamouflage.com^
 ||momdljpsn.com^
+||momecubane.com^
 ||momentarilyhalt.com^
 ||momentincorrect.com^
 ||momentumgreenhouseexpert.com^
@@ -27326,6 +27335,7 @@ vkcdnservice.appspot.com^
 ||picturecorrespond.com^
 ||pieceresponsepamphlet.com^
 ||piecreatefragment.com^
+||pienbitore.com^
 ||pieproficientcurve.com^
 ||piercedlugs.com^
 ||piercepavilion.com^
@@ -28775,7 +28785,6 @@ vkcdnservice.appspot.com^
 ||pubovore.com^
 ||pubpowerplatform.io^
 ||pubtm.com^
-||pubtrky.com^
 ||puczuxqijadg.com^
 ||puddingdefeated.com^
 ||puddleincidentally.com^
@@ -30010,6 +30019,7 @@ vkcdnservice.appspot.com^
 ||refpanglbvyd.top^
 ||refpasrasw.world^
 ||refpaxfbvjlw.top^
+||refractfunkia.com^
 ||refraingene.com^
 ||refraintupaiid.com^
 ||refreshinghike.com^
@@ -30498,6 +30508,7 @@ vkcdnservice.appspot.com^
 ||rhendam.com^
 ||rheneapfg.com^
 ||rhesusvitrite.com^
+||rhinioncappers.com^
 ||rhinocerosobtrusive.com^
 ||rhjcnfypo.com^
 ||rhjqirhsue.com^
@@ -30740,6 +30751,7 @@ vkcdnservice.appspot.com^
 ||robotrenamed.com^
 ||robsbogsrouse.com^
 ||robspabah.com^
+||robssukey.com^
 ||robunderstanding.com^
 ||rocco-fvo.com^
 ||rochesterbreedpersuade.com^
@@ -41838,6 +41850,7 @@ vkcdnservice.appspot.com^
 ||02777e.site^
 ||05751c.site^
 ||07e197.site^
+||1116c5.xyz^
 ||1350c3.xyz^
 ||20519a.xyz^
 ||295c.site^
@@ -41851,6 +41864,7 @@ vkcdnservice.appspot.com^
 ||4e55.xyz^
 ||4e68.xyz^
 ||58e0.site^
+||5fd6bc.xyz^
 ||634369.xyz^
 ||657475b7-0095-478d-90d4-96ce440604f9.online^
 ||68646f.xyz^
@@ -44364,6 +44378,8 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||sync.outbrain.com^
+||elb.the-ozone-project.com^
 ||pbcs.nypost.com^
 ||pbcs.decider.com^
 ||pbcs.pagesix.com^
@@ -44432,6 +44448,7 @@ vkcdnservice.appspot.com^
 ||citrusad.net^
 ||pubperf.com^
 ||stats.getaim.org^
+||dev-analytics-cf.bigcrunch.com^
 ||analytics-cf.bigcrunch.com^
 ||tongjiniao.com^
 ||first-id.fr^
@@ -47884,6 +47901,11 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||tracking-api.passeidireto.com^
+||analytics.lasegunda.ecn.cl^
+||analytics.emol.com^
+||webc2s.pubgw.yahoo.com^
+||tracking.cosme.net^
 ||matomo.motorpresse.de^
 ||matomo.menshealth.de^
 ||analytics.denimdream.com^
@@ -51435,7 +51457,6 @@ inapps.appsflyersdk.com^
 ||sunlightmetrics.b-cdn.net^
 ||survey.interquest.com^
 ||surveywall-api.survata.com^
-||sync.outbrain.com^
 ||t.a3cloud.net^
 ||t.auditedmedia.org.au^
 ||t.bimvid.com^
@@ -52463,7 +52484,6 @@ inapps.appsflyersdk.com^
 ! Spanish
 ||1to1.bbva.com^
 ||analitica.webrpp.com^
-||analytics.lasegunda.ecn.cl^
 ||analytics.mercadolibre.com^
 ||analytics.neoogilvy.uy^
 ||bpt.webedia-group.com^
@@ -54866,6 +54886,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||kingads2.org^
 ||ad-service.shop^
 ||yonderdim.com^
 ||gr.hdream.cfd^
@@ -63369,11 +63390,31 @@ inapps.appsflyersdk.com^
 ||mvirkw.xyz^
 ||jy147a.com^
 ||rayajmp.icu^
+||ca2686564a.com^
+||dpedrt.xyz^
+||csylief.top^
+||yhgfoe.xyz^
+||kytbxcl.cn^
+||sahqoo.com^
+||bxlmrl.xyz^
+||kyokglm.icu^
 ||zuvbzl.xyz^
 ||zwdtvx.xyz^
 ||zwxxcb.icu^
 ||zxfdbr.xyz^
 ||zxqiwe.cn^
+||555bbb777www.com^
+||66308888.com^
+||666bbb888www.com^
+||777aa888bb.com^
+||888aa111bb.com^
+||888aa222bb.com^
+||mito03.top^
+||mttpsy6666.cc^
+||w7044.com^
+||yuanpinghengkangfuyouxiangongsi.top^
+||efs604.top^
+||692881.com^
 ||01v62.xyz^
 ||052db.website^
 ||053h94.com^
@@ -68822,6 +68863,8 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+! Blocked by CNAME fp27ee.wac.systemcdn.net
+@@||secureimage.securedataimages.com^|
 ! Blocked by CNAME nr-data.net
 @@||infra-api.newrelic.com^|
 ! Blocked by CNAME nc0.co
