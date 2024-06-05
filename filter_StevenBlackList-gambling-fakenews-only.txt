@@ -2212,6 +2212,7 @@
 ||ad.playhit.biz^
 ||ad.qc789.vip^
 ||ad.rikvip.uk^
+||ad.taigamengay.digital^
 ||ad.taihit.win^
 ||ad.yo88.net^
 ||ad.yo88.win^
@@ -2704,10 +2705,13 @@
 ||choingayone88.win^
 ||choiriikvip.today^
 ||choison.club^
+||choison.online^
 ||choisport.com^
 ||choisv88.live^
 ||choita88.club^
 ||choitet.vip^
+||choithomo.com^
+||choivuaclub55k.info^
 ||choiwin79.com^
 ||choiwin79.net^
 ||choiwin79.pro^
@@ -5008,6 +5012,7 @@
 ||m.520xiaojin.com^
 ||m.66ko1.com^
 ||m.66ko9.com^
+||m.777vnd.vip^
 ||m.88viet.com^
 ||m.88vnd.com^
 ||m.8live.com^
@@ -5891,6 +5896,7 @@
 ||taichoihu.net^
 ||taido99.net^
 ||taido99.online^
+||taido99.site^
 ||taido99.win^
 ||taigame.son.club^
 ||taigame789.club^
@@ -5898,6 +5904,7 @@
 ||taigamehayvip.vip^
 ||taigamehot.pro^
 ||taigamengay.click^
+||taigamengay.digital^
 ||taigamesunwin.vin^
 ||taigamesunwin.vip^
 ||taigem79.net^
