@@ -1,7 +1,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Last modified: 2024-06-05T00:20:19.400Z
+! Last modified: 2024-06-06T00:20:19.948Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -11,7 +11,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Last modified: 2024-06-05T00:02:54.693Z
+! Last modified: 2024-06-06T00:03:02.813Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -29,6 +29,8 @@
 !
 !
 !
+||journeymv.com^
+||deliman.net^
 ||nyihcpzdloe.com^
 ||fualujqbhqyn.xyz^
 ||pafiptuy.net^
@@ -873,7 +875,6 @@
 ||muzotur.info^
 ||360adshost.com^
 ||clickonometrics.pl^
-||converti.se^
 ||widget.convertiser.com^
 ||adsenseguard.com^
 ||cashpartners.eu^
@@ -7331,6 +7332,7 @@ vkcdnservice.appspot.com^
 ||buggerygruffed.com^
 ||bugits.com^
 ||bugleczmoidgxo.com^
+||buglesembarge.top^
 ||bugraubs.com^
 ||bugs2022.com^
 ||bugsattended.com^
@@ -8359,6 +8361,7 @@ vkcdnservice.appspot.com^
 ||chimneylouderflank.com^
 ||china-netwave.com^
 ||chinagranddad.com^
+||chinaslauras.com^
 ||chineegibbet.com^
 ||chinemcg.website^
 ||chinoismoras.com^
@@ -9683,6 +9686,7 @@ vkcdnservice.appspot.com^
 ||credibilityyowl.com^
 ||creditbitesize.com^
 ||creditorapido.xyz^
+||credotrigona.com^
 ||credulityicicle.com^
 ||creedoverwork.com^
 ||creeguilds.com^
@@ -13942,6 +13946,7 @@ vkcdnservice.appspot.com^
 ||findslofty.com^
 ||findswiftresults.com^
 ||fine-wealth.pro^
+||finedbawrel.com^
 ||finedintersection.com^
 ||finednothue.com^
 ||fineporno.com^
@@ -23641,6 +23646,7 @@ vkcdnservice.appspot.com^
 ||naneducate.com^
 ||nanesbewail.com^
 ||nanfleshturtle.com^
+||nangalupeose.com^
 ||nangelsaidthe.info^
 ||nangkasec.com^
 ||nanhermione.com^
@@ -24729,6 +24735,7 @@ vkcdnservice.appspot.com^
 ||oasazedy.com^
 ||oasishonestydemented.com^
 ||oasqrthubiub.com^
+||oastoamox.com^
 ||oataltaul.com^
 ||oatbcxnhacfjnc.com^
 ||oatchelt.com^
@@ -28062,6 +28069,7 @@ vkcdnservice.appspot.com^
 ||prosecutorcommaeligible.com^
 ||prosecutorkettle.com^
 ||prosedisavow.com^
+||proselyaltars.com^
 ||proseoverlook.com^
 ||prositzapas.com^
 ||prosocrawm.com^
@@ -31397,6 +31405,7 @@ vkcdnservice.appspot.com^
 ||separationharmgreatest.com^
 ||separationheadlight.com^
 ||separationreverttap.com^
+||sepianshap.com^
 ||sepstough.com^
 ||septemberautomobile.com^
 ||septfd2em64eber.com^
@@ -35612,6 +35621,7 @@ vkcdnservice.appspot.com^
 ||typicalsecuritydevice.com^
 ||typiccor.com^
 ||typiconrices.com^
+||typojesuit.com^
 ||typsxumcsjw.com^
 ||tyqptghilt.com^
 ||tyract.com^
@@ -41289,6 +41299,7 @@ vkcdnservice.appspot.com^
 ||b9f25b.site^
 ||bc98ad.xyz^
 ||bcbe.site^
+||bd5a57.xyz^
 ||ca3d.site^
 ||ca9246.xyz^
 ||caa2c4.xyz^
@@ -47445,6 +47456,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||collect.stepstone.co.uk^
 ||analytics.poferries.com^
 ||collector-*.px-cloud.net^
 ||collector-*.px-cdn.net^
@@ -62008,6 +62020,17 @@ inapps.appsflyersdk.com^
 ||uuysiaq.com^
 ||hfjsliu.top^
 ||libhzf.xyz^
+||zthxobgk.icu^
+||vfphbh.xyz^
+||dljzcl.cn^
+||binga01.shop^
+||cbcgqs.xyz^
+||tsdfxv.xyz^
+||ancxeftgyu.top^
+||ifjslio.top^
+||qrmozsc.icu^
+||jtezxmpb.xyz^
+||nlxgjwye.icu^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
@@ -62173,7 +62196,6 @@ inapps.appsflyersdk.com^
 ||cgidskif.top^
 ||chayassa.com^
 ||cherylssb.com^
-||chinaslauras.com^
 ||cijianggun.com^
 ||cliffnsc.xyz^
 ||clmkwi.xyz^
@@ -68774,6 +68796,7 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+@@||track.webgains.com^|
 ! Blocked by CNAME fp27ee.wac.systemcdn.net
 @@||secureimage.securedataimages.com^|
 ! Blocked by CNAME nr-data.net
