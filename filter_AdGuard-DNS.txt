@@ -1,7 +1,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Last modified: 2024-06-07T00:20:56.685Z
+! Last modified: 2024-06-08T00:21:10.919Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -11,7 +11,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Last modified: 2024-06-07T00:02:50.336Z
+! Last modified: 2024-06-08T00:03:04.721Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -8334,6 +8334,7 @@ vkcdnservice.appspot.com^
 ||chettikmacrli.com^
 ||chevetoelike.com^
 ||chevyrailly.top^
+||cheweemtaig.com^
 ||chewersobolary.com^
 ||chewremittanceprovidence.com^
 ||chewsrompedhemp.com^
@@ -33625,6 +33626,7 @@ vkcdnservice.appspot.com^
 ||svnutntmq.com^
 ||svrkdkopdsdj.com^
 ||svtlgjmqyzmwz.com^
+||svwhhiiyihcwh.com^
 ||svyksa.info^
 ||sw2block.com^
 ||swaggydestroy.com^
@@ -37969,6 +37971,7 @@ vkcdnservice.appspot.com^
 ||whootascots.com^
 ||whootkhankah.com^
 ||whoppercreaky.com^
+||whopstriglot.com^
 ||whoptoorsaub.com^
 ||whorlysenior.top^
 ||whotchie.net^
@@ -39335,6 +39338,7 @@ vkcdnservice.appspot.com^
 ||yqragd.com^
 ||yqxhslsqaqkbd.com^
 ||yr9n47004g.com^
+||yrcedupgqe.com^
 ||yrcpsfqoyi.com^
 ||yrhdmalrfr.com^
 ||yrinpvfw.com^
@@ -41263,6 +41267,7 @@ vkcdnservice.appspot.com^
 ||05751c.site^
 ||072551.xyz^
 ||07e197.site^
+||0ae00c7c.xyz^
 ||1116c5.xyz^
 ||11c7a3.xyz^
 ||1350c3.xyz^
@@ -43816,6 +43821,8 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||pxl.knam.pro^
+||manalyticshub.com^
 ||metrics.streaks.jp^
 ||lr-in-prod.com^
 ||track.mailerlite.com^
@@ -47468,6 +47475,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||cdn.track.olx.com.br^
 ||analytics.junia.ai^
 ||ad.dl.mz.de^
 ||topspin.npo.nl^
@@ -50643,6 +50651,7 @@ inapps.appsflyersdk.com^
 ||client.tahono.com^
 ||clouderrorreporting.googleapis.com^
 ||cloudfront-labs.amazonaws.com^
+||cloudmetrics.xenforo.com^
 ||cltgtstor001.blob.core.windows.net^
 ||cnt.3dmy.net^
 ||cnt.mastorage.net^
@@ -57779,8 +57788,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 01 Jun 2024 23:16 UTC+7
-! Version: 2406012316
+! Last modified: 07 Jun 2024 10:23 UTC+7
+! Version: 2406071023
 ! Blocked: 4,314 rules
 ! Expires: 1 days (update frequency)
 !
@@ -62018,6 +62027,16 @@ inapps.appsflyersdk.com^
 ||jfjslia.top^
 ||jpcctez.icu^
 ||kdqlbm.cn^
+||pdnwbwyf.icu^
+||hntkgpd.cn^
+||itjgwn.xyz^
+||anbkzt.xyz^
+||uaiosio.top^
+||amocyq.xyz^
+||bmhept.xyz^
+||kfjslid.top^
+||cismqdx.icu^
+||kfqizu.cn^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
