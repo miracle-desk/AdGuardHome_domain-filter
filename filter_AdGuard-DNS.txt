@@ -1,7 +1,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Last modified: 2024-06-10T00:21:42.995Z
+! Last modified: 2024-06-11T00:20:43.926Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -11,7 +11,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Last modified: 2024-06-10T00:03:07.045Z
+! Last modified: 2024-06-11T00:02:43.989Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -40345,6 +40345,7 @@ vkcdnservice.appspot.com^
 ||adspeed.com^
 ||adspruce.com^
 ||adsquirrel.ai^
+||adsreference.com^
 ||adsring.com^
 ||adsrv4k.com^
 ||adsrvmedia.com^
@@ -41379,6 +41380,7 @@ vkcdnservice.appspot.com^
 ||295c.site^
 ||2aeabdd4-3280-4f03-bc92-1890494f28be.xyz^
 ||3a2e.site^
+||420db600.xyz^
 ||485728.xyz^
 ||48a16802.site^
 ||4a0e.xyz^
@@ -43924,6 +43926,8 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||ssevt.com^
+||lahar.com.br^
 ||pxl.knam.pro^
 ||manalyticshub.com^
 ||metrics.streaks.jp^
@@ -51442,6 +51446,17 @@ inapps.appsflyersdk.com^
 ||duu8lzqdm8tsz.cloudfront.net^
 ||dy2xcjk8s1dbz.cloudfront.net^
 ||dzgwautxzdtn9.cloudfront.net^
+||anal.sataniskwijt.be^
+||analytics.code.dccouncil.gov^
+||count.vidsrc.pro^
+||goat.hepicgamerz.com^
+||goat.nhimmeo.cf^
+||goat.skeetstats.xyz^
+||goat.tailspace.net^
+||st.mapleranks.com^
+||stats.afrocave.com^
+||stats.boringproxy.io^
+||stats.how.wtf^
 ! Domains linking to 127.0.0.1
 !||cefgo.com^
 !||domaincontrol.com^
@@ -52390,6 +52405,7 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||1qe.info^
 ||23oct2023.site^
 ||fcepahafyq.com^
 ||6rn05mmbct.ru^
@@ -57068,9 +57084,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 01 Jun 2024 23:15 UTC+7
-! Version: 2406012315
-! Blocked: 883 rules
+! Last modified: 10 Jun 2024 23:39 UTC+7
+! Version: 2406102339
+! Blocked: 885 rules
 ! Expires: 1 days (update frequency)
 !
 ||24h-ad.24hstatic.com^
@@ -57538,6 +57554,7 @@ inapps.appsflyersdk.com^
 ||analytics.jamstackvietnam.com^
 ||analytics.molistar.com^
 ||analytics.nhattao.com^
+||analytics.ntlc.com.vn^
 ||analytics.pancake.vn^
 ||analytics.rever.vn^
 ||analytics.sohatv.vn^
@@ -57615,6 +57632,7 @@ inapps.appsflyersdk.com^
 ||file-subiz.com^
 ||financial-agent.headlines.pw^
 ||follow.vnay.vn^
+||formalhood.com^
 ||go.vnecdn.com^
 ||gtmjs.com^
 ||h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me^
@@ -57891,9 +57909,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 07 Jun 2024 10:23 UTC+7
-! Version: 2406071023
-! Blocked: 4,314 rules
+! Last modified: 10 Jun 2024 23:35 UTC+7
+! Version: 2406102335
+! Blocked: 4,327 rules
 ! Expires: 1 days (update frequency)
 !
 ||0088shop.com^
@@ -58059,6 +58077,7 @@ inapps.appsflyersdk.com^
 ||amqa11.com^
 ||anbinh-finance.club^
 ||anceovarec.cfd^
+||and4.junglebeariwtc4.com^
 ||andall.servicesql.info^
 ||andelect.cfd^
 ||android-system-virus-detect.web.app^
@@ -58132,6 +58151,7 @@ inapps.appsflyersdk.com^
 ||bb9998.com^
 ||bbankpower.com^
 ||bbc6666.com^
+||bbuildersget.com^
 ||bcmoney.xyz^
 ||bemcll.me^
 ||beoneviet.com^
@@ -58200,6 +58220,7 @@ inapps.appsflyersdk.com^
 ||card-tindung-vp.com^
 ||card-tindung.com^
 ||cardshinhan.com^
+||cardzstorezone.com^
 ||casneon.com^
 ||cathe-tindung247mpos.com^
 ||cb49836.click^
@@ -58338,6 +58359,7 @@ inapps.appsflyersdk.com^
 ||cuocthitainangnhithang12.weebly.com^
 ||currencyconverterbanking.weebly.com^
 ||cvietcombank.com^
+||da2323.com^
 ||da6555.com^
 ||dadw11.com^
 ||dadw22.com^
@@ -58868,6 +58890,7 @@ inapps.appsflyersdk.com^
 ||hitiens.com^
 ||hkdbitexchange.com^
 ||hlviet84.com^
+||hnmrw.net^
 ||hoakhoithanhlichmamnon9999.weebly.com^
 ||hoangkim1.org^
 ||hocbongtienganh.com^
@@ -59014,6 +59037,7 @@ inapps.appsflyersdk.com^
 ||itviet-hcm.com^
 ||iviietcombank.com^
 ||ivvietcombank.com^
+||ivz7x63ymy.ru^
 ||iyogo.shop^
 ||jaccsc.com^
 ||jaccscom.com^
@@ -59027,6 +59051,7 @@ inapps.appsflyersdk.com^
 ||jeyrkyshop.com^
 ||jo9p72.cyou^
 ||jomashopsa.com^
+||jpalertcert.com^
 ||junoshop.online^
 ||kaurroot.com^
 ||kavay.vn^
@@ -59040,6 +59065,7 @@ inapps.appsflyersdk.com^
 ||kfdg55.com^
 ||kh-cn-mrd-f5-tpbank.com^
 ||kh-cn-uutien-3fv-vib.com^
+||kh-vibquocte.com^
 ||khach-hang-ca-nhan-vip5.com^
 ||khachhangvib-canhan.com^
 ||khangdz215.tk^
@@ -59863,6 +59889,7 @@ inapps.appsflyersdk.com^
 ||oivay.app^
 ||oivay.vip^
 ||oldcname.ieasyclick.net^
+||omfghellobrosjda38.org^
 ||onhamuadich.com^
 ||onirybank.com^
 ||online-ibank.com^
@@ -60806,6 +60833,7 @@ inapps.appsflyersdk.com^
 ||takk6.com^
 ||tammenaa.com^
 ||tang-han-muc-the-visa-vn.com^
+||tang-han-muc-tin-dung-vn.com^
 ||tangcuongbanlinh.com^
 ||tangcuongsinhluc.site^
 ||tanghanmuc-vn.com^
@@ -61850,6 +61878,7 @@ inapps.appsflyersdk.com^
 ||vnshopee.vip^
 ||vnshoping.com^
 ||vnsshoppe.com^
+||vntanghanmucvisadebit.com^
 ||vntiki.shop^
 ||vntiki11.com^
 ||vntikiship.com^
@@ -62125,6 +62154,17 @@ inapps.appsflyersdk.com^
 ||vns86.oss-*.aliyuncs.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||121.204.246.*.gif
+||auislq.top^
+||taproximo.com^
+||twqtf.boats^
+||kjipko.xyz^
+||wfjslie.top^
+||pztezl.xyz^
+||rqnefp.xyz^
+||retrefsf.cn^
+||hsoubnp.icu^
+||binga03.shop^
+||jcfnbhqo.icu^
 ||ligfdjnfd.cn^
 ||ozykeor.icu^
 ||yxkbgg.xyz^
