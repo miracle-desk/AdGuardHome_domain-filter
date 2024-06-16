@@ -2208,12 +2208,14 @@
 ||ad.gamequyong.site^
 ||ad.gamequyong.xyz^
 ||ad.gem88.win^
+||ad.giaitriwin79.club^
 ||ad.mibet.com^
 ||ad.playhit.biz^
 ||ad.qc789.vip^
 ||ad.rikvip.uk^
 ||ad.taigamengay.digital^
 ||ad.taihit.win^
+||ad.viprik.click^
 ||ad.yo88.net^
 ||ad.yo88.win^
 ||ad.yo88vn.com^
@@ -2595,6 +2597,7 @@
 ||bons.com^
 ||boom66.com^
 ||box2020.oxbetd.com^
+||bravo188.com^
 ||bt9gl.com^
 ||bum3.club^
 ||bvthethao.com^
@@ -2838,6 +2841,7 @@
 ||dangkyrikvip.me^
 ||dangkyrikvip.org^
 ||dangkyrikvip.tv^
+||dangkyrikvip.win^
 ||dangkysanvip.site^
 ||dangkythabet.com^
 ||danhbaidoithuongizi.com^
@@ -2853,6 +2857,7 @@
 ||debet.net^
 ||debet.top^
 ||debet.win^
+||debet79.info^
 ||debet88.win^
 ||deca88.com^
 ||dfbertuah.com^
@@ -3199,6 +3204,7 @@
 ||giaitri.tv^
 ||giaitrimu88.com^
 ||giaitrinet88.live^
+||giaitriwin79.club^
 ||giutcohon.sin88.biz^
 ||gnbet.vip^
 ||go.12fifa2018.com^
@@ -3320,6 +3326,7 @@
 ||hx9119.com^
 ||i.go88.org^
 ||i.go88.top^
+||i.rik.vip^
 ||i.win79.fun^
 ||i1lnr.com^
 ||i8bet.org^
@@ -4939,6 +4946,7 @@
 ||lodevip.us^
 ||lodevn789.net^
 ||login.dangkyrikvip.org^
+||login.dangkyrikvip.win^
 ||logs.almeriaxxx.com^
 ||long092.com^
 ||loto188ae.com^
@@ -6230,6 +6238,7 @@
 ||vipclub.homes^
 ||vipclub.makeup^
 ||vipclub.so^
+||viprik.click^
 ||viprik.pro^
 ||viu88.com^
 ||viva88.com^
@@ -6542,6 +6551,7 @@
 ||wm88vn.com^
 ||wo88.ac^
 ||wp.choigiaitri.net^
+||wp.debet79.info^
 ||wp.mu9.win^
 ||wp.nbet.vin^
 ||wp.red88.us^
@@ -6743,6 +6753,7 @@
 ||www.bong88net.com^
 ||www.bong99.fun^
 ||www.boom66.com^
+||www.bravo188.com^
 ||www.bwing88.com^
 ||www.bwingmkt1.com^
 ||www.bwingmkt8.com^
