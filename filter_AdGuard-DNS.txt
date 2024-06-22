@@ -1,7 +1,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Last modified: 2024-06-21T00:20:38.580Z
+! Last modified: 2024-06-22T00:20:28.181Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -11,7 +11,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Last modified: 2024-06-21T00:02:47.757Z
+! Last modified: 2024-06-22T00:02:40.729Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -29,6 +29,25 @@
 !
 !
 !
+||aigheebsu.net^
+||dnlgrxhfcsjhcto.com^
+||cegloockoar.com^
+||mutmfwgdoxvbbuo.com^
+||garlicice.store^
+||flirtfusiontoys.toys^
+||fjbubsdhpcticbu.com^
+||tucsulfjseyan.com^
+||rqmakkmq.com^
+||hwgxmvhphcbqcis.com^
+||shepsubsitha.com^
+||gprsiugqgwqt.com^
+||adfulplatform.com^
+||vsftsyriv.com^
+||nxhnaibu.com^
+||leenaitheez.com^
+||thoohizoogli.xyz^
+||pthrecjtu.com^
+||raglanyakking.com^
 ||wrrlidnlerx.com^
 ||rmtckjzct.com^
 ||ilaterdeallyighab.info^
@@ -3753,6 +3772,7 @@ vkcdnservice.appspot.com^
 ||afgwsgl.com^
 ||afgzipohma.com^
 ||afiliapub.click^
+||afkearupl.com^
 ||afloatroyalty.com^
 ||afm01.com^
 ||afmhlhqwkn.com^
@@ -6813,6 +6833,7 @@ vkcdnservice.appspot.com^
 ||bngprm.com^
 ||bngpst.com^
 ||bngpt.com^
+||bngrol.com^
 ||bngtrak.com^
 ||bngwlt.com^
 ||bnhnkbknlfnniug.xyz^
@@ -7727,6 +7748,7 @@ vkcdnservice.appspot.com^
 ||cafqeelk.com^
 ||caftaistes.com^
 ||cafvyfdqedjc.xyz^
+||cagakzcwyr.com^
 ||cageinattentiveconfederate.com^
 ||cagerssoohong.com^
 ||cagesscan.com^
@@ -11368,6 +11390,7 @@ vkcdnservice.appspot.com^
 ||dmrdnujvzo.com^
 ||dmrtx.com^
 ||dmsktmld.com^
+||dmuqumodgwm.com^
 ||dmvbdfblevxvx.com^
 ||dmvporebntt.com^
 ||dmxswwrregww.com^
@@ -11644,6 +11667,7 @@ vkcdnservice.appspot.com^
 ||dqvnpbs.com^
 ||dqxbqubsknfc.com^
 ||dqxifbm.com^
+||dqypqewirrf.com^
 ||dqzsejvbr.com^
 ||dr0.biz^
 ||dr22.biz^
@@ -14349,6 +14373,7 @@ vkcdnservice.appspot.com^
 ||flqwvojijhqqlq.com^
 ||flrdra.com^
 ||fluemantappall.guru^
+||fluencydepressing.com^
 ||fluencyinhabited.com^
 ||fluencythingy.com^
 ||fluentlydeadlineski.com^
@@ -14922,6 +14947,7 @@ vkcdnservice.appspot.com^
 ||fucoustittup.uno^
 ||fucsarhyhlci.com^
 ||fudginghoners.com^
+||fudukrujoa.com^
 ||fuelcathine.top^
 ||fuelpearls.com^
 ||fugcgfilma.com^
@@ -23123,6 +23149,7 @@ vkcdnservice.appspot.com^
 ||moaningbeautifulnobles.com^
 ||moaningtread.com^
 ||moanomoa.xyz^
+||moapaglee.net^
 ||moapevuwtv.com^
 ||moapuwhe.com^
 ||moartraffic.com^
@@ -25940,6 +25967,7 @@ vkcdnservice.appspot.com^
 ||oukoushu.xyz^
 ||ouldhukelpm.org^
 ||ouleegneeje.com^
+||oulragart.xyz^
 ||oulrarta.net^
 ||oulrukry.xyz^
 ||oulsools.com^
@@ -26918,6 +26946,7 @@ vkcdnservice.appspot.com^
 ||persuasivepenitentiary.com^
 ||pertawee.net^
 ||pertersacstyli.com^
+||pertfinds.com^
 ||pertlouv.com^
 ||perttogahoot.com^
 ||pertyvaluationia.monster^
@@ -27017,6 +27046,7 @@ vkcdnservice.appspot.com^
 ||phaisoaz.com^
 ||phaixurd.com^
 ||phalingy.net^
+||phallicbedsore.com^
 ||phamsacm.net^
 ||phanoaftapt.com^
 ||phantomattestationzillion.com^
@@ -27880,6 +27910,7 @@ vkcdnservice.appspot.com^
 ||ppjqgbz.com^
 ||pplferio.com^
 ||pplgwic.com^
+||ppmzcafertd.com^
 ||ppoommhizazn.com^
 ||ppovysmcycmwvv.com^
 ||pppbr.com^
@@ -29388,6 +29419,7 @@ vkcdnservice.appspot.com^
 ||raisinmanagelivestock.com^
 ||raivoufe.xyz^
 ||rajabets.xyz^
+||rajmobbism.com^
 ||rakamu.com^
 ||rakhen.com^
 ||rakiblinger.com^
@@ -30761,6 +30793,7 @@ vkcdnservice.appspot.com^
 ||rqnvci.com^
 ||rqtrk.eu^
 ||rqwel.com^
+||rqwyrdwlaygwxkw.com^
 ||rreauksofthecom.xyz^
 ||rrentlysearchi.info^
 ||rrhscsdlwufu.xyz^
@@ -31234,6 +31267,7 @@ vkcdnservice.appspot.com^
 ||saunerema.net^
 ||saupouni.xyz^
 ||sauptoacoa.com^
+||sauptowhy.com^
 ||saurajembe.top^
 ||sauriaparpen.com^
 ||sausagegirlieheartburn.com^
@@ -34197,6 +34231,7 @@ vkcdnservice.appspot.com^
 ||tapixesa.pro^
 ||tapjoyads.com^
 ||tapproveofchild.info^
+||taproximo.com^
 ||taprtopcldfa.co^
 ||taprtopcldfard.co^
 ||taprtopcldfb.co^
@@ -36485,6 +36520,7 @@ vkcdnservice.appspot.com^
 ||uphillgrandmaanger.com^
 ||uphilo.com^
 ||uphorter.com^
+||uphoveduke.com^
 ||uphoveeh.xyz^
 ||upinu.xyz^
 ||upkoffingr.com^
@@ -38934,6 +38970,7 @@ vkcdnservice.appspot.com^
 ||xargijqtgysdvgj.com^
 ||xatesfrgkifde.com^
 ||xawlop.com^
+||xaxciisqwvk.com^
 ||xaxoro.com^
 ||xaxrtiahkft.com^
 ||xayiqcwbmmhwf.com^
@@ -39478,6 +39515,7 @@ vkcdnservice.appspot.com^
 ||ykdwyf.com^
 ||ykgkxcount.com^
 ||ykmvnhue.com^
+||ykopnlrbb.com^
 ||ykqalsm.com^
 ||ykraeij.com^
 ||ykrwopdxkw.com^
@@ -41580,6 +41618,7 @@ vkcdnservice.appspot.com^
 ||4e55.xyz^
 ||4e68.xyz^
 ||4e990.xyz^
+||4fb60fd0.xyz^
 ||55cc9d.xyz^
 ||58e0.site^
 ||5ab2f817.xyz^
@@ -41688,6 +41727,7 @@ vkcdnservice.appspot.com^
 ||1156219164.rsc.cdn77.org^
 ||1175980934.rsc.cdn77.org^
 ||1187531871.rsc.cdn77.org^
+||1199403312.rsc.cdn77.org^
 ||1201741305.rsc.cdn77.org^
 ||1204491360.rsc.cdn77.org^
 ||1278977604.rsc.cdn77.org^
@@ -41695,6 +41735,7 @@ vkcdnservice.appspot.com^
 ||1299757727.rsc.cdn77.org^
 ||1312907885.rsc.cdn77.org^
 ||1324827002.rsc.cdn77.org^
+||1325492758.rsc.cdn77.org^
 ||1365498388.rsc.cdn77.org^
 ||1396762586.rsc.cdn77.org^
 ||1417571542.rsc.cdn77.org^
@@ -41720,6 +41761,7 @@ vkcdnservice.appspot.com^
 ||1770542895.rsc.cdn77.org^
 ||1896709103.rsc.cdn77.org^
 ||1933201447.rsc.cdn77.org^
+||1946365241.rsc.cdn77.org^
 ||1954342903.rsc.cdn77.org^
 ||1957648849.rsc.cdn77.org^
 ||1969301294.rsc.cdn77.org^
@@ -43423,6 +43465,7 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||s-odx.oleads.com^
 ||mediation.unity3d.com^
 ||cdn-ad.wtzw.com^
 ||appsrv.display.io^
@@ -47633,7 +47676,6 @@ vkcdnservice.appspot.com^
 ! Act-On : actonservice.com and actonsoftware.com disguised trackers
 ||sharpmarketing.eu^
 ||actonsoftware.com^
-||healthgrades.com^
 ||actonservice.com^
 !
 ! Actionlink.jp : mm.actionlink.jp disguised trackers
@@ -47798,10 +47840,14 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||events.tryamped.com^
+||track.sendlane.com^
+||tracking-v*.a.run.app^
+||m1tm.motor1.com^
+||ctr.po-kaki-to.com^
 ||analytics.sonjj.com^
 ||status.techtarget.itmedia.co.jp^
 ||ephemeralcounters.api.roblox.com^
-||px.adfulplatform.com^
 ||d9jj3mjthpub.cloudfront.net^
 ||logs.openbank.com^
 ||plausible.omgapi.org^
@@ -51762,6 +51808,7 @@ inapps.appsflyersdk.com^
 ||counter-zaehler.de^
 ||dcmn.io^
 ||dl8.me^
+||durchsichtig.xyz^
 ||etrust.eu^
 ||fast-counter.net^
 ||giga-abs.de^
@@ -55759,6 +55806,7 @@ inapps.appsflyersdk.com^
 ||holyjesus.de^
 ||spd-spenden.de^
 ||swissadserver.ch^
+||windows-pro.net^
 ||wirverkaufennichts.de^
 ||wixnm.com^
 ||zazufi.com^
@@ -56186,6 +56234,7 @@ inapps.appsflyersdk.com^
 ||ineed2fuck.com^
 ||instahookups5.com^
 ||iphone7pluswin.com^
+||isdarot.com^
 ||israfun.net^
 ||iystorage.com^
 ||jacquarter.com^
@@ -56282,6 +56331,7 @@ inapps.appsflyersdk.com^
 ||s-iwantyou.com^
 ||saphiretelavivisrael.com^
 ||sdarot-il.org^
+||sdarot-tv.org^
 ||sdarot.cc^
 ||sdarotil.top^
 ||sdc.mako.co.il^
@@ -56322,6 +56372,7 @@ inapps.appsflyersdk.com^
 ||truegifstandmore.com^
 ||trustmedia.co.il^
 ||tukid.info^
+||tvfeel.cc^
 ||twobluedeer.com^
 ||typication.com^
 ||ugbuzz.net^
@@ -56368,8 +56419,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-06-20 06:30:00 CEST
-# entries:        1072
+# last updated:   2024-06-21 06:10:47 CEST
+# entries:        1073
 # format:         hosts (hosts -- in hosts file format)
 ||1terms.com^
 ||a.zxcvads.com^
@@ -56463,6 +56514,7 @@ inapps.appsflyersdk.com^
 ||b1.trickyrock.com^
 ||backend.qimtek.se^
 ||banners.instaforex.com^
+||banners.wsnonline.dk^
 ||barbours.com.se^
 ||bcm.interactives.dk^
 ||bellmetric.net^
@@ -62457,6 +62509,16 @@ inapps.appsflyersdk.com^
 ||sggu.cn^
 ||puwkcqp.icu^
 ||kdoshbd.top^
+||wbaj.cn^
+||bfhueh.top^
+||szdzn.cn^
+||vppzjv.xyz^
+||scru.cn^
+||njjavt.xyz^
+||cycvyo.xyz^
+||sdoshbb.top^
+||ismuwcm.icu^
+||yzihdppw.xyz^
 ||dvgjx.cn^
 ||ytqeavc.icu^
 ||adzo.cn^
@@ -63478,7 +63540,6 @@ inapps.appsflyersdk.com^
 ||szpzm.cn^
 ||ta20k.xyz^
 ||tahznx.xyz^
-||taproximo.com^
 ||taxoxz.xyz^
 ||tbpwrj.xyz^
 ||tcfgtd.xyz^
