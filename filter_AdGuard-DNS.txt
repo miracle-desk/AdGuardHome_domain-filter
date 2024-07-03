@@ -1,8 +1,8 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.1.10
-! Last modified: 2024-07-02T01:31:37.316Z
+! Version: 1.0.1.34
+! Last modified: 2024-07-03T01:31:34.152Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -12,7 +12,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Last modified: 2024-07-02T00:03:00.284Z
+! Last modified: 2024-07-03T00:02:56.517Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1367,6 +1367,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||ad.twinrdengine.com^
 ||d2lg0swrp15nsj.cloudfront.net^
 ||dpeqm8xv96fuc.cloudfront.net^
 ||d127s3e8wcl3q6.cloudfront.net^
@@ -2533,6 +2534,7 @@ vkcdnservice.appspot.com^
 ||8d68be1445.com^
 ||8d8e6d1087.com^
 ||8d96fe2f01.com^
+||8db4fde90b.com^
 ||8de2448875.com^
 ||8dfc9560e0.com^
 ||8e6d77310c.com^
@@ -5272,6 +5274,7 @@ vkcdnservice.appspot.com^
 ||aupteens.com^
 ||aurdoagnoak.net^
 ||aurgoast.com^
+||auroraveil.bid^
 ||aurousroseola.com^
 ||aursaign.net^
 ||ausoafab.net^
@@ -10173,6 +10176,7 @@ vkcdnservice.appspot.com^
 ||dateszone.net^
 ||datetrackservice.com^
 ||datewhisper.life^
+||datexurlove.com^
 ||datherap.xyz^
 ||dating-banners.com^
 ||dating-roo3.site^
@@ -12607,6 +12611,7 @@ vkcdnservice.appspot.com^
 ||enviousforegroundboldly.com^
 ||enviousinevitable.com^
 ||enviouspipe.com^
+||environmental3x.fun^
 ||environmentalanalogous.com^
 ||environmentalchangingnative.com^
 ||environmentaltallrender.com^
@@ -13754,6 +13759,7 @@ vkcdnservice.appspot.com^
 ||fihsgqbif.com^
 ||fiinann.com^
 ||fiinnancesur.com^
+||fiiqmjyrznkhbv.com^
 ||fiisscqwokt.com^
 ||fijekone.com^
 ||fikedaquabib.com^
@@ -18402,6 +18408,7 @@ vkcdnservice.appspot.com^
 ||iornsfyhueev.com^
 ||iorwe-qmf.com^
 ||iosqmookf.com^
+||iovia-pmj.com^
 ||iovxhfavijyu.com^
 ||ioxffew.com^
 ||ipales.com^
@@ -27339,6 +27346,7 @@ vkcdnservice.appspot.com^
 ||pretextunfinished.com^
 ||pretrackings.com^
 ||pretty-size.pro^
+||pretty-sluts-nearby.com^
 ||prettypasttime.com^
 ||prettypermission.pro^
 ||prettytypicalimpatience.com^
@@ -29330,6 +29338,7 @@ vkcdnservice.appspot.com^
 ||reryn3ce.com^
 ||rerynjia.com^
 ||rerynjie.com^
+||rerynjua.com^
 ||resailsgyse.com^
 ||resalag.com^
 ||resaypyche.top^
@@ -29536,6 +29545,7 @@ vkcdnservice.appspot.com^
 ||rftodidsrel.com^
 ||rftslb.com^
 ||rfxxjpuh.com^
+||rfzlfsedzesgp.com^
 ||rgauwvaznptsx.com^
 ||rgbnqmz.com^
 ||rgbvgxfcp.xyz^
@@ -32395,6 +32405,7 @@ vkcdnservice.appspot.com^
 ||startperfectsolutions.com^
 ||startservicefounds.com^
 ||startsprepenseprepensevessel.com^
+||starvalue-4.online^
 ||starvardsee.xyz^
 ||starvationdefence.com^
 ||starvegingerwaist.com^
@@ -34664,6 +34675,7 @@ vkcdnservice.appspot.com^
 ||trigscocos.com^
 ||trikerboughs.com^
 ||trim-goal.com^
+||trimpagkygg.com^
 ||trimpur.com^
 ||trimregular.com^
 ||trinitydiverge.com^
@@ -34749,6 +34761,7 @@ vkcdnservice.appspot.com^
 ||truanet.com^
 ||truantslaughterbrew.com^
 ||truantsnarestrand.com^
+||truazka.xyz^
 ||truceforensicswaterfall.com^
 ||trucemallow.website^
 ||trulydevotionceramic.com^
@@ -39105,6 +39118,7 @@ vkcdnservice.appspot.com^
 ||zshyudl.com^
 ||zskuvehuihkusp.com^
 ||zsrqmgvb.com^
+||zsxeymv.com^
 ||ztbtbbizb.com^
 ||ztcbmnkqxqx.com^
 ||zteollhhyaqez.com^
@@ -40591,6 +40605,7 @@ vkcdnservice.appspot.com^
 ||05751c.site^
 ||072551.xyz^
 ||07e197.site^
+||09bd5a69.xyz^
 ||0ae00c7c.xyz^
 ||0c0b6e3f.xyz^
 ||0d785fd7.xyz^
@@ -40661,12 +40676,14 @@ vkcdnservice.appspot.com^
 ||bc98ad.xyz^
 ||bcbe.site^
 ||bd5a57.xyz^
+||c31133f7.xyz^
 ||ca3d.site^
 ||ca9246.xyz^
 ||caa2c4.xyz^
 ||cd57296e.xyz^
 ||ce357c.xyz^
 ||cfb98a.xyz^
+||d23d450d.xyz^
 ||d477275c.xyz^
 ||d84bc26d.site^
 ||d8b0a5.xyz^
@@ -42528,7 +42545,6 @@ vkcdnservice.appspot.com^
 ||tx-ad.a.yximgs.com^
 ||tx-kmpaudio.pull.yximgs.com^
 ||hw-ot-ad.a.yximgs.com^
-||kskwai.com^
 ||adkwai.com^
 ||marketing.mangacopy.com^
 ||gdfp.gifshow.com^
@@ -43184,6 +43200,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||track.fluffyfalcon.com^
 ||gojsmanager.com^
 ||adtrack.adleadevent.com^
 ||metrics-fe-na1.hubspot.com^
@@ -46853,6 +46870,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||track.amebame.com^
 ||pks-analytics.raenonx.cc^
 ||pyxis.atp.fox^
 ||r.sib2.gardrops.com^
@@ -48511,7 +48529,6 @@ vkcdnservice.appspot.com^
 ||prudsys-rde.de^
 ||prx.wayfair.com^
 ||pv.hd.sohu.com^
-||pv.sohu.com^
 ||pw.gigazine.net^
 ||px.dynamicyield.com^
 ||px.gfycat.com^
@@ -55444,8 +55461,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-07-01 05:42:40 CEST
-# entries:        1071
+# last updated:   2024-07-02 06:39:35 CEST
+# entries:        1073
 # format:         hosts (hosts -- in hosts file format)
 ||1terms.com^
 ||a.zxcvads.com^
@@ -55652,6 +55669,7 @@ inapps.appsflyersdk.com^
 ||gamblingsyndication.com^
 ||gameanalytics.com^
 ||girohjalm.com.se^
+||gtm.ekonomifakta.se^
 ||gtm.findroommate.dk^
 ||gtm.stampenmedia.se^
 ||gwen.insertcoin.se^
@@ -61584,6 +61602,17 @@ inapps.appsflyersdk.com^
 ||ajoqu.cn^
 ||hdtvnr.xyz^
 ||cjgymo.xyz^
+||hzrnbl.xyz^
+||8208tp.com^
+||imgoss511.top^
+||ovejqw.xyz^
+||jiusudie.com^
+||cmqxy.cn^
+||pnvtlh.xyz^
+||idipsumo.top^
+||hyislou.top^
+||tlpyft.xyz^
+||jbkqemk.icu^
 ||0322cfmtl.cc^
 ||07dy.cc^
 ||0940088.com^
@@ -62177,7 +62206,6 @@ inapps.appsflyersdk.com^
 ||jhnnnb.xyz^
 ||jinzige.cn^
 ||jioed.cyou^
-||jiusudie.com^
 ||jivvjl.xyz^
 ||jmesxbe.icu^
 ||jnalzla.top^
@@ -68651,6 +68679,7 @@ analytics-*.aasaam.com
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
+@@||sax.sina.com.cn^|
 ! Blocked by CNAME postaffiliatepro.com
 @@||linka.page^|
 @@||track.webgains.com^|
