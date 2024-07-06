@@ -1,8 +1,8 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.1.82
-! Last modified: 2024-07-05T01:31:37.246Z
+! Version: 1.0.2.6
+! Last modified: 2024-07-06T01:30:54.163Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -12,7 +12,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Last modified: 2024-07-05T00:02:58.862Z
+! Last modified: 2024-07-06T00:02:42.411Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -30,6 +30,8 @@
 !
 !
 !
+serve.yourporngod.com^
+serve.everydayporn.co^
 ||xlvul.ajscdn.com^
 ||ahmar2four.xyz^
 ||ser678uikl.xyz^
@@ -1372,6 +1374,7 @@
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||advertising-cdn.dpgmedia.cloud^
 ||d2lg0swrp15nsj.cloudfront.net^
 ||dpeqm8xv96fuc.cloudfront.net^
 ||d127s3e8wcl3q6.cloudfront.net^
@@ -2254,6 +2257,7 @@ vkcdnservice.appspot.com^
 ||44a9217f10.com^
 ||44ffd27303.com^
 ||452tapgn.de^
+||453130fa9e.com^
 ||46186911.vtt^
 ||46243b6252.com^
 ||463fca0d34.com^
@@ -8115,6 +8119,7 @@ vkcdnservice.appspot.com^
 ||cesebtp.com^
 ||cesiumsemboite.com^
 ||cessationcorrectmist.com^
+||cessationhamster.com^
 ||cessationrepulsivehumid.com^
 ||cestibegster.com^
 ||ceteembathe.com^
@@ -13715,6 +13720,7 @@ vkcdnservice.appspot.com^
 ||fgbthrsxnlo.xyz^
 ||fgdxwpht.com^
 ||fgfgnbmeieorr910.com^
+||fgigrmle.xyz^
 ||fgijincfktbguv.xyz^
 ||fgislklsqqytr.com^
 ||fgisstdudch.com^
@@ -15169,6 +15175,7 @@ vkcdnservice.appspot.com^
 ||ggsbjzyo.com^
 ||ggsfq.com^
 ||ggvhbnkfc.com^
+||ggwifobvx.com^
 ||ggxcoez.com^
 ||ggxyyalrj.com^
 ||ggzckmlts.com^
@@ -24910,6 +24917,7 @@ vkcdnservice.appspot.com^
 ||ongrpdwwnvliao.xyz^
 ||onibyezctus.com^
 ||oninewsful.life^
+||onkafxtiqcu.com^
 ||onkavst.com^
 ||onlinedeltazone.online^
 ||onlinepromousa.com^
@@ -32528,6 +32536,7 @@ vkcdnservice.appspot.com^
 ||stealthlockers.com^
 ||steamdespicable.com^
 ||steamjaws.com^
+||stedrits.xyz^
 ||stedsous.xyz^
 ||steefaulrouy.xyz^
 ||steegnow.com^
@@ -40775,6 +40784,7 @@ vkcdnservice.appspot.com^
 ||f8a070.xyz^
 ||fadeb9a7-2417-4a51-8d99-0421a5622cbe.xyz^
 ||fbfec2.xyz^
+||fe30a5b4.xyz^
 ! Samsung/LG/Philips smart-TV ad domains
 ||ad.lgappstv.com^
 ||ad.nettvservices.com^
@@ -42120,7 +42130,6 @@ vkcdnservice.appspot.com^
 ||masterwanker.com^
 ||matrimoniale3x.ro^
 ||matrix-cash.com^
-||maxcash.com^
 ||maxiadv.com^
 ||mc-nudes.com^
 ||mcprofits.com^
@@ -43272,6 +43281,8 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||qobuz.surveysparrow.com^
+||srvr.dmvs-apac.com^
 ||dash.zintrack.com^
 ||revotas.com^
 ||track.fluffyfalcon.com^
@@ -46943,6 +46954,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||peach-analytics.vercel.app^
 ||lfmetrics.loyalfans.com^
 ||track.amebame.com^
 ||pks-analytics.raenonx.cc^
@@ -50155,7 +50167,6 @@ inapps.appsflyersdk.com^
 ||collect.rewardstyle.com^
 ||collect.verify.lnearn.com^
 ||collection.e-satisfaction.com^
-||collector-*.px-client.net^
 ||collector-api.99designs.com^
 ||collector-soompi.viki.io^
 ||collector.api.video^
@@ -50392,6 +50403,7 @@ inapps.appsflyersdk.com^
 ||ms-trackingapi.phenompeople.com^
 ||msadsscale.azureedge.net^
 ||myscoop-tracking.googlecode.com^
+||native-ads-events-api.c4s-rd.services^
 ||neocounter.neoworx-blog-tools.net^
 ||net-tracker.notolytix.com^
 ||netlify-rum.netlify.app^
@@ -51512,6 +51524,7 @@ inapps.appsflyersdk.com^
 ||analyzer51.fc2.com^
 ||bvr.snva.jp^
 ||log.f-tra.com^
+||mail-count.matsui.co.jp^
 ||omt.shinobi.jp^
 ||reproio.com^
 ||sync.shinobi.jp^
@@ -51561,6 +51574,7 @@ inapps.appsflyersdk.com^
 ||statistic.audima.co^
 ||stats.gridmidia.com.br^
 ||tags.cmp.tail.digital^
+||track.zapimoveis.com.br^
 ||tracker.tolvnow.com^
 ||visit-prod-us.occa.ocs.oraclecloud.com^
 ||webstats.sapo.pt^
@@ -61693,6 +61707,22 @@ inapps.appsflyersdk.com^
 ||zwlxnj.xyz^
 ||jyisloa.top^
 ||xuzsdn.xyz^
+||baijs05.xyz^
+||doujs05.xyz^
+||baijs06.xyz^
+||doujs06.xyz^
+||urtlist.top^
+||ortlisk.top^
+||dmnxkj.cn^
+||gw2cddpt2hao.cloud^
+||gw2cddpt2hao.site^
+||fgwuw.com^
+||febtzd.xyz^
+||olgcpwc.icu^
+||gsywcc.xyz^
+||iptuy.cn^
+||kyislod.top^
+||lijlrz.xyz^
 ||0uyt5b.cn^
 ||0v1syj.cn^
 ||1028images.com^
