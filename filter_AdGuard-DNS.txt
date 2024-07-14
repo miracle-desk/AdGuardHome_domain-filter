@@ -1,8 +1,8 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.3.72
-! Last modified: 2024-07-13T01:31:49.288Z
+! Version: 1.0.3.96
+! Last modified: 2024-07-14T01:32:21.432Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -12,7 +12,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Last modified: 2024-07-13T00:03:04.647Z
+! Last modified: 2024-07-14T00:02:52.608Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -43,6 +43,7 @@
 ||routowoashie.xyz^
 serve.yourporngod.com^
 serve.everydayporn.co^
+serve.bussyhunter.com^
 ||xlvul.ajscdn.com^
 ||ahmar2four.xyz^
 ||ser678uikl.xyz^
@@ -6132,6 +6133,7 @@ vkcdnservice.appspot.com^
 ||beklefkiom.com^
 ||beklinkor.com^
 ||belamicash.com^
+||belatedsafety.pro^
 ||belavoplay.com^
 ||belaya2shu1ba1.com^
 ||belengougha.com^
@@ -31368,6 +31370,7 @@ vkcdnservice.appspot.com^
 ||shocked-failure.com^
 ||shockedfoxed.top^
 ||shocking-design.pro^
+||shocking-profile.pro^
 ||shockingrobes.com^
 ||shockingstrategynovelty.com^
 ||shoeingneurone.com^
@@ -37543,6 +37546,7 @@ vkcdnservice.appspot.com^
 ||whootascots.com^
 ||whootkhankah.com^
 ||whoppercreaky.com^
+||whopping-sea.com^
 ||whopstriglot.com^
 ||whoptoorsaub.com^
 ||whorlysenior.top^
@@ -40835,6 +40839,7 @@ vkcdnservice.appspot.com^
 ||1350c3.xyz^
 ||156fd4.xyz^
 ||1a1fb6.xyz^
+||1c52e1e2.live^
 ||1dd6e9ba.xyz^
 ||1f6a725b.xyz^
 ||20519a.xyz^
@@ -61911,6 +61916,10 @@ inapps.appsflyersdk.com^
 ||121.204.246.*.gif
 ||67.21.92.*.gif
 ||107.167.22.*.gif
+||gkypgw.xyz^
+||lyislol.top^
+||tgrpzl.xyz^
+||kwiqcoh.icu^
 ||57573zubo36833.com^
 ||imgoss2255.top^
 ||tupian88888.com^
@@ -61928,6 +61937,9 @@ inapps.appsflyersdk.com^
 ||zoltrl.xyz^
 ||lwprdv.xyz^
 ||pungar85.shop^
+||photo07.xyz^
+||ertlisw.top^
+||asdji2.cn^
 ||tupian9999.com^
 ||xxxx88xxxx.com^
 ||xxxx96xxxx.com^
