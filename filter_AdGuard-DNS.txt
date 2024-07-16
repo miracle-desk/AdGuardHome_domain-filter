@@ -1,8 +1,8 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.4.20
-! Last modified: 2024-07-15T01:32:21.391Z
+! Version: 1.0.4.44
+! Last modified: 2024-07-16T01:31:59.774Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -12,7 +12,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Last modified: 2024-07-15T00:02:48.463Z
+! Last modified: 2024-07-16T00:03:02.010Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -30,6 +30,8 @@
 !
 !
 !
+||duxlveokumpmd.com^
+||stoogouy.net^
 ||equipmentapes.com^
 ||vg876yuj.click^
 ||lmj8i.pro^
@@ -2288,6 +2290,7 @@ vkcdnservice.appspot.com^
 ||49b6b77e56.com^
 ||4a136c118e.com^
 ||4a167ec12d.com^
+||4a9517991d.com^
 ||4b215e3bcf.com^
 ||4b41484f8e.com^
 ||4b6994dfa47cee4.com^
@@ -16302,6 +16305,7 @@ vkcdnservice.appspot.com^
 ||gyudlffoisng.com^
 ||gyxkmpf.com^
 ||gzcxtuxgqjrhz.com^
+||gzglmoczfzf.com^
 ||gzifhovadhf.com^
 ||gzigudxidz.com^
 ||gzkkbuvz.com^
@@ -29725,6 +29729,7 @@ vkcdnservice.appspot.com^
 ||rfaatlrdr.com^
 ||rfeablduda.com^
 ||rfhddwa.com^
+||rficarolnak.com^
 ||rfihub.com^
 ||rfihub.net^
 ||rfimzurarqk.com^
@@ -36262,6 +36267,7 @@ vkcdnservice.appspot.com^
 ||vauthaud.net^
 ||vavcashpop.com^
 ||vavhhpkmfc.com^
+||vavuwetus.com^
 ||vawauoggraokog.com^
 ||vawsmoocah.com^
 ||vax-boost.com^
@@ -43473,6 +43479,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||sec.webeyez.com^
 ||michiganrobotflower.com^
 ||uid.mediacorp.sg^
 ||exacttarget.com^
@@ -47151,6 +47158,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||akn.analytics.autodesk.com^
 ||marketing.dropbox.com^
 ||ok88okg.infinityscans.net^
 ||evt.24.com^
@@ -56725,9 +56733,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 14 Jul 2024 16:54 UTC+7
-! Version: 2407141654
-! Blocked: 910 rules
+! Last modified: 15 Jul 2024 23:10 UTC+7
+! Version: 2407152310
+! Blocked: 911 rules
 ! Expires: 1 days (update frequency)
 !
 ||24h-ad.24hstatic.com^
@@ -57553,6 +57561,7 @@ inapps.appsflyersdk.com^
 ||vieon-tracking.vieon.vn^
 ||vietbuzzad.com^
 ||vietdorje.com^
+||vietnamdaily-log.trithuccuocsong.vn^
 ||vlxx.host^
 ||vnadssb.com^
 ||web-analytic.ghtk.vn^
@@ -57575,9 +57584,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 14 Jul 2024 16:55 UTC+7
-! Version: 2407141655
-! Blocked: 4,486 rules
+! Last modified: 15 Jul 2024 23:12 UTC+7
+! Version: 2407152312
+! Blocked: 4,487 rules
 ! Expires: 1 days (update frequency)
 !
 ||0088shop.com^
@@ -61831,6 +61840,7 @@ inapps.appsflyersdk.com^
 ||walmartshoping.com^
 ||warrenmoneytrader.com^
 ||watch-online.49n7wqynho5u.top^
+||wbk9sohp.jdpz.link^
 ||wdxzlv.org^
 ||web-membbership-freefire-garena.com^
 ||web-shopee-vn.com^
@@ -61966,6 +61976,10 @@ inapps.appsflyersdk.com^
 ||121.204.246.*.gif
 ||67.21.92.*.gif
 ||107.167.22.*.gif
+||wnootzc.icu^
+||eiuoom.xyz^
+||bavotr.xyz^
+||jyfdbj.xyz^
 ||gkypgw.xyz^
 ||lyislol.top^
 ||tgrpzl.xyz^
@@ -61978,6 +61992,12 @@ inapps.appsflyersdk.com^
 ||cyretuf.top^
 ||udipsumt.top^
 ||swwdke.xyz^
+||xmhszb.xyz^
+||jasdz1.cn^
+||hyretuu.top^
+||iteyi.xyz^
+||aoiqa.top^
+||uaiqp.top^
 ||57573zubo36833.com^
 ||imgoss2255.top^
 ||tupian88888.com^
