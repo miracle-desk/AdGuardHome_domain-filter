@@ -2448,6 +2448,7 @@
 ||b29.bet^
 ||b29.cafe^
 ||b29qc.win^
+||b52.game^
 ||b52.me^
 ||b52.mobi^
 ||b52.vin^
