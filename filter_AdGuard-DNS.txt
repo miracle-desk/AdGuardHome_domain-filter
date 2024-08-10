@@ -1,8 +1,8 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.10.23
-! Last modified: 2024-08-09T01:32:11.977Z
+! Version: 1.0.10.47
+! Last modified: 2024-08-10T01:32:01.368Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -12,7 +12,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Last modified: 2024-08-09T00:03:03.648Z
+! Last modified: 2024-08-10T00:02:55.628Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -30,6 +30,11 @@
 !
 !
 !
+||signamentswithded.com^
+||atethebenefitsshe.com^
+||d3nz96k4xfpkvu.cloudfront.net^
+||rtoukfareputfe.info^
+||boqmjxtkwn.com^
 ||smart1adserver.com^
 ||polisnetwork.io^
 ||ktikpuruxasq.com^
@@ -30743,7 +30748,6 @@ vkcdnservice.appspot.com^
 ||rtncskottpfwb.com^
 ||rtoadlavcam.com^
 ||rtorvhhdru.xyz^
-||rtoukfareputfe.info^
 ||rtphit.com^
 ||rtpnt.xyz^
 ||rtqdgro.com^
@@ -44142,6 +44146,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||pixel-*.convertagain.net^
 ||app.kuvio.io^
 ||data.media-lab.ai^
 ||kapetracking.com^
@@ -47844,6 +47849,9 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||fresnel-events.vimeocdn.com^
+||evt.ilovepdf.com^
+||beacon.adelphic.com^
 ||pixels.spotify.com^
 ||ylog.huya.com^
 ||ax.amnezia.org^
@@ -51024,7 +51032,6 @@ inapps.appsflyersdk.com^
 ||baxter.olx.org^
 ||bc.geocities.
 ||beacon-v2.helpscout.net^
-||beacon.adelphic.com^
 ||beacon.affil.walmart.com^
 ||beacon.aimtell.com^
 ||beacon.cdnma.com^
@@ -56490,8 +56497,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-08-01 07:32:49 CEST
-# entries:        1077
+# last updated:   2024-08-09 08:04:59 CEST
+# entries:        1078
 # format:         hosts (hosts -- in hosts file format)
 ||1terms.com^
 ||a.zxcvads.com^
@@ -56566,6 +56573,7 @@ inapps.appsflyersdk.com^
 ||angry-golick-2a96e5.netlify.app^
 ||annons.svenskjakt.se^
 ||annons.turist.se^
+||annonsserver.se^
 ||api.adfenix.com^
 ||api.getlevelten.com^
 ||api.lab.eu.amplitude.com^
@@ -57449,8 +57457,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 06 Aug 2024 23:13 UTC+7
-! Version: 2408062313
+! Last modified: 09 Aug 2024 11:07 UTC+7
+! Version: 2408091107
 ! Blocked: 919 rules
 ! Expires: 1 days (update frequency)
 !
@@ -58308,8 +58316,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 06 Aug 2024 23:14 UTC+7
-! Version: 2408062314
+! Last modified: 09 Aug 2024 11:06 UTC+7
+! Version: 2408091106
 ! Blocked: 4,509 rules
 ! Expires: 1 days (update frequency)
 !
@@ -62720,10 +62728,15 @@ inapps.appsflyersdk.com^
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||gfchck.xyz^
+||knuinws.icu^
 ||utewyc.xyz^
 ||rpeutxu.icu^
 ||shbxugs.cn^
 ||clkwnl.xyz^
+||zjplnz.xyz^
+||crutvncf.top^
+||vinsgcs.com^
 ||nxrajr.xyz^
 ||hhausq.top^
 ||baijs05.shop^
@@ -67199,7 +67212,6 @@ inapps.appsflyersdk.com^
 ||b1.c1km4.com^
 ||b1.engdvd.com^
 ||b1.xiao84.com^
-||b17.8794.cn^
 ||b7sw62.pingshu8.xyz^
 ||baidu1.cardbaobao.com^
 ||baidu1.codejie.net^
@@ -67489,7 +67501,6 @@ inapps.appsflyersdk.com^
 ||jibn12.jintang114.org^
 ||jinhonghao.cn^
 ||jintonghua.com^
-||jiyan.net^
 ||jke1.jianke.com^
 ||jquery.envi-met.com.cn^
 ||js.263y.com^
