@@ -2235,12 +2235,17 @@
 ||ads06.win888b.com^
 ||ads08.win888b.com^
 ||ads09.win888b.com^
+||ads1.thangto.one^
 ||ads11.win888b.com^
 ||ads13.win888b.com^
 ||ads14.win888b.com^
 ||ads16.win888b.com^
+||ads2.thangto.one^
 ||ads23.win888b.com^
+||ads3.thangto.one^
+||ads4.thangto.one^
 ||ads5.dangkybum.club^
+||ads5.thangto.one^
 ||ae2888.com^
 ||ae3888.top^
 ||ae58888.com^
@@ -2351,6 +2356,7 @@
 ||api.ae88855.com^
 ||api.ae88857.com^
 ||api.ae88859.com^
+||api.bachhoa88.com^
 ||api.betlv.com^
 ||api.dabet.club^
 ||api.f8bet0.com^
@@ -2448,6 +2454,7 @@
 ||b1388.com^
 ||b29.bet^
 ||b29.cafe^
+||b29.pub^
 ||b29qc.win^
 ||b52.game^
 ||b52.me^
@@ -2467,13 +2474,16 @@
 ||b77.life^
 ||b88ag.com^
 ||b89.bet^
+||bachhoa88.com^
 ||bacty88.com^
 ||banca-red88.top^
+||banca.cc^
 ||banca.red88.us^
 ||banca.xo68.vip^
 ||bancadoithuongvn.com^
 ||bancakings.com^
 ||bancalucky88.com^
+||bancarongdoi.com^
 ||baowin.net^
 ||bay789.club^
 ||bay789.io^
@@ -2832,6 +2842,7 @@
 ||dagachoi.tv^
 ||dagacuadao.org^
 ||dagahomqua.com^
+||dagaok88.net^
 ||dagatructiep.casino^
 ||dagatructiep.io^
 ||dagatructiep24h.net^
@@ -2879,6 +2890,7 @@
 ||debet.win^
 ||debet79.info^
 ||debet88.win^
+||deca.bet^
 ||deca88.com^
 ||dfbertuah.com^
 ||dfchoingay.com^
@@ -4883,6 +4895,8 @@
 ||km238b.com^
 ||km938b.com^
 ||kmisa68.com^
+||ko66vip.casino^
+||ko66vip.club^
 ||kt88.pro^
 ||ktokto.mobi^
 ||ktoviet.com^
@@ -4984,6 +4998,7 @@
 ||lode555.com^
 ||lode88.online^
 ||lode88.vip^
+||lode88j.cc^
 ||lodegoc.net^
 ||lodevip.us^
 ||lodevn789.net^
@@ -5002,6 +5017,7 @@
 ||lp.go8vui.info^
 ||lp.macauclub.fun^
 ||lp.mayclub.net^
+||lp.playrik79.site^
 ||lp.rikvip.tv^
 ||lp.rikvipp.net^
 ||lp.sun6.win^
@@ -5538,6 +5554,7 @@
 ||playmanclub.vin^
 ||playmay88.top^
 ||playmay88.vin^
+||playrik79.site^
 ||playuk88.win^
 ||playv8.com^
 ||playv8.vip^
@@ -5640,6 +5657,7 @@
 ||red88.vin^
 ||red88.vip^
 ||red88e.com^
+||reg.lode88j.cc^
 ||reg.playiwin.site^
 ||resources.bong90.bet^
 ||rewards.w88bkk.com^
@@ -5760,6 +5778,8 @@
 ||sin88s.com^
 ||sin88vao.com^
 ||sinbet.vip^
+||site.ko66vip.casino^
+||site.ko66vip.club^
 ||sky88.bet^
 ||sky88.com^
 ||sky88.fun^
@@ -5934,6 +5954,7 @@
 ||ta88.org^
 ||ta88.vip^
 ||tai-sumvip.city^
+||tai.b29.pub^
 ||tai.b52vn.fun^
 ||tai.b69.bar^
 ||tai.boc8.fun^
@@ -6103,6 +6124,7 @@
 ||thailanthwin.net^
 ||thangiwin.org^
 ||thangtien188bet.com^
+||thangto.one^
 ||thantai68.com^
 ||thao88.com^
 ||thao888.com^
@@ -6310,6 +6332,7 @@
 ||vietbet.eu^
 ||vietbet89.com^
 ||vietlott66.com^
+||vietnam35.com^
 ||vietvwin.com^
 ||vig.vietbet.eu^
 ||vin168.com^
