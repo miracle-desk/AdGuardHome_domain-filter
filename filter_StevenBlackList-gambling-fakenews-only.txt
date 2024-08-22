@@ -2456,6 +2456,7 @@
 ||b29.cafe^
 ||b29.pub^
 ||b29qc.win^
+||b369.com^
 ||b52.game^
 ||b52.me^
 ||b52.mobi^
@@ -5066,6 +5067,7 @@
 ||lucky88.win^
 ||lucky88vn.com^
 ||luckyxoso.com^
+||luky88.me^
 ||lux39.club^
 ||lux888.club^
 ||luxgame.online^
@@ -6293,6 +6295,7 @@
 ||v9jbo.com^
 ||v9jvn.com^
 ||v9win.com^
+||vao.luky88.me^
 ||vao.vin777.blog^
 ||vao789club.win^
 ||vao78win.xyz^
