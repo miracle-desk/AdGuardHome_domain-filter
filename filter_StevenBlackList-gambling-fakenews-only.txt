@@ -2191,6 +2191,7 @@
 ||abuvn.cc^
 ||access.bcb80.com^
 ||access.sbc31.com^
+||account.2024xemwc.com^
 ||account.w88ac.com^
 ||account.w88club.com^
 ||account.w88hn.com^
@@ -2755,6 +2756,7 @@
 ||cmd368max.com^
 ||cmd368t.com^
 ||cmd368tip.com^
+||cmgw.2024xemwc.com^
 ||cms.v79top.com^
 ||cms.vh79.com^
 ||cnamec.com^
@@ -2814,6 +2816,7 @@
 ||d9bet38.com^
 ||d9bet68.com^
 ||d9bet88.com^
+||da88.com^
 ||da88.pro^
 ||dabanh.thethaofb88.com^
 ||dabet.cc^
@@ -3287,6 +3290,7 @@
 ||goal86.top^
 ||god55.zone^
 ||god55viet.com^
+||god66.win^
 ||gogobolaku.com^
 ||gomy188.com^
 ||goplayk8.com^
@@ -3335,6 +3339,7 @@
 ||hi88vip8.com^
 ||hiephoilangnghevietnam.com^
 ||hit.club^
+||hit.game^
 ||hit1.club^
 ||hit1.co^
 ||hit21.club^
@@ -3344,6 +3349,8 @@
 ||hit68.net^
 ||hitclub.top^
 ||hitclub.win^
+||hitlub.fun^
+||hitlub.net^
 ||hitpro.run^
 ||hl8.daily123hl8.com^
 ||hl8atm.com^
@@ -5012,6 +5019,7 @@
 ||loto188vi.com^
 ||loto66.com^
 ||loto678.com^
+||love580.vip^
 ||lp.b52vn.info^
 ||lp.choiriikvip.today^
 ||lp.choitet.vip^
@@ -6623,6 +6631,7 @@
 ||web.130casino.com^
 ||web.68rich.com^
 ||web.hitclub.top^
+||web.hitlub.fun^
 ||web.macau.club^
 ||web.macauclub.fun^
 ||web.mayclub.net^
@@ -6734,6 +6743,7 @@
 ||www.168kbet.com^
 ||www.188thethao.com^
 ||www.1tamtam.com^
+||www.2024xemwc.com^
 ||www.20betvnd.com^
 ||www.2277789.com^
 ||www.228kbet.com^
@@ -7442,6 +7452,7 @@
 ||xosobet.com^
 ||xs638.com^
 ||xstp88.com^
+||xvipwin.info^
 ||y6.casino^
 ||y6top.com^
 ||ybbbet.com^
