@@ -2557,6 +2557,7 @@
 ||bj988.com^
 ||bk368.com^
 ||bk8.live^
+||bk8.pro.vn^
 ||bk88safe.com^
 ||bk8ae.com^
 ||bk8bongda.com^
@@ -4912,6 +4913,7 @@
 ||km238b.com^
 ||km938b.com^
 ||kmisa68.com^
+||ko66.com^
 ||ko66vip.casino^
 ||ko66vip.club^
 ||kt88.pro^
@@ -5168,6 +5170,7 @@
 ||m.s26.lol^
 ||m.s26bet01.com^
 ||m.shbet.love^
+||m.sure168.asia^
 ||m.tf88265.com^
 ||m.tf88v.com^
 ||m.tf88vn.com^
@@ -5290,6 +5293,7 @@
 ||minivn.com^
 ||missbet.com^
 ||mix79.vip^
+||mk.support^
 ||mkt.11bet.us^
 ||mkt.debet.com^
 ||mkt.lucky88.net^
@@ -5547,6 +5551,7 @@
 ||play.wyn88.ski^
 ||play.x8.club^
 ||play.x8vn.top^
+||play.xocdia88.video^
 ||play.yo88.net^
 ||play.yo88.win^
 ||play.yo88vn.vip^
@@ -5915,6 +5920,7 @@
 ||sunwinclub.fun^
 ||sunwinvn.club^
 ||superslot777.bet^
+||sure168.asia^
 ||susu86.onilne^
 ||sv1.sv88.uk^
 ||sv1.sv88.vip^
@@ -6892,6 +6898,7 @@
 ||www.betvisa.com^
 ||www.big88.one^
 ||www.bigbet2322.com^
+||www.bk8.pro.vn^
 ||www.bk88safe.com^
 ||www.bk8bongda.com^
 ||www.bk8c.com^
@@ -7445,6 +7452,9 @@
 ||xo88.us^
 ||xo88.win^
 ||xo88moi.com^
+||xocdia88.click^
+||xocdia88.es^
+||xocdia88.video^
 ||xoi77.com^
 ||xoi99.com^
 ||xoso12345.com^
