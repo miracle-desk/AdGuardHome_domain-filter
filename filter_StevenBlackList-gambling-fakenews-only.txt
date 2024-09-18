@@ -2603,6 +2603,9 @@
 ||bong88page.com^
 ||bong88vivaw88.com^
 ||bong90.bet^
+||bong90.com^
+||bong90.life^
+||bong90.tech^
 ||bong99.cc^
 ||bong99.com^
 ||bong99.fun^
@@ -2891,11 +2894,13 @@
 ||dbthethao.run^
 ||dd7bet.me^
 ||debet.bet^
+||debet.cc^
 ||debet.club^
 ||debet.com^
 ||debet.info^
 ||debet.net^
 ||debet.top^
+||debet.uk^
 ||debet.win^
 ||debet79.info^
 ||debet88.win^
@@ -3222,6 +3227,7 @@
 ||gamequyong.xyz^
 ||gamerikvip.live^
 ||games.sin88.biz^
+||gameta88.me^
 ||gamevip.info^
 ||gamevipclub.fun^
 ||gamevipclub.us^
@@ -5537,6 +5543,7 @@
 ||play.sum4.club^
 ||play.sum5.club^
 ||play.taib52.com^
+||play.taingayking52.fun^
 ||play.top88.uk^
 ||play.top88.us^
 ||play.top88.vn^
@@ -5681,6 +5688,7 @@
 ||red88.vin^
 ||red88.vip^
 ||red88e.com^
+||reg.gameta88.me^
 ||reg.lode88j.cc^
 ||reg.playiwin.site^
 ||resources.bong90.bet^
@@ -6075,6 +6083,7 @@
 ||taimanclub.com^
 ||taimanvip.vip^
 ||tainbet.net^
+||taingayking52.fun^
 ||taiok88.app^
 ||taiqqlive.pro^
 ||taisanvip.net^
@@ -6407,6 +6416,7 @@
 ||vjprok8.com^
 ||vlott88.com^
 ||vn-lm.jbovietnam.com^
+||vn.app^
 ||vn.bway88vietnam.com^
 ||vn.ku6101.net^
 ||vn.ku6106.net^
@@ -6489,6 +6499,7 @@
 ||vnmx66.com^
 ||vnn138.com^
 ||vnn8d.com^
+||vnon.app^
 ||vnpro88.com^
 ||vnq8.bet^
 ||vnq8.com^
