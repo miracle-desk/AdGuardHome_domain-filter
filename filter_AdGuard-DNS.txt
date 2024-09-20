@@ -1,8 +1,8 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.15.33
-! Last modified: 2024-09-19T00:23:45.935Z
+! Version: 1.0.15.37
+! Last modified: 2024-09-20T00:23:50.342Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -12,7 +12,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Last modified: 2024-09-19T00:03:14.257Z
+! Last modified: 2024-09-20T00:03:09.038Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.24
 !
@@ -1965,6 +1965,7 @@ vkcdnservice.appspot.com^
 ||5b3fbababb.com^
 ||5btekl14.de^
 ||5c01ad4cb7.com^
+||5c4ccd56c9.com^
 ||5ca59a669a.com^
 ||5caa478343.com^
 ||5cbbdb4434.com^
@@ -11490,6 +11491,7 @@ vkcdnservice.appspot.com^
 ||embogsoarers.com^
 ||embolipokies.com^
 ||embolysaros.click^
+||embowerdatto.com^
 ||embracetrace.com^
 ||embrailcamino.top^
 ||embtrk.com^
@@ -18898,6 +18900,7 @@ vkcdnservice.appspot.com^
 ||laitushous.com^
 ||laivue.com^
 ||laizuwhy.com^
+||lajjmqeshj.com^
 ||lajouly.com^
 ||lakequincy.com^
 ||lakmus.xyz^
@@ -24755,6 +24758,7 @@ vkcdnservice.appspot.com^
 ||phumpauk.com^
 ||phupours.com^
 ||phursefter.net^
+||phuthobsee.com^
 ||phuzeeksub.com^
 ||phvhnxebmrzf.com^
 ||phxnkysa.com^
@@ -26020,6 +26024,7 @@ vkcdnservice.appspot.com^
 ||ptanguth.com^
 ||ptapjmp.com^
 ||ptatexiwhe.com^
+||ptatzrucj.com^
 ||ptaujoot.net^
 ||ptaumoadsovu.com^
 ||ptaunsoova.com^
@@ -30516,6 +30521,7 @@ vkcdnservice.appspot.com^
 ||statsforads.com^
 ||statsmobi.com^
 ||staubsuthil.com^
+||staukaul.com^
 ||staumersleep.com^
 ||staunchchivied.top^
 ||staunchgenetwitch.com^
@@ -35723,6 +35729,7 @@ vkcdnservice.appspot.com^
 ||wwaeljajwvlrw.top^
 ||wwaeljajwvywm.top^
 ||wwahuxzipoc.com^
+||wwaowwonthco.com^
 ||wwarvlorkeww.top^
 ||wwarvlorobzw.top^
 ||wwbeqrhjwnijdk.com^
@@ -38578,6 +38585,7 @@ vkcdnservice.appspot.com^
 ||7e809ed7-e553-4e29-acb1-4e3c0e986562.site^
 ||7fc8.site^
 ||814272c4.xyz^
+||83761158.xyz^
 ||83887336.xyz^
 ||84631949.xyz^
 ||88129513.xyz^
@@ -40432,6 +40440,7 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||ads-router-noneu.truecaller.com^
 ||umphek.com^
 ||ahoy-internal-ads-hv.b-cdn.net^
 ||ad.iwhop.cn^
@@ -41102,6 +41111,7 @@ vkcdnservice.appspot.com^
 !
 ! The list of bug-tracker services(Sentry, etc.)
 ! Add as commented rules. Will be used in additional list and/or strict DNS
+! ||cdn.pubnub.com^
 ! ||data.debugbear.com^
 ! ||js.cdn.applicationinsights.io^
 ! ||eastus-*.applicationinsights.azure.com^
@@ -41214,7 +41224,6 @@ vkcdnservice.appspot.com^
 ||dmp-one.ru^
 ||dmp-1.ru^
 ||tjk-njk.com^
-||cdn.pubnub.com^
 ||ziwelatum.com^
 ||houston.advgo.net^
 ||merchant-center-analytics.goog^
@@ -44871,6 +44880,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||analitik.pendik.bel.tr^
 ||analytics-api.sconto.cz^
 ||log-ana.h3z.jp^
 ||ivstat.indavideo.hu^
@@ -52655,6 +52665,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||mm.wxc.cc^
 ||xn--mts60is5y5uk.com^
 ||dfqzah.xyz^
 ||lafacw.xyz^
@@ -54500,8 +54511,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 18 Sep 2024 23:20 UTC+7
-! Version: 2409182320
+! Last modified: 19 Sep 2024 10:16 UTC+7
+! Version: 2409191016
 ! Blocked: 922 rules
 ! Expires: 1 days (update frequency)
 !
@@ -59853,6 +59864,23 @@ inapps.appsflyersdk.com^
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||pmzlnt.xyz^
+||imusye.xyz^
+||bgbg00.fun^
+||fwsfwef2.fun^
+||vvadz.cc^
+||wpsbaq.xyz^
+||blinxmi.icu^
+||dasda64.fun^
+||iffobi.xyz^
+||jauql.top^
+||okiterk.top^
+||786yfvedhcbxjk.top^
+||ukitert.top^
+||csdcfvgf4.fun^
+||megydyk.icu^
+||szapaqi.cn^
+||zjsnhl.xyz^
 ||dscds111.fun^
 ||qrwcss.xyz^
 ||tkiteri.top^
