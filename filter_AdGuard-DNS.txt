@@ -1,8 +1,8 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.15.88
-! Last modified: 2024-10-02T00:24:39.473Z
+! Version: 1.0.15.92
+! Last modified: 2024-10-03T00:24:22.252Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.26
 !
@@ -12,7 +12,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Last modified: 2024-10-02T00:03:07.782Z
+! Last modified: 2024-10-03T00:03:20.043Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -30,6 +30,9 @@
 !
 !
 !
+||notabl8.com^
+||y.crazyporn.xxx^
+||cdn2.sales-frontier.com^
 ||xxyrgvielmehx.com^
 ||emaxudrookrora.net^
 ||aspectreinforce.com^
@@ -2207,6 +2210,7 @@ vkcdnservice.appspot.com^
 ||8d1dce99ab.com^
 ||8d96fe2f01.com^
 ||8db4fde90b.com^
+||8de5d7e235.com^
 ||8ec9b7706a.com^
 ||8f2b4c98e7.com^
 ||8f72931b99.com^
@@ -4081,6 +4085,7 @@ vkcdnservice.appspot.com^
 ||anguishworst.com^
 ||angularamiablequasi.com^
 ||angularconstitution.com^
+||anickeebsoon.com^
 ||anijhatiqseeob.com^
 ||animateddiscredit.com^
 ||animatedjumpydisappointing.com^
@@ -11151,6 +11156,7 @@ vkcdnservice.appspot.com^
 ||eamsanswer.com^
 ||eanangelsa.info^
 ||eanddescri.com^
+||eanff.com^
 ||eanlingtumfie.com^
 ||eanrzzvvmjqm.top^
 ||eanwhitepinafor.com^
@@ -15882,6 +15888,7 @@ vkcdnservice.appspot.com^
 ||hjvvk.com^
 ||hjxajf.com^
 ||hjyovlwtevwdjy.com^
+||hkaphqknkao.com^
 ||hkapicwuhvc.com^
 ||hkeibmpspxn.com^
 ||hkfgsxpnaga.xyz^
@@ -16413,6 +16420,7 @@ vkcdnservice.appspot.com^
 ||hzdfziaydqawar.com^
 ||hzoywchsp.com^
 ||hzr0dm28m17c.com^
+||hzychcvdmjo.com^
 ||i010b048d3e4a1e4b70aba72b169e70c90971f9.xyz^
 ||i4nstr1gm.com^
 ||i4rsrcj6.top^
@@ -16632,6 +16640,7 @@ vkcdnservice.appspot.com^
 ||ikonatozee.top^
 ||ikouthaupi.com^
 ||ikrvvsliwar.com^
+||ikssllnhrb.com^
 ||ikunselt.com^
 ||ikwiwnnofgpzq.com^
 ||ikwzrix.com^
@@ -17860,6 +17869,7 @@ vkcdnservice.appspot.com^
 ||jgdipcsviur.com^
 ||jgdtnxkapkso.com^
 ||jgfcgqivdpd.com^
+||jgfuxnrloev.com^
 ||jggegj-rtbix.top^
 ||jggldfvx.com^
 ||jghjhtz.com^
@@ -17981,6 +17991,7 @@ vkcdnservice.appspot.com^
 ||jnhjpdayvpzj.com^
 ||jnlldyq.com^
 ||jnnjthg.com^
+||jnoujcdiprjvx.com^
 ||jnovoksjreeyrpm.xyz^
 ||jnpwkazdss.com^
 ||jnqkvgkm.com^
@@ -18326,6 +18337,7 @@ vkcdnservice.appspot.com^
 ||jzokkejmqrbmq.top^
 ||jzokkejmqrkyw.top^
 ||jzpdjbpusgcbr.com^
+||jzplabcvvy.com^
 ||jzqbyykbrrbkq.top^
 ||jzqbyykbrrobw.top^
 ||jzqbyykbrrykz.top^
@@ -20212,6 +20224,7 @@ vkcdnservice.appspot.com^
 ||lywasnothycanty.info^
 ||lyzenoti.pro^
 ||lzjl.com^
+||lzoasvofvzw.com^
 ||lzukrobrykk.com^
 ||lzxdx24yib.com^
 ||m-rtb.com^
@@ -24182,6 +24195,7 @@ vkcdnservice.appspot.com^
 ||pacoaniy.net^
 ||pacquetpusher.com^
 ||paddlediscovery.com^
+||paddlemenu.com^
 ||paddleniecehandicraft.com^
 ||padfungusunless.com^
 ||padma-fed.com^
@@ -26148,6 +26162,7 @@ vkcdnservice.appspot.com^
 ||psaugourtauy.com^
 ||psaukaux.net^
 ||psaukroatch.com^
+||psaulrouck.net^
 ||psaurdoofy.com^
 ||psaurteepo.com^
 ||psausuck.net^
@@ -28603,6 +28618,7 @@ vkcdnservice.appspot.com^
 ||ruktllqjvsafr.com^
 ||rulahglsnzsx.com^
 ||rulovar.com^
+||rulrahed.com^
 ||rumimorigu.com^
 ||rummagemason.com^
 ||rummentaltheme.com^
@@ -29424,6 +29440,7 @@ vkcdnservice.appspot.com^
 ||sewerypon.com^
 ||sewingunrulyshriek.com^
 ||sewmcqkulwxmrx.com^
+||sewparamedic.com^
 ||sewussoo.xyz^
 ||sex-and-flirt.com^
 ||sex-chat.me^
@@ -32313,6 +32330,7 @@ vkcdnservice.appspot.com^
 ||tieboysoli.com^
 ||tiemerry.com^
 ||tiesmmflv.com^
+||tifpqpbqurspix.com^
 ||tigainareputaon.info^
 ||tigerpush.net^
 ||tightendescendantcuddle.com^
@@ -33647,6 +33665,7 @@ vkcdnservice.appspot.com^
 ||unhealthybravelyemployee.com^
 ||unhedgekuchen.top^
 ||unherdtp.com^
+||unhhsrraf.com^
 ||unhonedyork.shop^
 ||unhorseaa.com^
 ||unhrjzn.com^
@@ -33902,6 +33921,7 @@ vkcdnservice.appspot.com^
 ||urinebladdernovember.com^
 ||urinehere.com^
 ||uringherenurew.info^
+||urinousbiriba.com^
 ||urldelivery.com^
 ||urlgone.com^
 ||urlhausa.com^
@@ -34098,6 +34118,7 @@ vkcdnservice.appspot.com^
 ||vaipsouw.com^
 ||vaithodo.com^
 ||vaitotoo.net^
+||vaivurizoa.net^
 ||vajofu.uno^
 ||vak345.com^
 ||vaknveb.com^
@@ -40759,6 +40780,9 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||ad.snaptube.app^
+||ad.mobiuspace.net^
+||api-ad-callback.falconnet.app^
 ||ads-router-noneu.truecaller.com^
 ||umphek.com^
 ||ahoy-internal-ads-hv.b-cdn.net^
@@ -48787,6 +48811,7 @@ inapps.appsflyersdk.com^
 ||nova.dice.net^
 ||nr.static.mmcdn.com^
 ||ns.rvmkitt.com^
+||nwr.static.mmcdn.com^
 ||observe-nexus.pointandplace.com^
 ||octopart-analytics.com^
 ||oda.markitondemand.com^
@@ -54857,9 +54882,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 01 Oct 2024 15:44 UTC+7
-! Version: 2410011544
-! Blocked: 924 rules
+! Last modified: 02 Oct 2024 22:03 UTC+7
+! Version: 2410022203
+! Blocked: 925 rules
 ! Expires: 1 days (update frequency)
 !
 ||24h-ad.24hstatic.com^
@@ -55456,6 +55481,7 @@ inapps.appsflyersdk.com^
 ||log-dttc.sggp.org.vn^
 ||log-en.nhandan.vn^
 ||log-en.sggp.org.vn^
+||log-video.baotintuc.vn^
 ||log.247post.vn^
 ||log.anninhthudo.vn^
 ||log.baobackan.com.vn^
@@ -55720,8 +55746,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 01 Oct 2024 15:45 UTC+7
-! Version: 2410011545
+! Last modified: 02 Oct 2024 09:43 UTC+7
+! Version: 2410020943
 ! Blocked: 4,626 rules
 ! Expires: 1 days (update frequency)
 !
@@ -60238,6 +60264,19 @@ inapps.appsflyersdk.com^
 ||121.204.246.*.gif
 ||38.33.15.*.gif
 ||67.21.92.*.gif
+||51tongji.trafficmanager.net^
+||cnzz.trafficmanager.net^
+||laoqo.top^
+||pmgfwya.icu^
+||ausfyk.xyz^
+||ycuhky.xyz^
+||peryt111.fun^
+||znnfzx.xyz^
+||f5zv2.icu^
+||swurserb.top^
+||veryt111.fun^
+||az697jylm.cc^
+||kwurserd.top^
 ||zeryt111.fun^
 ||tuxpfiok.icu^
 ||62zd0.icu^
@@ -60248,6 +60287,7 @@ inapps.appsflyersdk.com^
 ||mqwtgq.xyz^
 ||vrdfxioe.icu^
 ||ceryt111.fun^
+||kloojzn.icu^
 ||ieryt111.fun^
 ||cwwgqu.xyz^
 ||ckyriuf.icu^
