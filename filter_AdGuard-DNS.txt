@@ -1,8 +1,8 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.16.99
-! Last modified: 2024-11-02T00:24:31.238Z
+! Version: 1.0.17.3
+! Last modified: 2024-11-03T00:27:28.619Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -12,7 +12,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Last modified: 2024-11-02T00:03:17.190Z
+! Last modified: 2024-11-03T00:03:44.944Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -30,6 +30,9 @@
 !
 !
 !
+||synchroparomologyauditable.monster^
+||webfreesave.monster^
+||ptuxapow.com^
 ||nvwjhrimontqvjo.com^
 ||managetroubles.com^
 ||termswilgers.top^
@@ -1366,12 +1369,6 @@ serve.bussyhunter.com^
 ||ado.delfi.ee^
 ||es.ylilauta.org^
 ||sab.fast.ge^
-!---------------------------------------------------------------------
-!---------------------------------------------------------------------
-!------------------------------ Hebrew -------------------------------
-!---------------------------------------------------------------------
-! NOTE: Hebrew
-!
 ||target.hidabroot.org^
 ||ban.bhol.co.il^
 ||ext.bhol.co.il^
@@ -1857,6 +1854,7 @@ vkcdnservice.appspot.com^
 ||30986g8ab.de^
 ||30b9e3a7d7e2b.com^
 ||30d5shnjq.de^
+||30e4a37eb7.com^
 ||30hccor10.de^
 ||30koqnlks.de^
 ||30m4hpei1.de^
@@ -2421,6 +2419,7 @@ vkcdnservice.appspot.com^
 ||abparasr.com^
 ||abpicsrc.com^
 ||abpjs23.com^
+||abpnow.xyz^
 ||abqmfewisf.com^
 ||abqsv91oe.com^
 ||abrasivematch.com^
@@ -2839,6 +2838,7 @@ vkcdnservice.appspot.com^
 ||adonweb.ru^
 ||adoopaqueentering.com^
 ||adopexchange.com^
+||adopstar.uk^
 ||adoptedproducerdiscernible.com^
 ||adoptioneitherrelaxing.com^
 ||adoptum.net^
@@ -7957,6 +7957,7 @@ vkcdnservice.appspot.com^
 ||couriree.xyz^
 ||coursebonfire.com^
 ||coursebrushedassume.com^
+||coursejavgg124.fun^
 ||courteous-double.com^
 ||courthousedefective.com^
 ||courthouselaterfunctions.com^
@@ -12184,6 +12185,7 @@ vkcdnservice.appspot.com^
 ||gaitcubicle.com^
 ||gaitoath.com^
 ||gaizoopi.net^
+||gajoytoworkwith.com^
 ||gakairohekoa.com^
 ||gakrarsabamt.net^
 ||gakvrqdquo.com^
@@ -14190,6 +14192,7 @@ vkcdnservice.appspot.com^
 ||hthinleavesofefi.info^
 ||htihvgpmna.xyz^
 ||htintpa.tech^
+||htkcggbgzinlmh.com^
 ||htkcm.com^
 ||htl.bid^
 ||htlbid.com^
@@ -16455,6 +16458,7 @@ vkcdnservice.appspot.com^
 ||laichsbedamns.com^
 ||laihoana.com^
 ||laikaush.com^
+||laikigaiptepty.net^
 ||laimroll.ru^
 ||lainaumi.com^
 ||laincomprehensiblepurchaser.com^
@@ -16689,6 +16693,7 @@ vkcdnservice.appspot.com^
 ||lemotherofhe.com^
 ||lemouwee.com^
 ||lemsoodol.com^
+||lengthjavgg124.fun^
 ||lenkmio.com^
 ||lenmit.com^
 ||lenopoteretol.com^
@@ -19525,6 +19530,7 @@ vkcdnservice.appspot.com^
 ||numbninth.com^
 ||numbswing.pro^
 ||numbtoday.com^
+||numericprosapy.shop^
 ||nunearn.com^
 ||nuniceberg.com^
 ||nunsourdaultozy.net^
@@ -20525,6 +20531,7 @@ vkcdnservice.appspot.com^
 ||outwoodeuropa.com^
 ||outyanmegaom.com^
 ||ouvertrenewed.com^
+||ouvrefth.shop^
 ||ouwhejoacie.xyz^
 ||ouxourtoo.com^
 ||ouzavamt.com^
@@ -24279,6 +24286,7 @@ vkcdnservice.appspot.com^
 ||royalcactus.com^
 ||royallycuprene.com^
 ||rozamimo9za10.com^
+||rpazaa.xyz^
 ||rpfytkt.com^
 ||rpmwhoop.com^
 ||rppumxa.com^
@@ -24943,6 +24951,7 @@ vkcdnservice.appspot.com^
 ||seducingtemporarily.com^
 ||seeablywitness.com^
 ||seebait.com^
+||seecaimooth.com^
 ||seedconsistedcheerful.com^
 ||seedlingneurotic.com^
 ||seedlingpenknifecambridge.com^
@@ -25485,6 +25494,7 @@ vkcdnservice.appspot.com^
 ||singulardisplace.com^
 ||singularheroic.com^
 ||sinisterbatchoddly.com^
+||sinisterdrippingcircuit.com^
 ||sinkagepandit.com^
 ||sinkboxphantic.com^
 ||sinkdescriptivepops.com^
@@ -25793,6 +25803,7 @@ vkcdnservice.appspot.com^
 ||soaperdeils.com^
 ||soaphoupsoas.xyz^
 ||soapsudkerfed.com^
+||soathouchoa.xyz^
 ||soawousa.xyz^
 ||sobakapi2sa8la09.com^
 ||sobakenchmaphk.com^
@@ -28633,6 +28644,7 @@ vkcdnservice.appspot.com^
 ||ukrkskillsombine.info^
 ||uksjogersamyre.com^
 ||ukskxmh.com^
+||uksofthecomp.com^
 ||ukzoweq.com^
 ||ul8seok7w5al.com^
 ||ulaiwhiw.xyz^
@@ -29011,6 +29023,7 @@ vkcdnservice.appspot.com^
 ||urmilan.info^
 ||urnigarted.com^
 ||urnkcqzu.com^
+||urocyoncabrit.top^
 ||uropygimoraine.com^
 ||urtirepor.com^
 ||urucuripomely.com^
@@ -29537,6 +29550,7 @@ vkcdnservice.appspot.com^
 ||villagepalmful.com^
 ||villagerprolific.com^
 ||villagerreporter.com^
+||vilmgins.com^
 ||vilpujzmyhu.com^
 ||vincentagrafes.top^
 ||vindexmesode.com^
@@ -35192,6 +35206,7 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||ads-config-engine-noneu.truecaller.com^
 ||ad.inston.ltd^
 ||ad.deepthought.industries^
 ||ad.bandlab.io^
@@ -35199,7 +35214,7 @@ vkcdnservice.appspot.com^
 ||inmense.site^
 ||dollphoin.site^
 ||news-cdn.site^
-||adx.mossru.com^
+||mossru.com^
 ||jjpp.lmtjapi.com^
 ||a.07aa269c0e76550c929640c170af557c7371753ba1b580236d7fa0a4.com^
 ||a.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com^
@@ -42287,6 +42302,8 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||insights-categorizer-noneu.truecaller.com^
+||event-dot-learning-piano.appspot.com^
 ||log.cleanertoolboxonline.live^
 ||amplitude.life360.com^
 ||events.swiftlycontent.net^
@@ -49459,8 +49476,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 25 Oct 2024 10:02 UTC+7
-! Version: 2410251002
+! Last modified: 02 Nov 2024 16:01 UTC+7
+! Version: 2411021601
 ! Blocked: 926 rules
 ! Expires: 1 days (update frequency)
 !
@@ -50324,8 +50341,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 25 Oct 2024 10:02 UTC+7
-! Version: 2410251002
+! Last modified: 02 Nov 2024 16:01 UTC+7
+! Version: 2411021601
 ! Blocked: 4,628 rules
 ! Expires: 1 days (update frequency)
 !
@@ -54846,12 +54863,18 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||imniel.com^
+||kiolpia.icu^
+||qoubliy.top^
 ||vuirssd.icu^
 ||kjnsgqe.icu^
 ||rbift.icu^
 ||heiviek.com^
 ||wmcbld.top^
 ||ifmccdn.icu^
+||vrelai.com^
+||woublie.top^
+||ti4la.icu^
 ||graesol.com^
 ||ctlacnh.icu^
 ||xggcyef.icu^
