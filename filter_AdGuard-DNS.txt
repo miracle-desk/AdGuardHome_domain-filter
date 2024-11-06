@@ -1,8 +1,8 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.17.11
-! Last modified: 2024-11-05T00:24:38.695Z
+! Version: 1.0.17.15
+! Last modified: 2024-11-06T00:24:23.939Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -12,7 +12,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Last modified: 2024-11-05T00:03:08.151Z
+! Last modified: 2024-11-06T00:03:13.591Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -30,6 +30,8 @@
 !
 !
 !
+||gtyjpiobza.com^
+||feverfreeman.com^
 ||codmanrefan.shop^
 ||synchroparomologyauditable.monster^
 ||webfreesave.monster^
@@ -1635,6 +1637,7 @@ vkcdnservice.appspot.com^
 ||1empiredirect.com^
 ||1ep.co^
 ||1ep2l1253.de^
+||1f63b94163.com^
 ||1f6bf6f5a3.com^
 ||1f7eece503.com^
 ||1f84e33459.com^
@@ -1940,6 +1943,7 @@ vkcdnservice.appspot.com^
 ||4088846d50.com^
 ||40ceexln7929.com^
 ||4164d5b6eb.com^
+||41b5062d22.com^
 ||41eak.life^
 ||42a5d530ec972d8994.com^
 ||42ce2b0955.com^
@@ -2306,6 +2310,7 @@ vkcdnservice.appspot.com^
 ||aac585e70c.com^
 ||aafdcq.com^
 ||aagm.link^
+||aagmmrktriz.vip^
 ||aarfmftslfz.com^
 ||aarghclothy.com^
 ||aarswtcnoz.com^
@@ -2548,6 +2553,7 @@ vkcdnservice.appspot.com^
 ||acrosscountenanceaccent.com^
 ||acrossheadquartersanchovy.com^
 ||acscdn.com^
+||actglimpse.com^
 ||actiflex.org^
 ||actiondenepeninsula.com^
 ||actionisabella.com^
@@ -3151,6 +3157,7 @@ vkcdnservice.appspot.com^
 ||affelseaeinera.org^
 ||affelseaeineral.xyz^
 ||affflow.com^
+||affiescoryza.top^
 ||affili.st^
 ||affiliate-robot.com^
 ||affiliate-wg.com^
@@ -3575,6 +3582,7 @@ vkcdnservice.appspot.com^
 ||almightyexploitjumpy.com^
 ||almightypush.com^
 ||almightyroomsimmaculate.com^
+||almnerdelimed.com^
 ||almondusual.com^
 ||almonryminuter.com^
 ||almostspend.com^
@@ -3626,6 +3634,7 @@ vkcdnservice.appspot.com^
 ||altronopubacc.com^
 ||altynamoan.com^
 ||aluationiamk.info^
+||alwaysdomain01.online^
 ||alwayspainfully.com^
 ||alwayswheatconference.com^
 ||alwhichhereal.com^
@@ -3720,6 +3729,7 @@ vkcdnservice.appspot.com^
 ||amused-ground.com^
 ||amusementrehearseevil.com^
 ||amusementstepfatherpretence.com^
+||amvbwleayvabj.top^
 ||amwaenayzjqle.top^
 ||amwaenayzjwav.top^
 ||amyfixesfelicity.com^
@@ -3926,6 +3936,7 @@ vkcdnservice.appspot.com^
 ||appearancegravel.com^
 ||appearedcrawledramp.com^
 ||appearednecessarily.com^
+||appearedon.com^
 ||appearzillionnowadays.com^
 ||appeaseprovocation.com^
 ||appendad.com^
@@ -4044,6 +4055,7 @@ vkcdnservice.appspot.com^
 ||aristianewr.club^
 ||arithnavaid.click^
 ||arithpouted.com^
+||arkabstoppit.com^
 ||arkadyczsk.com^
 ||arkdcz.com^
 ||arkfacialdaybreak.com^
@@ -4074,6 +4086,7 @@ vkcdnservice.appspot.com^
 ||arquilavaan.com^
 ||arrangeaffectedtables.com^
 ||arrangementhang.com^
+||arrayedgaum.top^
 ||arraysurvivalcarla.com^
 ||arrearsdecember.com^
 ||arrearstreatyexamples.com^
@@ -4118,6 +4131,7 @@ vkcdnservice.appspot.com^
 ||as5000.com^
 ||asacdn.com^
 ||asafesite.com^
+||asajojgerewebnew.com^
 ||asandcomemu.info^
 ||asbaloney.com^
 ||asbulbasaura.com^
@@ -4203,6 +4217,7 @@ vkcdnservice.appspot.com^
 ||asrelatercondi.org^
 ||asrety.com^
 ||asricewaterho.com^
+||asricewaterhouseo.com^
 ||asrntiljustetyerec.info^
 ||asrop.xyz^
 ||asrowjkagg.com^
@@ -4258,6 +4273,7 @@ vkcdnservice.appspot.com^
 ||astonishlandmassnervy.com^
 ||astonishmentfuneral.com^
 ||astoreslurs.top^
+||astoundweighadjoining.com^
 ||astra9dlya10.com^
 ||astrokompas.com^
 ||astronomybreathlessmisunderstand.com^
@@ -4311,6 +4327,7 @@ vkcdnservice.appspot.com^
 ||aticalmaster.org^
 ||aticatea.com^
 ||atinsolutions.com^
+||ationforeathyougla.com^
 ||ationpecialukizeiaon.info^
 ||ativesathyas.info^
 ||atjigglypuffor.com^
@@ -4412,8 +4429,10 @@ vkcdnservice.appspot.com^
 ||aujooxoo.com^
 ||aukalerim.com^
 ||aukarosizox.com^
+||aukrgukepersao.com^
 ||aukroaze.xyz^
 ||auksizox.com^
+||auktshiejifqnk.com^
 ||aulingimpora.club^
 ||aulrains.com^
 ||aulseewhie.com^
@@ -4577,6 +4596,7 @@ vkcdnservice.appspot.com^
 ||awheecethe.net^
 ||awhoupsou.com^
 ||awistats.com^
+||awjadlbwiawt.com^
 ||awkwardsuperstition.com^
 ||awldcupu.com^
 ||awledconside.xyz^
@@ -4934,6 +4954,7 @@ vkcdnservice.appspot.com^
 ||beambroth.com^
 ||beamedshipwreck.com^
 ||beanborrowed.com^
+||beanedbounds.shop^
 ||bearableforever.com^
 ||bearableusagetheft.com^
 ||bearagriculture.com^
@@ -5218,6 +5239,7 @@ vkcdnservice.appspot.com^
 ||bewarevampiresister.com^
 ||bewathis.com^
 ||bewoobaton.com^
+||bewperspiths.top^
 ||beyanmaan.com^
 ||bf-ad.net^
 ||bfast.com^
@@ -5983,6 +6005,7 @@ vkcdnservice.appspot.com^
 ||bukash2jf8jfpw09.com^
 ||bukshiunchair.shop^
 ||bulbofficial.com^
+||bulbousloth.shop^
 ||bulcqmteuc.com^
 ||bulginglair.com^
 ||bulkaccompanying.com^
@@ -6055,6 +6078,7 @@ vkcdnservice.appspot.com^
 ||businesslinenow.com^
 ||businessmenmerchandise.com^
 ||buskerreshoes.website^
+||bustlefungus.com^
 ||bustlemiszone.com^
 ||bustling-let.pro^
 ||bustling-substance.pro^
@@ -6162,6 +6186,7 @@ vkcdnservice.appspot.com^
 ||cadsimz.com^
 ||cadskiz.com^
 ||caeli-rns.com^
+||caesarmausoleum.com^
 ||cafeteriasobwaiter.com^
 ||cagakzcwyr.com^
 ||cageinattentiveconfederate.com^
@@ -6169,6 +6194,7 @@ vkcdnservice.appspot.com^
 ||caglonseeh.com^
 ||cagolgzazof.com^
 ||cagothie.net^
+||cahxpivu.com^
 ||caibtwnpvta.xyz^
 ||caicuptu.xyz^
 ||caigobou.com^
@@ -6199,6 +6225,7 @@ vkcdnservice.appspot.com^
 ||calmlyvacuumwidth.com^
 ||calomelsiti.com^
 ||caltertangintin.com^
+||caltropsheerer.shop^
 ||calvali.com^
 ||calvaryfiliety.top^
 ||camads.net^
@@ -6330,6 +6357,7 @@ vkcdnservice.appspot.com^
 ||casionest292flaudient.com^
 ||caskcountry.com^
 ||caspion.com^
+||cassabahotcake.top^
 ||cassetteenergyincoming.com^
 ||cassetteflask.com^
 ||cassettelancefriday.com^
@@ -6460,6 +6488,7 @@ vkcdnservice.appspot.com^
 ||cdnware.io^
 ||cdoqjxlnegnhm.com^
 ||cdosagebreakfast.com^
+||cdotrvjaiupk.com^
 ||cdrvrs.com^
 ||cdryuoe.com^
 ||cdsbnrs.com^
@@ -6575,6 +6604,7 @@ vkcdnservice.appspot.com^
 ||chairmansmile.com^
 ||chaisefireballresearching.com^
 ||chalaips.com^
+||chalconvex.top^
 ||chalkedretrieval.com^
 ||challengecircuit.com^
 ||chambermaidthree.xyz^
@@ -6775,6 +6805,7 @@ vkcdnservice.appspot.com^
 ||chouraip.com^
 ||chourdain.com^
 ||chouthep.net^
+||chowsedwarsaws.shop^
 ||chozipeem.com^
 ||chrantary-vocking.com^
 ||chrisignateignatedescend.com^
@@ -6897,6 +6928,7 @@ vkcdnservice.appspot.com^
 ||claspedtwelve.com^
 ||claspsnuff.com^
 ||classesfolksprofession.com^
+||classessavagely.com^
 ||classiccarefullycredentials.com^
 ||classicguarantee.pro^
 ||classickalunti.com^
@@ -7096,6 +7128,7 @@ vkcdnservice.appspot.com^
 ||coastlinebravediffers.com^
 ||coastlinejudgement.com^
 ||coatedflamfew.click^
+||coateesnature.top^
 ||coationexult.com^
 ||coatsanguine.com^
 ||coatslilachang.com^
@@ -7663,6 +7696,7 @@ vkcdnservice.appspot.com^
 ||craveidentificationanoitmentanoitment.com^
 ||crawlcoxed.com^
 ||crawledlikely.com^
+||crawlerjamie.shop^
 ||crayonreareddreamt.com^
 ||crazefiles.com^
 ||craziesprelaty.com^
@@ -7676,6 +7710,7 @@ vkcdnservice.appspot.com^
 ||creamssicsite.com^
 ||creamy-confidence.pro^
 ||creaperu.com^
+||creaseinprofitst.com^
 ||createsgummous.com^
 ||creative-bars1.com^
 ||creative-serving.com^
@@ -7710,6 +7745,7 @@ vkcdnservice.appspot.com^
 ||cretgate.com^
 ||crevicedepressingpumpkin.com^
 ||cribbewildered.com^
+||criesstarch.com^
 ||crimeevokeprodigal.com^
 ||criminalalcovebeacon.com^
 ||criminalmention.pro^
@@ -7912,11 +7948,13 @@ vkcdnservice.appspot.com^
 ||d03804f2c8.com^
 ||d08l9a634.com^
 ||d0main.ru^
+||d13r2gmqlqb3hr.cloudfront.net^
 ||d15a035f27.com^
 ||d1rgi5lmynkcm4.cloudfront.net^
 ||d1vy7td57198sq.cloudfront.net^
 ||d1x9q8w2e4.xyz^
 ||d22jxozsujz6m.cloudfront.net^
+||d23i0h7d50duv0.cloudfront.net^
 ||d24ak3f2b.top^
 ||d26e83b697.com^
 ||d29gqcij.com^
@@ -8257,6 +8295,7 @@ vkcdnservice.appspot.com^
 ||degutu.xyz^
 ||dehimalowbowohe.info^
 ||deiformnael.click^
+||deisd5o6v8rgq.cloudfront.net^
 ||deitynosebleed.com^
 ||dejjjdbifojmi.com^
 ||dekanser.com^
@@ -8356,6 +8395,7 @@ vkcdnservice.appspot.com^
 ||depleteappetizinguniverse.com^
 ||deploremythsound.com^
 ||deployads.com^
+||deponerdidym.top^
 ||deporttideevenings.com^
 ||depositgreetingscommotion.com^
 ||depositpastel.com^
@@ -8375,6 +8415,7 @@ vkcdnservice.appspot.com^
 ||derivedrecordsstripes.com^
 ||derowalius.com^
 ||dersouds.com^
+||derthurnyjkomp.com^
 ||desabrator.com^
 ||descargarpartidosnba.com^
 ||descendantdevotion.com^
@@ -8475,7 +8516,9 @@ vkcdnservice.appspot.com^
 ||dft9.online^
 ||dfvlaoi.com^
 ||dfyui8r5rs.click^
+||dg9sw33hxt5i7.cloudfront.net^
 ||dgafgadsgkjg.top^
+||dgfywlmyneo.com^
 ||dggwqknub.com^
 ||dgkmdia.com^
 ||dgmaustralia.com^
@@ -9192,6 +9235,7 @@ vkcdnservice.appspot.com^
 ||dungeonisosculptor.com^
 ||dungmamma.com^
 ||dunsathelia.click^
+||duo-zlhbjsld.buzz^
 ||dupelipperan.com^
 ||duplicateallycomics.com^
 ||duplicateankle.com^
@@ -9234,6 +9278,7 @@ vkcdnservice.appspot.com^
 ||dxouwbn7o.com^
 ||dxtv1.com^
 ||dyhvtkijmeg.xyz^
+||dyipkcuro.rocks^
 ||dylop.xyz^
 ||dymoqrupovgefjq.com^
 ||dynamicadx.com^
@@ -9354,6 +9399,7 @@ vkcdnservice.appspot.com^
 ||ebc998936c.com^
 ||ebd.cda-hd.co^
 ||ebdokvydrvqvrak.xyz^
+||ebengussaubsooh.net^
 ||ebetoni.com^
 ||eblastengine.com^
 ||ebnarnf.com^
@@ -9415,6 +9461,7 @@ vkcdnservice.appspot.com^
 ||edition25.com^
 ||editionoverlookadvocate.com^
 ||editneed.com^
+||edixagnesag.net^
 ||edlilu.com^
 ||ednewsbd.com^
 ||edonhisdhi.com^
@@ -9552,6 +9599,7 @@ vkcdnservice.appspot.com^
 ||eiyjkwmredryb.com^
 ||ejcet5y9ag.com^
 ||ejdkqclkzq.com^
+||ejiexlvyf.com^
 ||ejipaifaurga.com^
 ||ejsgxapv.xyz^
 ||ejuiashsateam.info^
@@ -9769,6 +9817,7 @@ vkcdnservice.appspot.com^
 ||entjgcr.com^
 ||entlyhavebeden.com^
 ||entlypleasantt.info^
+||entlypleasanttacklin.com^
 ||entrailsintentionsbrace.com^
 ||entreatkeyrequired.com^
 ||entreatyfungusgaily.com^
@@ -10034,6 +10083,7 @@ vkcdnservice.appspot.com^
 ||ewesmedia.com^
 ||ewhareey.com^
 ||ewikajs.com^
+||ewituhinlargeconsu.com^
 ||ewnkfnsajr.com^
 ||ewogloarge.com^
 ||ewoodandwaveo.com^
@@ -10320,9 +10370,11 @@ vkcdnservice.appspot.com^
 ||fantastic-height.com^
 ||fantasticgap.pro^
 ||fanza.cc^
+||faoll.space^
 ||fapmeth.com^
 ||fapstered.com^
 ||faptdsway.ru^
+||faqirsborne.com^
 ||faquirrelot.com^
 ||faramkaqxoh.com^
 ||farceurincurve.com^
@@ -10537,6 +10589,7 @@ vkcdnservice.appspot.com^
 ||fibberpuddingstature.com^
 ||fibdistrust.com^
 ||fibmaths.com^
+||fibnuxptiah.com^
 ||fibrefilamentherself.com^
 ||fibrehighness.com^
 ||fibrilono.top^
@@ -10575,6 +10628,7 @@ vkcdnservice.appspot.com^
 ||filetarget.net^
 ||filhibohwowm.com^
 ||filibegsicarii.click^
+||fillingcater.com^
 ||fillingimpregnable.com^
 ||filmesonlinegratis.com^
 ||filmizeorts.click^
@@ -10813,6 +10867,7 @@ vkcdnservice.appspot.com^
 ||fnelqqh.com^
 ||fnlojkpbe.com^
 ||fnrrm2fn1njl1.com^
+||fnyaynma.com^
 ||fnzuymy.com^
 ||foaglaid.xyz^
 ||foakiwhazoja.com^
@@ -10972,6 +11027,7 @@ vkcdnservice.appspot.com^
 ||fossorsoxgate.top^
 ||fotoompi.com^
 ||fotsaulr.net^
+||fouderezaifi.net^
 ||foughtdiamond.com^
 ||fouleewu.net^
 ||foulfurnished.com^
@@ -11355,6 +11411,7 @@ vkcdnservice.appspot.com^
 ||garotas.info^
 ||garrafaoutsins.top^
 ||garretassociate.com^
+||garretdistort.com^
 ||garrisonparttimemount.com^
 ||gaskinneepour.com^
 ||gasolinefax.com^
@@ -11389,7 +11446,9 @@ vkcdnservice.appspot.com^
 ||gauwoocoasik.com^
 ||gauzedecoratedcomplimentary.com^
 ||gauzeglutton.com^
+||gawainshirty.com^
 ||gayadpros.com^
+||gaytwddahpave.com^
 ||gazati.com^
 ||gazeeniggard.top^
 ||gazozfelines.shop^
@@ -11471,6 +11530,7 @@ vkcdnservice.appspot.com^
 ||germmasonportfolio.com^
 ||geruksom.net^
 ||gesanbarrat.com^
+||geslinginst.shop^
 ||get-gx.net^
 ||get-here-click.xyz^
 ||get-me-wow.
@@ -11525,6 +11585,7 @@ vkcdnservice.appspot.com^
 ||ggetsurv4youu.com^
 ||gggetsurveey.com^
 ||gggpht.com^
+||gggpnuppr.com^
 ||ggjqqmwwolbmhkr.com^
 ||ggkk.xyz^
 ||gglx.me^
@@ -11579,6 +11640,7 @@ vkcdnservice.appspot.com^
 ||ginglmiresaw.com^
 ||ginningsteri.com^
 ||ginnyclairvoyantapp.com^
+||ginsaitchosheer.net^
 ||ginsicih.xyz^
 ||gipeucn.icu^
 ||gipostart-1.co^
@@ -11620,6 +11682,7 @@ vkcdnservice.appspot.com^
 ||gkdafpdmiwwd.xyz^
 ||gkencyarcoc.com^
 ||gkrtmc.com^
+||gkwcxsgh.com^
 ||gl-cash.com^
 ||gla63a4l.de^
 ||glacierwaist.com^
@@ -11631,6 +11694,7 @@ vkcdnservice.appspot.com^
 ||glaidipt.net^
 ||glaijauk.xyz^
 ||glaikrolsoa.com^
+||glaisseexoar.net^
 ||glaivoun.net^
 ||glaiwhee.net^
 ||glaixich.net^
@@ -11675,6 +11739,7 @@ vkcdnservice.appspot.com^
 ||glersakr.com^
 ||glersooy.net^
 ||glerteeb.com^
+||gletchauka.net^
 ||glevoloo.com^
 ||glideimpulseregulate.com^
 ||glidelamppost.com^
@@ -11683,6 +11748,7 @@ vkcdnservice.appspot.com^
 ||glimpsedrastic.com^
 ||glimpsemankind.com^
 ||glimtors.net^
+||glipigaicm.net^
 ||glitteringinsertsupervise.com^
 ||glitteringobsessionchanges.com^
 ||glitteringstress.pro^
@@ -11978,6 +12044,7 @@ vkcdnservice.appspot.com^
 ||grairgoo.com^
 ||grairsoa.com^
 ||grairtoorgey.com^
+||graitaulrocm.net^
 ||graithos.net^
 ||graitsie.com^
 ||graivaik.com^
@@ -12197,6 +12264,7 @@ vkcdnservice.appspot.com^
 ||gsurihy.com^
 ||gt5tiybvn.com^
 ||gtbdhr.com^
+||gtfpjizpw.com^
 ||gtitcah.com^
 ||gtoonfd.com^
 ||gtosmdjgn.xyz^
@@ -12489,6 +12557,7 @@ vkcdnservice.appspot.com^
 ||hbzikbe.com^
 ||hcdmhyq.com^
 ||hcpvkcznxj.com^
+||hcwatsempabvd.com^
 ||hd100546c.com^
 ||hdacode.com^
 ||hdat.xyz^
@@ -12500,6 +12569,7 @@ vkcdnservice.appspot.com^
 ||hdbkome.com^
 ||hdbtop.com^
 ||hdpreview.com^
+||hdqrswhipped.top^
 ||hdvcode.com^
 ||hdxpqgvqm.com^
 ||hdywrwnvf-h.one^
@@ -12552,6 +12622,7 @@ vkcdnservice.appspot.com^
 ||heedetiquettedope.com^
 ||heedlessplanallusion.com^
 ||heedmicroscope.com^
+||heefothust.net^
 ||heehoujaifo.com^
 ||heejuchee.net^
 ||heelsmerger.com^
@@ -12580,6 +12651,7 @@ vkcdnservice.appspot.com^
 ||helltraffic.com^
 ||helmetregent.com^
 ||helmfireworkssauce.com^
+||helmingcensers.shop^
 ||helmpa.xyz^
 ||helmregardiso.com^
 ||helpfulduty.pro^
@@ -12818,6 +12890,7 @@ vkcdnservice.appspot.com^
 ||hlumjujtkmgzmf.com^
 ||hlyrecomemum.info^
 ||hmafhczsos.com^
+||hmkwhhnflgg.space^
 ||hmsykhbqvesopt.xyz^
 ||hmuylvbwbpead.xyz^
 ||hmxg5mhyx.com^
@@ -12870,6 +12943,7 @@ vkcdnservice.appspot.com^
 ||hollowcharacter.com^
 ||hollysocialspuse.com^
 ||holmicnebbish.com^
+||holsfellen.shop^
 ||holspostcardhat.com^
 ||holyskier.com^
 ||homagertereus.click^
@@ -12894,6 +12968,7 @@ vkcdnservice.appspot.com^
 ||honeyreadinesscentral.com^
 ||honitonchyazic.com^
 ||honksbiform.com^
+||honorable-customer.pro^
 ||honorablehalt.com^
 ||honorbustlepersist.com^
 ||honourprecisionsuited.com^
@@ -12915,6 +12990,7 @@ vkcdnservice.appspot.com^
 ||hoomigri.com^
 ||hoood.info^
 ||hoopbeingsmigraine.com^
+||hoopersnonpoet.com^
 ||hoophaub.com^
 ||hoophejod.com^
 ||hooptaik.net^
@@ -12975,6 +13051,7 @@ vkcdnservice.appspot.com^
 ||hotstretchdove.com^
 ||hottercensorbeaker.com^
 ||hotterenvisage.com^
+||hottielunn.com^
 ||hotwords.com^
 ||houdodoo.net^
 ||houfopsichoa.com^
@@ -13039,6 +13116,7 @@ vkcdnservice.appspot.com^
 ||hsateamplayeranydw.info^
 ||hsdaknd.com^
 ||hsfewosve.xyz^
+||hskctjuticq.com^
 ||hsrvz.com^
 ||htanothingfruit.com^
 ||htdvt.com^
@@ -13056,6 +13134,7 @@ vkcdnservice.appspot.com^
 ||htobficta.com^
 ||htoptracker11072023.com^
 ||htpirf.xyz^
+||htplaodmknel.one^
 ||httpsecurity.org^
 ||hturnshal.com^
 ||htyrmacanbty.com^
@@ -13079,6 +13158,7 @@ vkcdnservice.appspot.com^
 ||hugysoral.digital^
 ||huhcoldish.com^
 ||huigt6y.xyz^
+||hukelpmetoreali.com^
 ||hukogpanbs.com^
 ||hulocvvma.com^
 ||humandiminutionengaged.com^
@@ -13189,6 +13269,7 @@ vkcdnservice.appspot.com^
 ||ibikini.cyou^
 ||iboobeelt.net^
 ||ibrapush.com^
+||ibrelend.com^
 ||ibryte.com^
 ||ibugreeza.com^
 ||ibutheptesitrew.com^
@@ -13277,6 +13358,7 @@ vkcdnservice.appspot.com^
 ||ihavenewdomain.xyz^
 ||ihdcnwbcmw.com^
 ||ihhqwaurke.com^
+||ihimkxbtqjt.com^
 ||ihkybtde.com^
 ||ihnhnpz.com^
 ||ihoolrun.net^
@@ -13583,6 +13665,7 @@ vkcdnservice.appspot.com^
 ||infractructurelegislation.com^
 ||infrashift.com^
 ||infringementpeanut.com^
+||infuriateseducinghurry.com^
 ||ingablorkmetion.com^
 ||ingigalitha.com^
 ||ingotedbooze.com^
@@ -13817,6 +13900,7 @@ vkcdnservice.appspot.com^
 ||investmentstar.org^
 ||invibravaa.com^
 ||invisiblepine.com^
+||inviteepithed.com^
 ||invitewingorphan.com^
 ||invol.co^
 ||involvementvindictive.com^
@@ -13890,6 +13974,7 @@ vkcdnservice.appspot.com^
 ||irtyf.com^
 ||isabellagodpointy.com^
 ||isabellahopepancake.com^
+||isaminecutitis.shop^
 ||isawthenews.com^
 ||isbnrs.com^
 ||isboost.co.jp^
@@ -14074,6 +14159,7 @@ vkcdnservice.appspot.com^
 ||januarydeliverywarfare.com^
 ||januaryprinter.com^
 ||janzmuarcst.com^
+||jaocyqsqjuc.com^
 ||japanbros.com^
 ||japegr.click^
 ||japw.cloud^
@@ -14167,6 +14253,7 @@ vkcdnservice.appspot.com^
 ||jennyunfit.com^
 ||jennyvisits.com^
 ||jenonaw.com^
+||jeoawamjbbyeq.top^
 ||jeoawamjbbzjy.top^
 ||jeopardizegovernor.com^
 ||jeopardycruel.com^
@@ -14227,6 +14314,7 @@ vkcdnservice.appspot.com^
 ||jingenfirm.com^
 ||jinglehalfbakedparticle.com^
 ||jinripkk.com^
+||jipperbehoot.shop^
 ||jipsegoasho.com^
 ||jiqeni.xyz^
 ||jiqiv.com^
@@ -14238,6 +14326,7 @@ vkcdnservice.appspot.com^
 ||jizzarchives.com^
 ||jizzensirrah.com^
 ||jjbmukufwu.com^
+||jjcjwtactsgvkj.com^
 ||jjcwq.site^
 ||jjqsdll.com^
 ||jjrvlrslb.com^
@@ -14258,6 +14347,7 @@ vkcdnservice.appspot.com^
 ||jmtbmqchgpw.xyz^
 ||jmxgwesrte.com^
 ||jnhjpdayvpzj.com^
+||jnkvojvgcechvq.com^
 ||jnlldyq.com^
 ||jnnjthg.com^
 ||jnovoksjreeyrpm.xyz^
@@ -14384,6 +14474,7 @@ vkcdnservice.appspot.com^
 ||jsretra.com^
 ||jssearch.net^
 ||jswww.net^
+||jubacasziel.shop^
 ||jubnaadserve.com^
 ||jubsaugn.com^
 ||jucysh.com^
@@ -14394,6 +14485,7 @@ vkcdnservice.appspot.com^
 ||judicialfizzysoftball.com^
 ||judosllyn.com^
 ||judruwough.com^
+||juftujelsou.net^
 ||jugerfowells.com^
 ||juglarunioid.com^
 ||jugnepha.xyz^
@@ -14509,6 +14601,7 @@ vkcdnservice.appspot.com^
 ||kamahiunvisor.shop^
 ||kamalafooner.space^
 ||kamassmyalia.com^
+||kamiaidenn.shop^
 ||kaminari.space^
 ||kaminari.systems^
 ||kamiyayday.top^
@@ -14553,6 +14646,7 @@ vkcdnservice.appspot.com^
 ||kbbwgbqmu.xyz^
 ||kbjn-sibltg.icu^
 ||kbnmnl.com^
+||kbnujcqx.xyz^
 ||kbqtuwoxgvth.xyz^
 ||kbugxeslbjc8.com^
 ||kcdn.xyz^
@@ -14644,6 +14738,7 @@ vkcdnservice.appspot.com^
 ||khhkfcf.com^
 ||khngkkcwtlnu.com^
 ||kiaughsviner.com^
+||kibyglsp.top^
 ||kicationandas.info^
 ||kicka.xyz^
 ||kickchecking.com^
@@ -14690,6 +14785,7 @@ vkcdnservice.appspot.com^
 ||kithoasou.com^
 ||kitnmedia.com^
 ||kitrigthy.com^
+||kitsveinery.com^
 ||kittensuccessful.com^
 ||kitwkuouldhukel.xyz^
 ||kityour.com^
@@ -14734,6 +14830,7 @@ vkcdnservice.appspot.com^
 ||knackalida.shop^
 ||kncecafvdeu.info^
 ||kndaspiratioty.org^
+||kndaspiratiotyuk.com^
 ||kneeansweras.com^
 ||kneeletromero.com^
 ||kneescarbohydrate.com^
@@ -14863,6 +14960,7 @@ vkcdnservice.appspot.com^
 ||kuhxhoanlf.com^
 ||kukrosti.com^
 ||kulakiayme.com^
+||kulangflook.shop^
 ||kulsaibs.net^
 ||kultingecauyuksehinkitw.info^
 ||kumparso.com^
@@ -14911,6 +15009,7 @@ vkcdnservice.appspot.com^
 ||kxnggkh2nj.com^
 ||kxshyo.com^
 ||kxsvelr.com^
+||kxxdxikksc.space^
 ||kymirasite.pro^
 ||kymnelboloman.com^
 ||kyteevl.com^
@@ -14974,6 +15073,7 @@ vkcdnservice.appspot.com^
 ||laihoana.com^
 ||laikaush.com^
 ||laikigaiptepty.net^
+||laimeerulaujaul.net^
 ||laimroll.ru^
 ||lainaumi.com^
 ||laincomprehensiblepurchaser.com^
@@ -15097,6 +15197,7 @@ vkcdnservice.appspot.com^
 ||ldedallover.info^
 ||ldimnveryldgitwe.xyz^
 ||ldjcteyoq.com^
+||ldmeukeuktyoue.com^
 ||ldthinkhimun.com^
 ||lduhtrp.net^
 ||lead1.pl^
@@ -15201,6 +15302,7 @@ vkcdnservice.appspot.com^
 ||lentculturalstudied.com^
 ||lenthyblent.com^
 ||lentmatchwith.info^
+||lentmatchwithyou.com^
 ||lentoidreboast.top^
 ||leojmp.com^
 ||leonbetvouum.com^
@@ -15340,6 +15442,7 @@ vkcdnservice.appspot.com^
 ||limneraminic.click^
 ||limoners.com^
 ||limpattemptnoose.com^
+||limpghebeta.shop^
 ||limping-plane.pro^
 ||limpingpick.com^
 ||limurol.com^
@@ -15420,6 +15523,7 @@ vkcdnservice.appspot.com^
 ||lizzieforcepincers.com^
 ||ljlvftvryjowdm.xyz^
 ||ljr3.site^
+||ljsr-ijbcxvq.online^
 ||lkcoffe.com^
 ||lkdvvxvtsq6o.com^
 ||lkg6g644.de^
@@ -15459,6 +15563,8 @@ vkcdnservice.appspot.com^
 ||lntrigulngdates.com^
 ||lnuqlyoejdpb.com^
 ||lo8ve6ygour3pea4cee.com^
+||loadecouhi.net^
+||loader.netzwelt.de^
 ||loading-resource.com^
 ||loadingscripts.com^
 ||loadtime.org^
@@ -15666,6 +15772,7 @@ vkcdnservice.appspot.com^
 ||lr-in.com^
 ||lraonxdikxi.com^
 ||lreqmoonpjka.com^
+||lrkfuheobm.one^
 ||lrqknpk.com^
 ||lryofjrfogp.com^
 ||lsandothesaber.org^
@@ -15904,6 +16011,7 @@ vkcdnservice.appspot.com^
 ||magnificent-listen.com^
 ||magnificentflametemperature.com^
 ||magnificentmanlyyeast.com^
+||magogvel.shop^
 ||magr.cloud^
 ||magsrv.com^
 ||magukaudsodo.xyz^
@@ -16006,6 +16114,7 @@ vkcdnservice.appspot.com^
 ||manoirshrine.com^
 ||manorfunctions.com^
 ||manrootarbota.com^
+||mansfieldspurtvan.com^
 ||manslaughterhallucinateenjoyment.com^
 ||mansudee.net^
 ||mantapareseat.com^
@@ -16082,6 +16191,7 @@ vkcdnservice.appspot.com^
 ||masqueradeentrustveneering.com^
 ||masqueradethousand.com^
 ||massacreintentionalmemorize.com^
+||massacrepompous.com^
 ||massacresurrogate.com^
 ||massagefumaria.click^
 ||massariuscdn.com^
@@ -16346,6 +16456,7 @@ vkcdnservice.appspot.com^
 ||mestupidity.com^
 ||metahv.xyz^
 ||metalbow.com^
+||metallcorrupt.com^
 ||metatrckpixel.com^
 ||metavertising.com^
 ||metavertizer.com^
@@ -16440,6 +16551,7 @@ vkcdnservice.appspot.com^
 ||mileesidesu.org^
 ||mileesidesukbein.com^
 ||milfunsource.com^
+||milkierjambes.shop^
 ||milksquadronsad.com^
 ||milkygoodness.xyz^
 ||milkywaynewspaper.com^
@@ -16668,6 +16780,7 @@ vkcdnservice.appspot.com^
 ||mockingcolloquial.com^
 ||mockingsubtlecrimpycrimpy.com^
 ||mocmubse.net^
+||mocsheieamnl.com^
 ||modelingfraudulent.com^
 ||modents-diance.com^
 ||moderategermmaria.com^
@@ -16707,6 +16820,7 @@ vkcdnservice.appspot.com^
 ||momhomicidalspa.com^
 ||momijoy.ru^
 ||mommygravelyslime.com^
+||momzersatorii.top^
 ||monadplug.com^
 ||monarchoysterbureau.com^
 ||monarchstraightforwardfurnish.com^
@@ -16901,6 +17015,7 @@ vkcdnservice.appspot.com^
 ||mthvjim.com^
 ||mtkgyrzfygdh.com^
 ||mttvhsmbtnmse.xyz^
+||mtuvr.life^
 ||mtypitea.net^
 ||mtzenhigqg.com^
 ||muchezougree.com^
@@ -17113,6 +17228,7 @@ vkcdnservice.appspot.com^
 ||nalhedgelnhamf.info^
 ||naliw.xyz^
 ||nalraughaksie.net^
+||nalyticaframeofm.com^
 ||nameads.com^
 ||namel.net^
 ||namelessably.com^
@@ -17149,6 +17265,7 @@ vkcdnservice.appspot.com^
 ||natapea.com^
 ||nathanaeldan.pro^
 ||nathejewlike.shop^
+||nationalarguments.com^
 ||nationhandbook.com^
 ||nationsencodecordial.com^
 ||nativclick.com^
@@ -17488,6 +17605,7 @@ vkcdnservice.appspot.com^
 ||niyimu.xyz^
 ||nizarstream.xyz^
 ||nizvimq.com^
+||njekohrpid.com^
 ||njpaqnkhaxpwg.xyz^
 ||nkewdzp.com^
 ||nkfinsdg.com^
@@ -17684,6 +17802,7 @@ vkcdnservice.appspot.com^
 ||npcta.xyz^
 ||npdnnsgg.com^
 ||npetropicalnorma.com^
+||npfpgcppp.com^
 ||npjhdunxxfhwgtv.com^
 ||npkkpknlwaslhtp.xyz^
 ||npkzqlhtecxx.com^
@@ -17695,6 +17814,7 @@ vkcdnservice.appspot.com^
 ||npvos.com^
 ||nqftyfn.com^
 ||nqhataamn.xyz^
+||nqmoyjyjngc.com^
 ||nqn7la7.de^
 ||nqrkzcd7ixwr.com^
 ||nqslmtuswqdz.com^
@@ -17789,6 +17909,7 @@ vkcdnservice.appspot.com^
 ||nutshellcellularfibber.com^
 ||nutshellwhipunderstood.com^
 ||nutsmargaret.com^
+||nuttishstromb.shop^
 ||nv3tosjqd.com^
 ||nvane.com^
 ||nvjgmugfqmffbgk.xyz^
@@ -18065,6 +18186,7 @@ vkcdnservice.appspot.com^
 ||ogetherefwukoul.info^
 ||ogghpaoxwv.com^
 ||oghqvffmnt.com^
+||oghyz.click^
 ||ogicatius.com^
 ||ogle-0740lb.com^
 ||oglestajes.shop^
@@ -18182,6 +18304,7 @@ vkcdnservice.appspot.com^
 ||omclacrv.com^
 ||omcrobata.com^
 ||omdittoa.com^
+||omefukmendation.com^
 ||omegatrak.com^
 ||omelettebella.com^
 ||omenkid.top^
@@ -18402,6 +18525,7 @@ vkcdnservice.appspot.com^
 ||ophoacit.com^
 ||ophophiz.xyz^
 ||ophvkau.com^
+||ophwypak.com^
 ||opkinglerr.com^
 ||opleshouldthink.com^
 ||oplpectation.xyz^
@@ -18507,6 +18631,7 @@ vkcdnservice.appspot.com^
 ||origunix.com^
 ||oritooep.win^
 ||orjfun.com^
+||orjygvnq.com^
 ||orlandowaggons.com^
 ||orldwhoisquite.org^
 ||orldwhoisquiteh.info^
@@ -18526,6 +18651,7 @@ vkcdnservice.appspot.com^
 ||osadooffinegold.com^
 ||osarmapa.net^
 ||oscohkajcjz.com^
+||osdmuxzag.com^
 ||osekwacuoxt.xyz^
 ||osfrjut.com^
 ||osfultrbriolenai.info^
@@ -19209,6 +19335,7 @@ vkcdnservice.appspot.com^
 ||peppy2lon1g1stalk.com^
 ||pequotpatrick.click^
 ||perceivedfineembark.com^
+||perceivedspokeorient.com^
 ||percentageartistic.com^
 ||percentagethinkstasting.com^
 ||perceptionatomicmicrowave.com^
@@ -19315,6 +19442,7 @@ vkcdnservice.appspot.com^
 ||pfiuyt.com^
 ||pfmmzmdba.com^
 ||pgaictlq.xyz^
+||pgapyygfpg.com^
 ||pgezbuz.com^
 ||pgjt26tsm.com^
 ||pgmcdn.com^
@@ -19324,6 +19452,7 @@ vkcdnservice.appspot.com^
 ||pgpartner.com^
 ||pgssjxz.com^
 ||pgssl.com^
+||pgwgoawpmo.com^
 ||phabycebe.com^
 ||phaibimoa.xyz^
 ||phaidaimpee.xyz^
@@ -19436,6 +19565,7 @@ vkcdnservice.appspot.com^
 ||phywifupta.com^
 ||piaigyyigyghjmi.xyz^
 ||pianistclomp.shop^
+||pianolaweeshee.top^
 ||piarecdn.com^
 ||piaroankenyte.store^
 ||picadmedia.com^
@@ -19976,6 +20106,7 @@ vkcdnservice.appspot.com^
 ||pqpjkkppatxfnpp.xyz^
 ||pqvzlltzxbs.global^
 ||pr3tty-fly-4.net^
+||prabblealltud.com^
 ||practicalbar.pro^
 ||practicalframingfiddle.com^
 ||practicallyfire.com^
@@ -20098,6 +20229,7 @@ vkcdnservice.appspot.com^
 ||priestsuccession.com^
 ||priestsuede.click^
 ||priestsuede.com^
+||prigskoil.shop^
 ||primarilyresources.com^
 ||primarkingfun.giving^
 ||primaryads.com^
@@ -20420,6 +20552,7 @@ vkcdnservice.appspot.com^
 ||psykterfaulter.com^
 ||pt-xb.xyz^
 ||pta.wcm.pl^
+||ptackoucmaib.net^
 ||ptaicoul.xyz^
 ||ptailadsol.net^
 ||ptaimpeerte.com^
@@ -20491,6 +20624,7 @@ vkcdnservice.appspot.com^
 ||ptoudsid.com^
 ||ptouglaiksiky.net^
 ||ptoumsid.net^
+||ptoupagreltop.net^
 ||ptoushoa.com^
 ||ptoutsexe.com^
 ||ptowouse.xyz^
@@ -20498,6 +20632,7 @@ vkcdnservice.appspot.com^
 ||ptpoeyc.com^
 ||ptsixwereksbef.info^
 ||ptstnews.pro^
+||ptsyhasifubi.buzz^
 ||pttsite.com^
 ||ptugnins.net^
 ||ptugnoaw.net^
@@ -20710,6 +20845,7 @@ vkcdnservice.appspot.com^
 ||pushup.wtf^
 ||pushwelcome.com^
 ||pushwhy.com^
+||pushyexcitement.pro^
 ||pushzolo.com^
 ||pusishegre.com^
 ||pussersy.com^
@@ -20759,6 +20895,7 @@ vkcdnservice.appspot.com^
 ||pysfhgdpi.com^
 ||pyxiscablese.com^
 ||pyzwxkb.com^
+||pzmeblamivop.world^
 ||pzqfmhy.com^
 ||q1-tdsge.com^
 ||q1ixd.top^
@@ -20773,6 +20910,7 @@ vkcdnservice.appspot.com^
 ||qads.io^
 ||qadserve.com^
 ||qadservice.com^
+||qaebaywbvvavj.top^
 ||qahssrxvelqeqy.xyz^
 ||qajgarohwobh.com^
 ||qajwizsifaj.com^
@@ -20808,6 +20946,7 @@ vkcdnservice.appspot.com^
 ||qerkbejqwqjkr.top^
 ||qewwklaovmmw.top^
 ||qewylqmaqbjbj.top^
+||qf-ebeydt.top^
 ||qfamlcfqhtla.com^
 ||qfdn3gyfbs.com^
 ||qfgtepw.com^
@@ -21021,6 +21160,7 @@ vkcdnservice.appspot.com^
 ||qzsgudj.com^
 ||qzybrmzevbro.top^
 ||qzzzzzzzzzqq.com^
+||r-gpasegz.vip^
 ||r-q-e.com^
 ||r-tb.com^
 ||r023m83skv5v.com^
@@ -21254,6 +21394,7 @@ vkcdnservice.appspot.com^
 ||reasoningarcherassuage.com^
 ||reassurehintholding.com^
 ||reate.info^
+||rebatelirate.top^
 ||rebelfarewe.org^
 ||rebelhaggard.com^
 ||rebindskayoes.com^
@@ -21269,6 +21410,7 @@ vkcdnservice.appspot.com^
 ||recatchtukulor.shop^
 ||recedechatprotestant.com^
 ||receivedachest.com^
+||receiverchinese.com^
 ||receiverunfaithfulsmelt.com^
 ||recentlydelegate.com^
 ||recentlyremainingbrevity.com^
@@ -21337,6 +21479,8 @@ vkcdnservice.appspot.com^
 ||redenyswallet.click^
 ||redetaailshiletteri.com^
 ||redfootchiros.click^
+||redfootcoclea.shop^
+||redheadinfluencedchill.com^
 ||redheadpublicityjug.com^
 ||redi.teengirl-pics.com^
 ||redirect-path1.com^
@@ -21592,6 +21736,7 @@ vkcdnservice.appspot.com^
 ||rescueambassadorupward.com^
 ||researchingintentbilliards.com^
 ||reseatkiddy.click^
+||reseenpeytrel.top^
 ||resemblanceilluminatedcigarettes.com^
 ||resertol.co.in^
 ||resesmyinteukr.info^
@@ -21599,6 +21744,7 @@ vkcdnservice.appspot.com^
 ||residenceseeingstanding.com^
 ||residentialforestssights.com^
 ||residentialinspur.com^
+||residentialmmsuccessful.com^
 ||residentshove.com^
 ||residetransactionsuperiority.com^
 ||resignationcustomerflaw.com^
@@ -21870,6 +22016,7 @@ vkcdnservice.appspot.com^
 ||rjw4obbw.com^
 ||rkapghq.com^
 ||rkatamonju.info^
+||rkdpzcdehop.fun^
 ||rkgwzfwjgk.com^
 ||rknwwtg.com^
 ||rkomf.com^
@@ -21889,6 +22036,7 @@ vkcdnservice.appspot.com^
 ||rmahmighoogg.com^
 ||rmaiksacouuo.xyz^
 ||rmaticalacycurated.info^
+||rmervvazooqzk.top^
 ||rmhfrtnd.com^
 ||rmhptjwikttv.com^
 ||rmndme.com^
@@ -22237,6 +22385,7 @@ vkcdnservice.appspot.com^
 ||rustysauna.com^
 ||rustyurishoes.com^
 ||rutatmosphericdetriment.com^
+||rutchauthe.net^
 ||rutebuxe.xyz^
 ||ruthlessawfully.com^
 ||ruthwoof.com^
@@ -22569,6 +22718,7 @@ vkcdnservice.appspot.com^
 ||scriptvealpatronage.com^
 ||scrollisolation.com^
 ||scrollye.com^
+||scrootruncal.shop^
 ||scrtbhmtmplg.xyz^
 ||scrubheiress.com^
 ||scruboutdoorsoffensive.com^
@@ -22731,6 +22881,7 @@ vkcdnservice.appspot.com^
 ||senatescouttax.com^
 ||sendleinsects.shop^
 ||sendmepush.com^
+||senecancastano.top^
 ||seniorstemsdisability.com^
 ||senitijanghey.shop^
 ||senonsiatinus.com^
@@ -22744,6 +22895,7 @@ vkcdnservice.appspot.com^
 ||sentencefigurederide.com^
 ||sentenceinformedveil.com^
 ||sentientfog.com^
+||sentimenthailstonesubjective.com^
 ||sentimentsvarious.com^
 ||sentinelp.com^
 ||seo-overview.com^
@@ -22883,6 +23035,7 @@ vkcdnservice.appspot.com^
 ||shallarchbishop.com^
 ||shallowbottle.pro^
 ||shallowtwist.pro^
+||shalroazoagee.net^
 ||shameful-leader.com^
 ||shameless-sentence.pro^
 ||shamelessgoodwill.com^
@@ -22892,6 +23045,7 @@ vkcdnservice.appspot.com^
 ||shanorin.com^
 ||shapedhomicidalalbert.com^
 ||shapelcounset.xyz^
+||shaperswhorts.shop^
 ||share-server.com^
 ||sharecash.org^
 ||sharedmarriage.com^
@@ -22953,6 +23107,7 @@ vkcdnservice.appspot.com^
 ||shifthare.com^
 ||shiftwholly.com^
 ||shikroux.net^
+||shillymacle.shop^
 ||shimmering-novel.pro^
 ||shimmering-strike.pro^
 ||shimmeringconcert.com^
@@ -22973,6 +23128,7 @@ vkcdnservice.appspot.com^
 ||shipwreckclassmate.com^
 ||shirtclumsy.com^
 ||shitcustody.com^
+||shitsowhoort.net^
 ||shitucka.net^
 ||shiverdepartmentclinging.com^
 ||shiverrenting.com^
@@ -22993,6 +23149,7 @@ vkcdnservice.appspot.com^
 ||shonetransmittedfaces.com^
 ||shonevegetable.com^
 ||shonooch.xyz^
+||shoojoudro.net^
 ||shoojouh.xyz^
 ||shooltuca.net^
 ||shoonsicousu.net^
@@ -23044,6 +23201,7 @@ vkcdnservice.appspot.com^
 ||shrillinstance.pro^
 ||shrillwife.pro^
 ||shrimpgenerator.com^
+||shrimpsaitesis.shop^
 ||shrivelhorizonentrust.com^
 ||shrojxouelny.xyz^
 ||shrubjessamy.com^
@@ -23112,6 +23270,7 @@ vkcdnservice.appspot.com^
 ||sillinessglamorousservices.com^
 ||sillinessmarshal.com^
 ||sillyflowermachine.com^
+||silpharapidly.com^
 ||silsautsacmo.com^
 ||silver-pen.pro^
 ||silveraddition.pro^
@@ -23183,6 +23342,7 @@ vkcdnservice.appspot.com^
 ||sjsabb.com^
 ||sjtactic.com^
 ||sk2o.online^
+||skaldmishara.top^
 ||skated.co^
 ||skatestooped.com^
 ||skatingbelonged.com^
@@ -23193,6 +23353,7 @@ vkcdnservice.appspot.com^
 ||skeetads.com^
 ||skeletondeceiveprise.com^
 ||skeletonlimitation.com^
+||skeliccater.shop^
 ||skenaiaefaldy.com^
 ||sketbhang.guru^
 ||sketchflutter.com^
@@ -23444,6 +23605,7 @@ vkcdnservice.appspot.com^
 ||socksupgradeproposed.com^
 ||sockwardrobe.com^
 ||sockzoomtoothbrush.com^
+||socxqrsbwxwyee.com^
 ||sodainquired.com^
 ||sodallay.com^
 ||sodamash.com^
@@ -23501,6 +23663,7 @@ vkcdnservice.appspot.com^
 ||somethingmanufactureinvalid.com^
 ||somethingprecursorfairfax.com^
 ||somewhatwideslimy.com^
+||somsoargous.net^
 ||son-in-lawmorbid.com^
 ||sonalrecomefu.info^
 ||songbagoozes.com^
@@ -23716,6 +23879,7 @@ vkcdnservice.appspot.com^
 ||spoutable.com^
 ||spoutitchyyummy.com^
 ||sprangsugar.com^
+||sprayearthy.com^
 ||spreespoiled.com^
 ||sprewcereous.com^
 ||springraptureimprove.com^
@@ -23983,6 +24147,7 @@ vkcdnservice.appspot.com^
 ||stoagnejums.net^
 ||stoaphalti.com^
 ||stoashou.net^
+||stoasstriola.shop^
 ||stockingplaice.com^
 ||stockingsight.com^
 ||stocksinvulnerablemonday.com^
@@ -24188,6 +24353,7 @@ vkcdnservice.appspot.com^
 ||suburbgetconsole.com^
 ||suburbincriminatesubdue.com^
 ||subwayporcelainrunning.com^
+||subzerocuisse.top^
 ||succeedingpeacefully.com^
 ||succeedprosperity.com^
 ||success-news.net^
@@ -24296,6 +24462,7 @@ vkcdnservice.appspot.com^
 ||supportingbasic.com^
 ||supportive-promise.com^
 ||supportiverarity.com^
+||supportresentbritish.com^
 ||supposedbrand.com^
 ||suppressedanalogyrain.com^
 ||suppressedbottlesenjoyable.com
@@ -24452,6 +24619,7 @@ vkcdnservice.appspot.com^
 ||sympathizeplumscircumstance.com^
 ||sympathybindinglioness.com^
 ||symptomprominentfirewood.com^
+||symptomslightest.com^
 ||synchronizerobot.com^
 ||syndicatedsearch.goog^
 ||syndromeentered.com^
@@ -24497,6 +24665,7 @@ vkcdnservice.appspot.com^
 ||tabloidsuggest.com^
 ||tabloidwept.com^
 ||tackleyoung.com^
+||tackmainly.com^
 ||tacopush.ru^
 ||tacticmuseumbed.com^
 ||tacticsadamant.com^
@@ -24569,6 +24738,7 @@ vkcdnservice.appspot.com^
 ||tangsrimery.click^
 ||tanhelpfulcuddle.com^
 ||tanivanprevented.com^
+||tankahjussion.shop^
 ||taosiz.xyz^
 ||taovgsy.com^
 ||taoyinbiacid.com^
@@ -24616,6 +24786,7 @@ vkcdnservice.appspot.com^
 ||tauphaub.net^
 ||taurunperch.shop^
 ||tauvoojo.net^
+||taxconceivableseafood.com^
 ||taxismaned.top^
 ||taxissunroom.com^
 ||taxitesgyal.top^
@@ -24726,6 +24897,7 @@ vkcdnservice.appspot.com^
 ||templa.xyz^
 ||templeoffendponder.com^
 ||temporarytv.com^
+||tenchesjingly.shop^
 ||tend-new.com^
 ||tenderlywomblink.com^
 ||tendernessknockout.com^
@@ -24885,6 +25057,7 @@ vkcdnservice.appspot.com^
 ||thenceshapedrugged.com^
 ||thenewstreams.com^
 ||thenfulfilearnestly.com^
+||thengeedray.xyz^
 ||thenicenewz.com^
 ||theod-omq.com^
 ||theod-qsr.com^
@@ -24954,6 +25127,7 @@ vkcdnservice.appspot.com^
 ||thinksuggest.org^
 ||thinnertrout.com^
 ||thinnerwishingeccentric.com^
+||thinpaltrydistrust.com^
 ||thinperspectivetales.com^
 ||thinrabbitsrape.com^
 ||thiraq.com^
@@ -25080,6 +25254,7 @@ vkcdnservice.appspot.com^
 ||tighterinfluenced.com^
 ||tighternativestraditional.com^
 ||tigipurcyw.com^
+||tiglonhominy.top^
 ||tignuget.net^
 ||tiktakz.xyz^
 ||tilesmuzarab.com^
@@ -25116,6 +25291,7 @@ vkcdnservice.appspot.com^
 ||tiotyuknsyen.org^
 ||tipchambers.com^
 ||tipforcefulmeow.com^
+||tipitspart.com^
 ||tipphotographermeans.com^
 ||tipreesigmate.com^
 ||tipsembankment.com^
@@ -25178,6 +25354,7 @@ vkcdnservice.appspot.com^
 ||toastcomprehensiveimperturbable.com^
 ||toawaups.net^
 ||toawhulo.com^
+||toawoapt.net^
 ||tobaccocentgames.com^
 ||tobaccoearnestnessmayor.com^
 ||tobaccosturgeon.com^
@@ -25243,6 +25420,7 @@ vkcdnservice.appspot.com^
 ||toolughitilagu.com^
 ||toonujoops.net^
 ||toopsoug.net^
+||tooraicush.net^
 ||toothacheformer.com^
 ||toothbrushlimbperformance.com^
 ||toothcauldron.com^
@@ -25530,6 +25708,7 @@ vkcdnservice.appspot.com^
 ||treklizard.com^
 ||trellian.com^
 ||trembleday.com^
+||tremblingbunchtechnique.com^
 ||tremorhub.com^
 ||trenchpoor.net^
 ||trendmouthsable.com^
@@ -25675,6 +25854,7 @@ vkcdnservice.appspot.com^
 ||tsrpcf.xyz^
 ||tsrpif.xyz^
 ||tstats-13fkh44r.com^
+||tsy-jnugwavj.love^
 ||tsyfnhd.com^
 ||tsyndicate.com^
 ||ttbm.com^
@@ -25715,6 +25895,7 @@ vkcdnservice.appspot.com^
 ||tumblehisswitty.com^
 ||tumbleobjectswedding.com^
 ||tumboaovernet.shop^
+||tumidlyacorus.shop^
 ||tumordied.com^
 ||tumri.net^
 ||tumultmarten.com^
@@ -25745,6 +25926,7 @@ vkcdnservice.appspot.com^
 ||turmoilragcrutch.com^
 ||turncdn.com^
 ||turnhub.net^
+||turniptriumphantanalogy.com^
 ||turnminimizeinterference.com^
 ||turnstileunavailablesite.com^
 ||turpentinecomics.com^
@@ -26074,6 +26256,7 @@ vkcdnservice.appspot.com^
 ||unhappyswitch.com^
 ||unhatedprotei.com^
 ||unhealthybravelyemployee.com^
+||unhealthywelcome.pro^
 ||unhhsrraf.com^
 ||unhonedyork.shop^
 ||unhorseaa.com^
@@ -26095,6 +26278,7 @@ vkcdnservice.appspot.com^
 ||universitypermanentlyhusk.com^
 ||unkinpigsty.com^
 ||unknownhormonesafeguard.com^
+||unleanmyrrhs.shop^
 ||unlesscooler.com^
 ||unlikelymoscow.com^
 ||unlockecstasyapparatus.com^
@@ -26302,6 +26486,7 @@ vkcdnservice.appspot.com^
 ||usinesmycete.xyz^
 ||usingantecedent.com^
 ||usisedprivatedqu.com^
+||usix-udlnseb.space^
 ||usjbwvtqwv.com^
 ||usounoul.com^
 ||ust-ad.com^
@@ -26578,6 +26763,7 @@ vkcdnservice.appspot.com^
 ||vernementsec.info^
 ||verninchange.com^
 ||vernondesigninghelmet.com^
+||vernongermanessence.com^
 ||vernonspurtrash.com^
 ||veronalhaf.com^
 ||verooperofthewo.com^
@@ -26794,6 +26980,7 @@ vkcdnservice.appspot.com^
 ||viralnewsobserver.com^
 ||viralnewssystems.com^
 ||virgalocust.shop^
+||virgenomisms.shop^
 ||virgindisguisearguments.com^
 ||virginityneutralsouls.com^
 ||virginitystudentsperson.com^
@@ -26850,6 +27037,7 @@ vkcdnservice.appspot.com^
 ||vknrfwwxhxaxupqp.pro^
 ||vksphze.com^
 ||vlitag.com^
+||vlkmcpnfo.com^
 ||vllsour.com^
 ||vlnk.me^
 ||vlry5l4j5gbn.com^
@@ -26866,6 +27054,7 @@ vkcdnservice.appspot.com^
 ||vnbyclsboyoya.com^
 ||vndcrknbh.xyz^
 ||vnie0kj3.cfd^
+||vnpxxrqlhpre.com^
 ||vnrdmijgkcgmwu.com^
 ||vnrherdsxr.com^
 ||vntsm.com^
@@ -26897,6 +27086,7 @@ vkcdnservice.appspot.com^
 ||voluntarilydale.com^
 ||voluntarilylease.com^
 ||volunteerbrash.com^
+||volunteerpiled.com^
 ||voluumtracker.com^
 ||voluumtrk.com^
 ||voluumtrk3.com^
@@ -26947,6 +27137,7 @@ vkcdnservice.appspot.com^
 ||vroomedbedroll.shop^
 ||vrplynsfcr.xyz^
 ||vrtzads.com^
+||vruvvdxfzb.com^
 ||vrvxovgj.xyz^
 ||vs3.com^
 ||vsftsyriv.com^
@@ -26975,6 +27166,7 @@ vkcdnservice.appspot.com^
 ||vulnerablebreakerstrong.com^
 ||vuolobnhqb.com^
 ||vupoupay.com^
+||vupteerairs.net^
 ||vuqufo.uno^
 ||vursoofte.net^
 ||vuruzy.xyz^
@@ -26983,6 +27175,7 @@ vkcdnservice.appspot.com^
 ||vuvochgw.xyz^
 ||vv8h9vyjgnst.com^
 ||vvehvch.com^
+||vvewkbleeebez.top^
 ||vvpojbsibm.xyz^
 ||vvprcztaw.com^
 ||vvvvdbrrt.com^
@@ -27314,6 +27507,7 @@ vkcdnservice.appspot.com^
 ||wg-aff.com^
 ||wgchrrammzv.com^
 ||wggqzhmnz.com^
+||wgmojebreax.com^
 ||wgongtor.com^
 ||whackresolved.com^
 ||whagrolt.com^
@@ -27384,6 +27578,7 @@ vkcdnservice.appspot.com^
 ||wherunee.com^
 ||whestail.com^
 ||whetin.com^
+||wheysferoher.top^
 ||whhasymvi.com^
 ||whiboubs.com^
 ||whiceega.com^
@@ -27397,6 +27592,7 @@ vkcdnservice.appspot.com^
 ||whinemalnutrition.com^
 ||whiningconfessed.com^
 ||whippedfreezerbegun.com^
+||whippetahunt.shop^
 ||whiprayoutkill.com^
 ||whirlclick.com^
 ||whirltoes.com^
@@ -27437,6 +27633,7 @@ vkcdnservice.appspot.com^
 ||whollyneedy.com^
 ||whomspreadbeep.com^
 ||whomsudsikaxu.com^
+||whoodiksaglels.net^
 ||whookrair.xyz^
 ||whookroo.com^
 ||whoolrulr.net^
@@ -27524,6 +27721,7 @@ vkcdnservice.appspot.com^
 ||windfallcleaningarrange.com^
 ||windindelicateexclusive.com^
 ||windingnegotiation.com^
+||windingsynonym.com^
 ||windlebrogues.com^
 ||windowsaura.com^
 ||windowsuseful.com^
@@ -27552,6 +27750,7 @@ vkcdnservice.appspot.com^
 ||winterolivia.com^
 ||wintjaywolf.org^
 ||wintrck.com^
+||winzefarrel.com^
 ||wipedhypocrite.com^
 ||wipeilluminationlocomotive.com^
 ||wipepeepcyclist.com^
@@ -27561,6 +27760,7 @@ vkcdnservice.appspot.com^
 ||wiringsensitivecontents.com^
 ||wirrttnlmumsak.xyz^
 ||wirsilsa.net^
+||wirtooxoajet.net^
 ||wisfriendshad.info^
 ||wishesantennarightfully.com^
 ||wishjus.com^
@@ -27599,6 +27799,7 @@ vkcdnservice.appspot.com^
 ||wkktnbxxum.xyz^
 ||wkoocuweg.com^
 ||wkqcnkstso.com^
+||wkwqljwykoamr.top^
 ||wl-cornholio.com^
 ||wlafx4trk.com^
 ||wlen1bty92.pro^
@@ -27608,6 +27809,7 @@ vkcdnservice.appspot.com^
 ||wmadmht.com^
 ||wmaoxrk.com^
 ||wmbbsat.com^
+||wmccd.com^
 ||wmcdpt.com^
 ||wmdzefk.com^
 ||wmeqobozarabk.top^
@@ -27615,6 +27817,7 @@ vkcdnservice.appspot.com^
 ||wmmbcwzd24bk.shop^
 ||wmnnjfe.com^
 ||wmober.com^
+||wmpevgwd.com^
 ||wmpset.com^
 ||wmptcd.com^
 ||wmptctl.com^
@@ -27846,6 +28049,7 @@ vkcdnservice.appspot.com^
 ||wvtynme.com^
 ||wvvkxni.com^
 ||wvwjdrli.com^
+||wvy-ctvjoon.xyz^
 ||ww2.imgadult.com^
 ||ww2.imgtaxi.com^
 ||ww2.imgwallet.com^
@@ -28357,6 +28561,7 @@ vkcdnservice.appspot.com^
 ||z0il3m3u2o.pro^
 ||z54a.xyz^
 ||z5x.net^
+||zaamgqlgdhac.love^
 ||zabanit.xyz^
 ||zachunsears.com^
 ||zacleporis.com^
@@ -28405,6 +28610,7 @@ vkcdnservice.appspot.com^
 ||zcoptry.com^
 ||zcswet.com^
 ||zdhq.xyz^
+||zdkgxeeykuhs.today^
 ||zdxcuchr.com^
 ||zeads.com^
 ||zealotillustrate.com^
@@ -28550,6 +28756,7 @@ vkcdnservice.appspot.com^
 ||zog.link^
 ||zogrepsili.com^
 ||zokaukree.net^
+||zokqlomzymkvb.top^
 ||zokrodes.com^
 ||zombisarake.top^
 ||zombistinfuls.shop^
@@ -28574,6 +28781,7 @@ vkcdnservice.appspot.com^
 ||zouzougri.net^
 ||zovidree.com^
 ||zoxkljeicxi.com^
+||zoykzjaqaalwq.top^
 ||zpbpenn.com^
 ||zpgetworker11.com^
 ||zplfwuca.com^
@@ -30446,6 +30654,7 @@ vkcdnservice.appspot.com^
 ||supply.upjers.com^
 ||syndicate.payloadz.com^
 ||tag.regieci.com^
+||tags.refinery89.com^
 ||tcadserver.rain-digital.ca^
 ||ti.tradetracker.net^
 ||tillertag-a.akamaihd.net^
@@ -32697,6 +32906,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||useraction.de^
 ||analytically.net^
 ||datafa.st^
 ||new-access802.net^
@@ -33187,7 +33397,6 @@ vkcdnservice.appspot.com^
 ||lr-ingest.io^
 ||svibeacon.onezapp.com^
 ||signalayer.com^
-||tags.refinery89.com^
 ||statsigapi.net^
 ||cdn.cohesionapps.com^
 ||c212.net^
@@ -37796,7 +38005,6 @@ vkcdnservice.appspot.com^
 ||dadi.technology^
 ||daq0d0aotgq0f.cloudfront.net^
 ||data-collector.wefi.com^
-||data.mimikama.at^
 ||data.mob.com^
 ||datacollect*.abtasty.com^
 ||dbfukofby5ycr.cloudfront.net^
@@ -39063,6 +39271,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||mob2.healthtrackergroup.com^
 ||insights-categorizer-noneu.truecaller.com^
 ||event-dot-learning-piano.appspot.com^
 ||log.cleanertoolboxonline.live^
@@ -44328,6 +44537,7 @@ inapps.appsflyersdk.com^
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
 !
+||remp-campaign.golem.de^
 ||web-ads.10sq.net^
 ||mitself.net^
 ||comparison.financeads.net^
@@ -51676,8 +51886,15 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||stragmik.com^
+||yxrmbjw.icu^
+||gnyuhzd.icu^
 ||ohtusgy.icu^
 ||nuiknnf.icu^
+||gdwudmv.icu^
+||xuakn.icu^
+||boubliv.top^
+||cyjqgpf.top^
 ||vsojfsoj.com^
 ||ezrcowa.icu^
 ||uwsaqoi.icu^
@@ -56307,7 +56524,6 @@ inapps.appsflyersdk.com^
 ||283.laobanfa.com^
 ||3.5646.cn^
 ||3.cjcp.cn^
-||3.guidaye.com^
 ||3.ssqzj.com^
 ||301848.com^
 ||32.huanqiu.com^
@@ -56594,7 +56810,6 @@ inapps.appsflyersdk.com^
 ||df888.eastday.com^
 ||dhl.135320.com^
 ||display.itmemo.cn^
-||dm*.ppzuowen.com^
 ||dm*.yxlady.com^
 ||dm.17xuexiba.com^
 ||dm.21hubei.com^
@@ -56645,7 +56860,6 @@ inapps.appsflyersdk.com^
 ||fanyi100.com.cn^
 ||fdfda.zhuzhai.com^
 ||fdfghgfdd.yunqishi.net^
-||ff.guidaye.com^
 ||ff.psd8.com^
 ||ff.qichetansuo.com^
 ||fotao9.com^
@@ -56710,7 +56924,6 @@ inapps.appsflyersdk.com^
 ||img1.eywdf.com^
 ||img1.hblds.com^
 ||img1.leyun365.com^
-||img1.qqwangming6.com^
 ||img11.biyan8.com^
 ||img16.diyifanwen.com^
 ||img50.pingguolv.com^
@@ -56732,7 +56945,6 @@ inapps.appsflyersdk.com^
 ||jiaoben.jucanw.com^
 ||jiaopei.com^
 ||jibn12.jintang114.org^
-||jintonghua.com^
 ||jke1.jianke.com^
 ||jquery.envi-met.com.cn^
 ||js.263y.com^
@@ -56820,7 +57032,6 @@ inapps.appsflyersdk.com^
 ||p1.zhongyoo.com^
 ||panyh123456.cn^
 ||pb.shuxigua.com^
-||pc768.com^
 ||pic.baihuawen.cn^
 ||pic1.dianshu119.com^
 ||pic50.pingguolv.com^
@@ -56880,7 +57091,6 @@ inapps.appsflyersdk.com^
 ||t6.china-xian.com^
 ||tech.jiukang.org^
 ||thetestpage.39.net^
-||tonghuaji.com^
 ||tongj.xilu.com^
 ||top2099.com^
 ||tt123.eastday.com^
@@ -56933,7 +57143,6 @@ inapps.appsflyersdk.com^
 ||wyzq.rehuwang.com^
 ||x.yaohuo.me^
 ||x1.52aoteman.com^
-||x1.kantu.com^
 ||xbtw.com^
 ||xcf-bd-js.chuimg.com^
 ||xiaopinwo.com^
