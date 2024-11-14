@@ -1,8 +1,8 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.17.43
-! Last modified: 2024-11-13T00:24:46.633Z
+! Version: 1.0.17.47
+! Last modified: 2024-11-14T00:24:44.106Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -12,7 +12,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Last modified: 2024-11-13T00:03:15.295Z
+! Last modified: 2024-11-14T00:03:12.093Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -30,6 +30,8 @@
 !
 !
 !
+||profitablecpmrate.com^
+||wwwwzeraqvrej.top^
 ||mycuegxt.com^
 ||athalarilouwo.net^
 ||gxfh59u4.xyz^
@@ -1110,6 +1112,7 @@ serve.bussyhunter.com^
 ! Bad: ||legitwebsite.com^$third-party (should be in adservers.txt)
 !
 !
+||creatives.wetransfer.net^
 ||ad.wrtn.ai^
 ||ip356694986.ahcdn.com^
 ||w.love4porn.com^
@@ -4383,6 +4386,7 @@ vkcdnservice.appspot.com^
 ||atmosphericurinebra.com^
 ||atmtaoda.com^
 ||ato.mx^
+||atodiler.com^
 ||atomex.net^
 ||atomicarot.com^
 ||atonato.de^
@@ -4856,6 +4860,7 @@ vkcdnservice.appspot.com^
 ||balvalur.com^
 ||bam-bam-slam.com^
 ||bambarmedia.com^
+||bamtinseefta.xyz^
 ||banalrestart.com^
 ||banawgaht.com^
 ||banclip.com^
@@ -7130,6 +7135,7 @@ vkcdnservice.appspot.com^
 ||cliffestablishedcrocodile.com^
 ||climatedetaindes.com^
 ||clinkeasiestopponent.com^
+||clintonchewet.com^
 ||clintsflawed.click^
 ||clipperroutesevere.com^
 ||cliquedmuggish.top^
@@ -12163,6 +12169,7 @@ vkcdnservice.appspot.com^
 ||gonairoomsoo.xyz^
 ||goneawaytogy.info^
 ||gonoushauw.net^
+||goobakocaup.com^
 ||goobefirumaupt.net^
 ||goocivede.com^
 ||good-ads-online.com^
@@ -14589,6 +14596,7 @@ vkcdnservice.appspot.com^
 ||jggegj-rtbix.top^
 ||jggldfvx.com^
 ||jghjhtz.com^
+||jgltbxlougpg.xyz^
 ||jgqaainj.buzz^
 ||jgrjldc.com^
 ||jgxavkopotthxj.xyz^
@@ -16759,6 +16767,7 @@ vkcdnservice.appspot.com^
 ||memorizematch.com^
 ||menacehabit.com^
 ||menacing-awareness.pro^
+||menacing-feature.pro^
 ||mendedrefuel.com^
 ||menews.org^
 ||mentallyissue.com^
@@ -17890,6 +17899,7 @@ vkcdnservice.appspot.com^
 ||nezygmobha.com^
 ||nfctoroxi.xyz^
 ||nfgxadlbfzuy.click^
+||nfjdxtfpclfh.com^
 ||nfkd2ug8d9.com^
 ||nfuwlooaodf.com^
 ||nfuwpyx.com^
@@ -20771,6 +20781,7 @@ vkcdnservice.appspot.com^
 ||producerplot.com^
 ||productanychaste.com^
 ||producthub.info^
+||productive-chemical.pro^
 ||proeroclips.pro^
 ||proetusbramble.com^
 ||professdeteriorate.com^
@@ -26030,6 +26041,7 @@ vkcdnservice.appspot.com^
 ||tonicdivedfounded.com^
 ||tonicneighbouring.com^
 ||toninjaska.com^
+||tonsilsuggestedtortoise.com^
 ||tonsilyearling.com^
 ||tontrinevengre.com^
 ||toocssfghbvgqb.com^
@@ -27466,6 +27478,7 @@ vkcdnservice.appspot.com^
 ||vfl81ea28aztw7y3.pro^
 ||vflouksffoxmlnk.xyz^
 ||vfthr.com^
+||vfuqivac.com^
 ||vfvdsati.com^
 ||vfyhwapi.com^
 ||vfzqtgr.com^
@@ -29169,6 +29182,7 @@ vkcdnservice.appspot.com^
 ||yohavemix.live^
 ||yoibbka.com^
 ||yokeeroud.com^
+||yoksamhain.com^
 ||yolkhandledwheels.com^
 ||yomeno.xyz^
 ||yonabrar.com^
@@ -32917,6 +32931,10 @@ vkcdnservice.appspot.com^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||httpdns.bilivideo.com^
+||dataflow.biliapi.com^
+||grpc.biliapi.net^
+||ads.adinmotech.com^
 ||kvaedit.site^
 ||ads-ap-venues.yinzcam.com^
 ||ads-delivery.gunosy.com^
@@ -33651,6 +33669,7 @@ vkcdnservice.appspot.com^
 !
 !
 !
+||p7cloud.net^
 ||kobel.services^
 ||useraction.de^
 ||analytically.net^
@@ -37414,6 +37433,7 @@ vkcdnservice.appspot.com^
 ! Blocking piwik analytics subdomain(for DNS filtering)
 |piwik.
 !
+||mst.rnd.de^
 ||cza.crazygames.com^
 ||event-dot-procolor-backend.appspot.com^
 ||prod.event.mwm-asset-manager.mwmwebapis.com^
@@ -40021,6 +40041,7 @@ inapps.appsflyersdk.com^
 !
 ! NOTE: Regular rules
 !
+||sonar*.xy.fbcdn.net^
 ||mob2.healthtrackergroup.com^
 ||insights-categorizer-noneu.truecaller.com^
 ||event-dot-learning-piano.appspot.com^
@@ -42427,6 +42448,7 @@ inapps.appsflyersdk.com^
 ! Bad: /banner.jpg (should be in general_url.txt)
 ! Bad: ||adssubdomain.legitwebsite.com^ (should be in adservers_firstparty.txt)
 !
+||broredir*s.site^
 ||hhbehcahhajfffciaaef.world^
 ||suprion.ru^
 ||xjwzbo.com^
@@ -47187,9 +47209,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 11 Nov 2024 10:33 UTC+7
-! Version: 2411111033
-! Blocked: 926 rules
+! Last modified: 13 Nov 2024 16:12 UTC+7
+! Version: 2411131612
+! Blocked: 928 rules
 ! Expires: 1 days (update frequency)
 !
 ||24h-ad.24hstatic.com^
@@ -47671,6 +47693,7 @@ inapps.appsflyersdk.com^
 ||analytics.hebela.vn^
 ||analytics.hub-js.com^
 ||analytics.jamstackvietnam.com^
+||analytics.mobiedu.vn^
 ||analytics.molistar.com^
 ||analytics.nhattao.com^
 ||analytics.ntlc.com.vn^
@@ -48021,6 +48044,7 @@ inapps.appsflyersdk.com^
 ||tvc.biphim.club^
 ||upfile16.mediaphim.com^
 ||upl.net-solutions.vn^
+||us.mplis.gov.vn^
 ||user.headlines.pw^
 ||userstats.shopee.vn^
 ||v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me^
@@ -48052,9 +48076,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 11 Nov 2024 10:33 UTC+7
-! Version: 2411111033
-! Blocked: 4,687 rules
+! Last modified: 13 Nov 2024 16:13 UTC+7
+! Version: 2411131613
+! Blocked: 4,688 rules
 ! Expires: 1 days (update frequency)
 !
 ||0088shop.com^
@@ -50991,6 +51015,7 @@ inapps.appsflyersdk.com^
 ||sieumomo.top^
 ||sieumomo.win^
 ||sieunhitainangmua3-2022.weebly.com^
+||sieusalegiare.top^
 ||sieusao.lienquan-vgarena.com^
 ||sieuthibaby24h.com^
 ||sieuthidark.com^
@@ -52620,11 +52645,18 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||bujlmitd.icu^
 ||stunkrins.com^
 ||rjwpwod.icu^
 ||gheqien.com^
 ||mjbidlg.icu^
 ||locpikbb.icu^
+||chupl.icu^
+||cweisif.top^
+||y0mwy.icu^
+||pxyjqea.icu^
+||xuugnuits.com^
+||hweisiu.top^
 ||ccobksxz.icu^
 ||utbyvyl.icu^
 ||dchdmhf.cn^
