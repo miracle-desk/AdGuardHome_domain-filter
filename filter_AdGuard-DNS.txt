@@ -1,8 +1,8 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.17.89
-! Last modified: 2024-11-24T00:29:17.139Z
+! Version: 1.0.17.93
+! Last modified: 2024-11-25T00:27:19.788Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -12,7 +12,7 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Last modified: 2024-11-24T00:04:30.977Z
+! Last modified: 2024-11-25T00:03:20.880Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -42157,6 +42157,7 @@ inapps.appsflyersdk.com^
 ||webturn.ru^
 ||webvisor.com^
 ||wwgate.ru^
+||yandexmetric.com^
 ! Serbian
 ! Slovak
 ||algopine.com^
@@ -46495,8 +46496,8 @@ inapps.appsflyersdk.com^
 # A hosts file that aims to get rid of ads, tracking, scams & badware on (mostly) Swedish websites
 # ----
 # title:          Frellwit's Swedish Hosts File
-# last updated:   2024-11-19 05:38:21 CET
-# entries:        1091
+# last updated:   2024-11-24 05:11:58 CET
+# entries:        1092
 # format:         hosts (hosts -- in hosts file format)
 ||1terms.com^
 ||a.zxcvads.com^
@@ -46872,6 +46873,7 @@ inapps.appsflyersdk.com^
 ||stats.ehandel.se^
 ||stats.helsingborg.se^
 ||stats.jibber.social^
+||stats.med.lu.se^
 ||stats.playoncenter.com^
 ||stats.poddtoppen.se^
 ||stats.proff.se^
@@ -47466,8 +47468,8 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN
 ! Description: The filter contains ad and tracking networks in Vietnam.
-! Last modified: 16 Nov 2024 16:21 UTC+7
-! Version: 2411161621
+! Last modified: 24 Nov 2024 11:43 UTC+7
+! Version: 2411241143
 ! Blocked: 930 rules
 ! Expires: 1 days (update frequency)
 !
@@ -48335,9 +48337,9 @@ inapps.appsflyersdk.com^
 !
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 20 Nov 2024 16:26 UTC+7
-! Version: 2411201626
-! Blocked: 4,692 rules
+! Last modified: 24 Nov 2024 11:45 UTC+7
+! Version: 2411241145
+! Blocked: 4,693 rules
 ! Expires: 1 days (update frequency)
 !
 ||0088shop.com^
@@ -50770,6 +50772,7 @@ inapps.appsflyersdk.com^
 ||sacchaeleduk.com^
 ||sacombank.net.vn^
 ||sacombank.vn-ne.top^
+||sacombankvn.com^
 ||sadm26.com^
 ||saifcrack.com^
 ||salu.gq^
@@ -52908,8 +52911,14 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||uldaens.com^
 ||lipheak.com^
 ||xcwdcynb.icu^
+||wweizae.top^
+||az5i.icu^
+||yoqqiev.top^
+||fiezaits.com^
+||qweizay.top^
 ||xevaix.com^
 ||sweizab.top^
 ||eweizaw.top^
