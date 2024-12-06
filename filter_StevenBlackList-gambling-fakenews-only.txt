@@ -2923,6 +2923,7 @@
 ||debet.com^
 ||debet.fun^
 ||debet.info^
+||debet.moi^
 ||debet.net^
 ||debet.top^
 ||debet.uk^
@@ -7661,6 +7662,7 @@
 ||xn--hi-ji6caa.com^
 ||xo68.gamehot88.fun^
 ||xo68.vip^
+||xo88.club^
 ||xo88.com^
 ||xo88.fun^
 ||xo88.info^
