@@ -1,8 +1,8 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.18.58
-! Last modified: 2024-12-11T00:27:25.288Z
+! Version: 1.0.18.62
+! Last modified: 2024-12-12T00:27:16.825Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -1911,6 +1911,7 @@ vkcdnservice.appspot.com^
 ||6179b859b8.com^
 ||61t2ll6yy.com^
 ||61zdn1c9.skin^
+||62a77005fb.com^
 ||62ca04e27a.com^
 ||63912b9175.com^
 ||639c909d45.com^
@@ -15048,6 +15049,7 @@ vkcdnservice.appspot.com^
 ||lamplynx.com^
 ||lamppostharmoniousunaware.com^
 ||lampshademirror.com^
+||lamrissmyol.com^
 ||lanceforthwith.com^
 ||landelcut.com^
 ||landitmounttheworld.com^
@@ -20447,6 +20449,7 @@ vkcdnservice.appspot.com^
 ||protectorincorporatehush.com^
 ||protectyourdevices.com^
 ||proteinfrivolousfertilised.com^
+||proteininnovationpioneer.com^
 ||protestgrove.com^
 ||protoawe.com^
 ||protocolgroupgroups.com^
@@ -21171,6 +21174,7 @@ vkcdnservice.appspot.com^
 ||quotumottetto.shop^
 ||quqliodl.com^
 ||qutejo.xyz^
+||quwsncrlcwjpj.com^
 ||quxsiraqxla.com^
 ||quxwpwcwmmx.xyz^
 ||quytsyru.com^
@@ -21403,6 +21407,7 @@ vkcdnservice.appspot.com^
 ||rdrtrk.com^
 ||rdsb2.club^
 ||rdtk.io^
+||rdtlnutu.com^
 ||rdtracer.com^
 ||rdtrck2.com^
 ||rdwmct.com^
@@ -32994,6 +32999,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||gw-dv.vip^
 ||trk.svr-algorix.com^
 ||tpi-app.herokuapp.com^
 ||api.rvere.com^
@@ -36611,6 +36617,10 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||profile-api.amplitude.com^
+||f793.inc.com^
+||mytop.live.vkvideo.ru^
+||f703.twincities.com^
 ||event.newsbreak.com^
 ||pixel-static.spotify.com^
 ||pixel-config.reddit.com^
@@ -36849,26 +36859,6 @@ vkcdnservice.appspot.com^
 ||topspin.npo.nl^
 ||collect.stepstone.co.uk^
 ||analytics.poferries.com^
-||v225.ksbw.com^
-||k030.koco.com^
-||u082.wapt.com^
-||f361.wvtm13.com^
-||t733.wjcl.com^
-||r255.wmtw.com^
-||j178.wmur.com^
-||p769.wgal.com^
-||v066.wxii12.com^
-||s811.ketv.com^
-||m886.kmbc.com^
-||w110.kcra.com^
-||u999.wcvb.com^
-||e459.kcci.com^
-||h019.wtae.com^
-||y000.wyff4.com^
-||q511.wpbf.com^
-||c677.wisn.com^
-||u578.wlwt.com^
-||e993.wlky.com^
 ||collect.biomedcentral.com^
 ||eproof.drudgereport.com^
 ||doppler-beacon.cbsivideo.com^
@@ -39055,41 +39045,66 @@ charlestownwyllie.oaklawnnonantum.com^
 ||log.musical.ly^
 ||log2.musical.ly^
 ||xlog-va.musical.ly^
-||c993.westport-news.com^
+||v225.ksbw.com^
+||k030.koco.com^
+||u082.wapt.com^
+||f361.wvtm13.com^
+||t733.wjcl.com^
+||r255.wmtw.com^
+||j178.wmur.com^
+||p769.wgal.com^
+||v066.wxii12.com^
+||s811.ketv.com^
+||m886.kmbc.com^
+||w110.kcra.com^
+||u999.wcvb.com^
+||e459.kcci.com^
+||h019.wtae.com^
+||y000.wyff4.com^
+||q511.wpbf.com^
+||c677.wisn.com^
+||u578.wlwt.com^
+||e993.wlky.com^
+||v063.4029tv.com^
+||y494.wdsu.com^
+||b932.wesh.com^
 ||d276.ourmidland.com^
 ||d810.mysanantonio.com^
 ||f164.sheltonherald.com^
 ||f775.thehour.com^
-||f857.hearstmediatx.com^
 ||h353.ncadvertiser.com^
 ||h559.stamfordadvocate.com^
-||j158.hearstmediact.com^
 ||j198.registercitizen.com^
+||l029.recordpatriot.com^
 ||l936.expressnews.com^
 ||l997.lmtonline.com^
+||m367.michigansthumb.com^
+||m700.bigrapidsnews.com^
 ||n730.timesunion.com^
 ||o398.trumbulltimes.com^
 ||p593.seattlepi.com^
 ||q777.sfchronicle.com^
 ||r541.houstonchronicle.com^
 ||s232.theintelligencer.com^
+||t002.myjournalcourier.com^
 ||t570.wiltonbulletin.com^
 ||t810.ctpost.com^
 ||u566.chron.com^
 ||u652.myplainview.com^
+||u660.theheraldreview.com^
+||u896.weekand.com^
 ||u927.sfgate.com^
-||w020.newmilfordspectrum.com^
+||v812.lakecountystar.com^
 ||w740.newstimes.com^
 ||w982.middletownpress.com^
 ||x822.mrt.com^
-||y653.theridgefieldpress.com^
 ||y738.nhregister.com^
 ||y752.milfordmirror.com^
 ||y820.darientimes.com^
 ||y900.greenwichtime.com^
+||z210.manisteenews.com^
 ||z211.yourconroenews.com^
 ||z492.ctinsider.com^
-||z590.fairfieldcitizenonline.com^
 ||z680.beaumontenterprise.com^
 ||z929.fuelfix.com^
 ||ben.crxmouse.com^
@@ -39196,6 +39211,9 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||mon-boot.capcutapi.com^
+||mon-va-us-looki.capcutapi.com^
+||metrics-prod.suno.com^
 -ulogl*.kwai-pro.com^
 ||ulog*.kwaipros.com^
 ||snowplow-collector.
@@ -41349,6 +41367,7 @@ inapps.appsflyersdk.com^
 ||statistic.audima.co^
 ||stats.gridmidia.com.br^
 ||tags.cmp.tail.digital^
+||tiktok.tray.com.br^
 ||track.zapimoveis.com.br^
 ||tracker.tolvnow.com^
 ||visit-prod-us.occa.ocs.oraclecloud.com^
@@ -41551,6 +41570,9 @@ inapps.appsflyersdk.com^
 ||yestorrents.org^
 ||oecistbenton.com^
 
+||dosawes.com^
+||lusupodum.com^
+||clairpixum.com^
 ||octo25.me^
 ||bmmwa.info^
 ||iwrcoct.info^
@@ -47410,7 +47432,19 @@ inapps.appsflyersdk.com^
 ||congthongtinvidientu.com^
 ||congtykiman.org^
 ||congtytaichinhlotte.com^
+||continue.dasboard154-account.com^
+||continue.dasboard174-account.com^
 ||continue.dasboard184-account.com^
+||continue.dasboard563-account.com^
+||continue.dasboard593-account.com^
+||continue.dasboard597-account.com^
+||continue.dasboard914-account.com^
+||continue.dasboard934-account.com^
+||continue.dasboard935-account.com^
+||continue.dasboard945-account.com^
+||continue.dasboard965-account.com^
+||continue.dasboard966-account.com^
+||continue.dasboard974-account.com^
 ||coonnfirrmm-bankingg247njf.weebly.com^
 ||coronappzz.com^
 ||cpa-tc.com^
@@ -49176,6 +49210,7 @@ inapps.appsflyersdk.com^
 ||pkkti888.com^
 ||platinum-ruttientindung247.com^
 ||play.appgoogle.cc^
+||playgooglevn.vip^
 ||playtogethernapthe.com^
 ||playtogetherquabaotri.online^
 ||playtogethershop.com^
@@ -51498,8 +51533,16 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||neldatsy.com^
+||yqlzccxn.icu^
 ||altolsqy.com^
 ||fkjdiefz.icu^
+||x4d.icu^
+||ojimtyk.top^
+||tteferty33.fun^
+||suzalsln.com^
+||a7c.icu^
+||ljimtyl.top^
 ||wyvpkmbj.icu^
 ||thunnqyo.com^
 ||wjimtye.top^
