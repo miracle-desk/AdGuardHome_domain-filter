@@ -1,8 +1,8 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.18.71
-! Last modified: 2024-12-14T00:26:27.482Z
+! Version: 1.0.18.75
+! Last modified: 2024-12-15T00:30:05.896Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
@@ -28471,6 +28471,7 @@ vkcdnservice.appspot.com^
 ||xuiqxlhqyo.com^
 ||xukpqemfs.com^
 ||xukpresesmr.info^
+||xupalace.org^
 ||xuqza.com^
 ||xvbwvle.com^
 ||xvfyubhqjp.xyz^
@@ -44094,6 +44095,7 @@ inapps.appsflyersdk.com^
 
 ||adserve.lasentinelle.mu^
 ||adserver.icimedias.ca^
+||jp1media.com^
 ||bra.almado.jp^
 ||adsby.2bet.co.jp^
 ||indexad.net^
@@ -51504,6 +51506,7 @@ inapps.appsflyersdk.com^
 ||vxvw11.com^
 ||vxvw22.com^
 ||vxvw55.com^
+||vyrqhmdy.unbrws.de^
 ||walmartshoping.com^
 ||walmartva.icu^
 ||warrenmoneytrader.com^
@@ -51659,6 +51662,13 @@ inapps.appsflyersdk.com^
 ||wlouqsz.xyz^
 ||hcznaubp.icu^
 ||truxedku.com^
+||qm2.icu^
+||itimiyo.top^
+||vegaingi.com^
+||3lo.icu^
+||jtimiya.top^
+||aigfednd.icu^
+||chonaesor.com^
 ||owsrgljb.icu^
 ||ziqniduy.com^
 ||dddstew6cw8.fun^
