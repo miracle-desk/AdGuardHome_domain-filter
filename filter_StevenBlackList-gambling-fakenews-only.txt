@@ -2387,6 +2387,7 @@
 ||api.jun88.tv^
 ||api.jun889.vip^
 ||api.kingbet86.info^
+||api.linkchuanon.com^
 ||api.mc876.com^
 ||api.minicasino.io^
 ||api.minivn.com^
@@ -3046,6 +3047,8 @@
 ||eurok8.com^
 ||eurowin.top^
 ||ev88.com^
+||ev88.fun^
+||ev88.vip^
 ||event.taisum2.com^
 ||event.xinloiduocchua.co^
 ||ezb68.xyz^
@@ -5073,6 +5076,7 @@
 ||link1vaobk.com^
 ||linkbk8.com^
 ||linkbong88moinhat.com^
+||linkchuanon.com^
 ||linkvao009.com^
 ||linkvaobong88w88.com^
 ||linkvaobw.info^
