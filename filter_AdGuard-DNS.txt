@@ -1,11 +1,16 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.18.87
-! Last modified: 2024-12-18T00:26:09.699Z
+! Version: 1.0.18.91
+! Last modified: 2024-12-19T00:26:28.285Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
+||ceefsyqotuagk.com^
+||kljhsanvj.com^
+||leegreemula.net^
+||ldjyvegage.com^
+||skhmjezzj.com^
 ||predictivadnetwork.com^
 ||epvjljye.com^
 ||ageetsaimouphih.net^
@@ -8935,6 +8940,7 @@ vkcdnservice.appspot.com^
 ||dovictinian.com^
 ||down1oads.com^
 ||download-adblock-zen.com^
+||download-privacybear.com^
 ||download-ready.net^
 ||download4.cfd^
 ||download4allfree.com^
@@ -33041,6 +33047,9 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||bt.dns-finder.com^
+||btloader.com^
+||glamipixel.com^
 ||nocodelytics.com^
 ||stat.fly.codes^
 ||events.engager.ecbsn.com^
@@ -33933,7 +33942,6 @@ vkcdnservice.appspot.com^
 ||fastly-insights.com^
 ||cdn.trackclicks.info^
 ||mm.actionlink.jp^
-||btloader.com^
 ||tracklog.58.com^
 ||wtstats.ro^
 ||static.terratraf.io^
@@ -51670,6 +51678,8 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||threkuth.com^
+||nrbwzh.icu^
 ||ihearsoh.com^
 ||juutckrt.icu^
 ||qtimiyy.top^
@@ -51677,6 +51687,16 @@ inapps.appsflyersdk.com^
 ||screspoy.com^
 ||ua2.icu^
 ||ttimiyi.top^
+||elloisny.com^
+||zabpgtjh.icu^
+||utimiyt.top^
+||ee5.icu^
+||pofbpx.icu^
+||sckyf.com^
+||ppio12181ios.top^
+||stongors.com^
+||4we.icu^
+||otimiyk.top^
 ||qonbibff.icu^
 ||n7a.icu^
 ||craegvin.com^
@@ -57612,6 +57632,8 @@ analytics-*.aasaam.com
 ||websocket.khanefootball.com^
 
 
+||sentry.mci.dev^
+
 ||counter.musicsweb.ir^
 ||counter.mahanmusic.net^
 ||analytic.magland.ir^
@@ -57627,7 +57649,7 @@ analytics-*.aasaam.com
 
 ||analytics.plaza.ir^
 
-||sentry.quera.org^
+||sentry.querastaff.ir^
 
 ||a.reymit.ir^
 
