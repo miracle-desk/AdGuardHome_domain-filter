@@ -2200,6 +2200,7 @@
 ||ad.8live.com^
 ||ad.8live.net^
 ||ad.app8.top^
+||ad.choigametip.org^
 ||ad.choigem.fun^
 ||ad.choigo88.run^
 ||ad.choingay11b.mobi^
