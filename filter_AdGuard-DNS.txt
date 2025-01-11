@@ -1,11 +1,12 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.19.85
-! Last modified: 2025-01-10T00:26:08.443Z
+! Version: 1.0.19.89
+! Last modified: 2025-01-11T00:25:17.402Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.29
 !
+||9pub.io^
 ||uz-kqtecqs.space^
 ||mqprzapns.com^
 ||dzeaqmeuaql.com^
@@ -622,6 +623,8 @@
 ||dianomi.com^
 ||amazon-adsystem.com^
 ||vipads.live^
+||tn.porngo.xxx^$badfilter
+||tn.porngo.xxx^
 ||88.208.46.222^
 ||kms-full.com^
 ||Kmspico.io^
@@ -4325,6 +4328,7 @@ vkcdnservice.appspot.com^
 ||aydandelion.com^
 ||ayehxorfaiqry.com^
 ||ayga.xyz^
+||ayiztaefkfzs.com^
 ||aykqyjzbkkkra.top^
 ||aymijlwl.com^
 ||aymobi.online^
@@ -7704,6 +7708,7 @@ vkcdnservice.appspot.com^
 ||d37914770f.com^
 ||d3c.life^
 ||d3c.site^
+||d3edbb478c.com^
 ||d3u0wd7ppfhcxv.cloudfront.net^
 ||d43849fz.xyz^
 ||d44501d9f7.com^
@@ -9052,6 +9057,7 @@ vkcdnservice.appspot.com^
 ||dzijggsdx.com^
 ||dzinzafogdpog.com^
 ||dzkpopetrf.com^
+||dzsopgxm.com^
 ||dzsorpf.com^
 ||dzubavstal.com^
 ||dzuowpapvcu.com^
@@ -11850,6 +11856,7 @@ vkcdnservice.appspot.com^
 ||graivampouth.net^
 ||graizoah.com^
 ||graizout.net^
+||grallichalvas.com^
 ||gralneurooly.com^
 ||grammarselfish.com^
 ||gramotherwise.com^
@@ -14130,6 +14137,7 @@ vkcdnservice.appspot.com^
 ||jhsnshueyt.click^
 ||jhulubwidas.com^
 ||jhwo.info^
+||jibbahazara.top^
 ||jicamadoless.com^
 ||jicamasosteal.shop^
 ||jiclzori.com^
@@ -14200,6 +14208,7 @@ vkcdnservice.appspot.com^
 ||joberopolicycr.com^
 ||jobeyeball.com^
 ||jobfilletfortitude.com^
+||jobfukectivetr.com^
 ||joblouder.com^
 ||jobsonationsing.com^
 ||jobsyndicate.com^
@@ -14234,6 +14243,7 @@ vkcdnservice.appspot.com^
 ||jootizud.net^
 ||joozoowoak.net^
 ||jopbvpsglwfm.com^
+||joptodsougegauw.com^
 ||joqowqyaarewj.top^
 ||jorbfstarn.com^
 ||jorttiuyng.com^
@@ -15465,6 +15475,7 @@ vkcdnservice.appspot.com^
 ||localslutsnearme.com^
 ||localsnaughty.com^
 ||locatedstructure.com^
+||locatejest.com^
 ||locationaircondition.com^
 ||lockdowncautionmentally.com^
 ||locked-link.com^
@@ -15820,6 +15831,7 @@ vkcdnservice.appspot.com^
 ||lzhsm.xyz^
 ||lzjl.com^
 ||lzoasvofvzw.com^
+||lzqmjakwlllvk.top^
 ||lzukrobrykk.com^
 ||lzxdx24yib.com^
 ||m-fmfadcfm.icu^
@@ -18256,6 +18268,7 @@ vkcdnservice.appspot.com^
 ||omphantumpom.com^
 ||omshedinjaor.com^
 ||omvenusaurchan.com^
+||omwovzodgck.com^
 ||omzoroarkan.com^
 ||omzylhvhwp.com^
 ||onad.eu^
@@ -22399,6 +22412,7 @@ vkcdnservice.appspot.com^
 ||ruxmkiqkasw.com^
 ||ruzotchaufu.xyz^
 ||rv-syzfedv.rocks^
+||rvardsusyseinp.org^
 ||rvddfchkj.xyz^
 ||rvetreyu.net^
 ||rviqayltwu.love^
@@ -23018,6 +23032,7 @@ vkcdnservice.appspot.com^
 ||sextubeweb.com^
 ||sexualpitfall.com^
 ||sexyepc.com^
+||seymourlamboy.com^
 ||sf-ads.io^
 ||sfdsplvyphk.com^
 ||sffsdvc.com^
@@ -33005,6 +33020,11 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||mantis-intelligence.com^
+||stream.datago.ru^
+||pabidding.io^
+||danatrak.com^
+||optiyield.opti-digital.com^
 ||volces.com^
 ||lf1-cdn-tos.bytegoofy.com^
 ||view.mngusr.com^
@@ -44126,6 +44146,7 @@ inapps.appsflyersdk.com^
 
 ||adserve.lasentinelle.mu^
 ||adserver.icimedias.ca^
+||ranmaotome.com^
 ||sb-hip-happy.ourservice.jp^
 ||carrier202205.tokyo^
 ||axesslove.mixh.jp^
@@ -51696,9 +51717,19 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||riscats.com^
+||hdjthzg.cn^
+||pxhuiben.com^
 ||oliver.pub^
 ||lbfwxr.icu^
 ||eitilbyr.com^
+||3uo.fun^
+||ddhjabqe.icu^
+||majile.vip^
+||nyhdv.com^
+||osdxx.com^
+||bhegilut.com^
+||s83.fun^
 ||pinjzp.icu^
 ||aos01080ss.xyz^
 ||ztlkngyj.icu^
