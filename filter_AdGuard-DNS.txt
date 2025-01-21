@@ -1,11 +1,12 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.20.26
-! Last modified: 2025-01-20T00:25:34.619Z
+! Version: 1.0.20.31
+! Last modified: 2025-01-21T00:24:23.143Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
+||hotbraraja.cc^
 ||unactkiosk.com^
 ||pinco225.win^
 ||reachableads-av.*.amazonaws.com^
@@ -5727,6 +5728,7 @@ vkcdnservice.appspot.com^
 ||builtinproceeding.com^
 ||bujerdaz.com^
 ||bukshiunchair.shop^
+||bukusukses.com^
 ||bukzvsflpo.com^
 ||bulbofficial.com^
 ||bulbousloth.shop^
@@ -6595,6 +6597,7 @@ vkcdnservice.appspot.com^
 ||cifawsoqvawj.com^
 ||cigaretteintervals.com^
 ||cigarettenotablymaker.com^
+||cigfhaztaqu.com^
 ||ciizxsdr.com^
 ||ciksolre.net^
 ||cima-club.club^
@@ -6680,6 +6683,7 @@ vkcdnservice.appspot.com^
 ||claspsnuff.com^
 ||classesfolksprofession.com^
 ||classessavagely.com^
+||classic-bonus.com^
 ||classiccarefullycredentials.com^
 ||classickalunti.com^
 ||classicsactually.com^
@@ -7039,6 +7043,7 @@ vkcdnservice.appspot.com^
 ||commongratificationtimer.com^
 ||commongrewadmonishment.com^
 ||commonvivacious.com^
+||communicatedsuitcompartment.com^
 ||communication3x.fun^
 ||comoideludes.shop^
 ||comparativeexclusion.com^
@@ -7697,6 +7702,7 @@ vkcdnservice.appspot.com^
 ||cuttlefly.com^
 ||cuwlmupz.com^
 ||cuzsgqr.com^
+||cvaetfspprbnt.com^
 ||cvastico.com^
 ||cvgto-akmk.fun^
 ||cvvemdvrojgo.com^
@@ -8675,6 +8681,7 @@ vkcdnservice.appspot.com^
 ||doaipomer.com^
 ||doajauhopi.xyz^
 ||doaltariaer.com^
+||doanaudabu.net^
 ||doapovauma.net^
 ||doappcloud.com^
 ||doastaib.xyz^
@@ -11564,6 +11571,7 @@ vkcdnservice.appspot.com^
 ||gkyornyu.com^
 ||gl-cash.com^
 ||gla63a4l.de^
+||glabsuckoupy.net^
 ||glacierwaist.com^
 ||gladsince.com^
 ||glaghoowingauck.net^
@@ -17261,6 +17269,7 @@ vkcdnservice.appspot.com^
 ||namol.xyz^
 ||nan0cns.com^
 ||nan46ysangt28eec.com^
+||nanakotrilith.com^
 ||nanborderrocket.com^
 ||nancontrast.com^
 ||nandtheathema.info^
@@ -18532,6 +18541,7 @@ vkcdnservice.appspot.com^
 ||oongouha.xyz^
 ||oonsouque.com^
 ||oopatet.com^
+||oopheecahough.net^
 ||oophengeey.com^
 ||oophijassaudral.xyz^
 ||oophoame.xyz^
@@ -19979,6 +19989,7 @@ vkcdnservice.appspot.com^
 ||pointespassage.com^
 ||pointinginexperiencedbodyguard.com^
 ||pointlessmorselgemini.com^
+||pointlessplan.pro^
 ||pointroll.com^
 ||poisegel.com^
 ||poisism.com^
@@ -21635,6 +21646,7 @@ vkcdnservice.appspot.com^
 ||reddockbedman.com^
 ||redeemforest.com^
 ||redetaailshiletteri.com^
+||redexamination.com^
 ||redfootcoclea.shop^
 ||redheadinfluencedchill.com^
 ||redheadpublicityjug.com^
@@ -24280,6 +24292,7 @@ vkcdnservice.appspot.com^
 ||staukaul.com^
 ||staumersleep.com^
 ||staupsadraim.xyz^
+||staupsoaksy.net^
 ||staureez.net^
 ||stawhoph.com^
 ||staydolly.com^
@@ -29346,7 +29359,9 @@ vkcdnservice.appspot.com^
 ||try.opera.com^
 ||visualmirage.co^
 ||vpn-offers.org^
+||xml-v4.lensgard-3.online^
 ||xstalkx.ru^
+||zavirand.com^
 ||123date.me^
 ||2beon.co.kr^
 ||2leep.com^
@@ -33220,6 +33235,7 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||obseu.netgreencolumn.com^
 ||sygrip.info^
 ||log-auth.zztfly.com^
 ||adsave.co^
@@ -36874,6 +36890,8 @@ vkcdnservice.appspot.com^
 
 ||tagman.britishairways.com^
 |piwik.
+||clickstream-*.homedepot.com^
+||mr.homedepot.com^
 ||frontend-logger.flippback.com^
 ||analytics.nike.com^
 ||hikari.jiocinema.com^
@@ -41835,7 +41853,6 @@ inapps.appsflyersdk.com^
 ||adv.r7.com^
 
 ||butlercdn.com^
-||classic-bonus.com^
 ||assets.etus.digital^
 ||lyappreciat.info^
 ||oilierelixir.com^
@@ -44149,6 +44166,7 @@ inapps.appsflyersdk.com^
 ||hdvmyo.com^
 ||adsy.mail.bg^
 
+||subaxe.xyz^
 ||dahmnrmhyhsjxx.com^
 ||rogxwgqovb.com^
 ||ds.macellan.online^
@@ -51941,6 +51959,10 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||y0o.fun^
+||icokamio.top^
+||thrumulr.com^
+||01210sop.xyz^
 ||hp7.fun^
 ||tuvrutsnf.com^
 ||rpfuvj.icu^
@@ -51950,6 +51972,9 @@ inapps.appsflyersdk.com^
 ||ccokamif.top^
 ||saelphol.com^
 ||pfbmht.icu^
+||31y.fun^
+||hcokamiu.top^
+||sterkisg.com^
 ||lagzoids.com^
 ||njnhzh.icu^
 ||8u0.fun^
@@ -57254,6 +57279,7 @@ analytics-*.aasaam.com
 ||novunu.football-plyus.net^
 ||api2.branch.io^$dnsrewrite=0.0.0.0
 
+@@||sbs.demdex.net^|
 @@||cl.link-ag.net^|
 @@||action.metaffiliation.com^|
 @@||www.dogpile.com^|
