@@ -2371,6 +2371,7 @@
 ||b29.cafe^
 ||b29.pub^
 ||b369.com^
+||b52.cc^
 ||b52.club^
 ||b52.game^
 ||b52.me^
@@ -2474,6 +2475,7 @@
 ||boc8.fun^
 ||bogac1.com^
 ||bom52.club^
+||bom88.com^
 ||bong.thethaowin.net^
 ||bong88.cam^
 ||bong88.com^
