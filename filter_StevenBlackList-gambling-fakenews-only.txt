@@ -2412,6 +2412,7 @@
 ||bet20.bet^
 ||bet29.club^
 ||bet66.com^
+||bet88.ai^
 ||bet88.systems^
 ||bet88010.com^
 ||bet88011.com^
@@ -2500,6 +2501,7 @@
 ||bongbet2.com^
 ||bongda.thethaofb88.com^
 ||bongdaeuro188.com^
+||bongdanet.co^
 ||bongvip.com^
 ||bongvip.onl^
 ||bongvip.website^
@@ -2522,7 +2524,11 @@
 ||c54bbb.com^
 ||cache.one88.com^
 ||cache1.one88.com^
+||cacuoc.bet^
 ||cacuoc247.com^
+||cacuoc365.blog^
+||cacuoconline.site^
+||cacuocso.com^
 ||cado.pro^
 ||cado.thethaofb88.com^
 ||cadomienphi.com^
@@ -2712,6 +2718,7 @@
 ||debet.com^
 ||debet.fun^
 ||debet.info^
+||debet.mn^
 ||debet.moi^
 ||debet.net^
 ||debet.top^
@@ -2922,6 +2929,7 @@
 ||five88.world^
 ||five88vn.me^
 ||fivevn.net^
+||fm88.vip^
 ||for88.com^
 ||fullbetvn.com^
 ||fun-dangki.com^
@@ -3940,6 +3948,7 @@
 ||neo79.us^
 ||net88.ac^
 ||net88.day^
+||net88.in^
 ||net88.men^
 ||net88.run^
 ||net88.tv^
@@ -3963,6 +3972,7 @@
 ||nhacaisodo.net^
 ||nhacaisomot.com^
 ||nhacaiuytin.life^
+||nhacaiuytin.top^
 ||nhacaiuytinso1vn.com^
 ||nhanthuong88.com^
 ||nhat.bet^
@@ -4120,6 +4130,7 @@
 ||ptwin6.com^
 ||qc.789.mobi^
 ||qc.789b.asia^
+||qc.789club.sx^
 ||qc.789d.club^
 ||qc.choidabanh.com^
 ||qc.choigametip.org^
@@ -4198,6 +4209,7 @@
 ||rikvip.tv^
 ||rikvip.us^
 ||rikvip.vip^
+||rikvip.wales^
 ||rikvip.win^
 ||rikvip8.win^
 ||rikvipclub.us^
@@ -4745,6 +4757,7 @@
 ||vin777.co^
 ||vin777.work^
 ||vin88.com^
+||vin88.net^
 ||vin999.fun^
 ||vina88.net^
 ||vip.dangkyrikvip.me^
@@ -4841,6 +4854,7 @@
 ||vntop88.com^
 ||vnvwbet.com^
 ||vnvwin.com^
+||vnxoso-web.com^
 ||vscore.bet^
 ||vscore.online^
 ||vscore.pro^
