@@ -1,11 +1,12 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.22.53
-! Last modified: 2025-03-20T00:26:15.044Z
+! Version: 1.0.22.57
+! Last modified: 2025-03-21T00:26:47.198Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||hakurei.cdnbo.org^
 ||nkdccsiwixvzj.world^
 ||organicowner.com^
 ||woeful-trash.pro^
@@ -8713,6 +8714,7 @@ vkcdnservice.appspot.com^
 ||attributedrelease.com^
 ||attritioncombustible.com^
 ||atttkaapqvh.com^
+||attuneuvito.com^
 ||atwola.com^
 ||atzekromchan.com^
 ||au2m8.com^
@@ -15649,6 +15651,7 @@ vkcdnservice.appspot.com^
 ||generousfilming.com^
 ||genesismedia.com^
 ||geneticesteemreasonable.com^
+||geneurawipers.com^
 ||genfpm.com^
 ||geniad.net^
 ||genieedmp.com^
@@ -18076,6 +18079,7 @@ vkcdnservice.appspot.com^
 ||isreputysolomo.com^
 ||issomeoneinth.info^
 ||issuedindiscreetcounsel.com^
+||isteetashy.com^
 ||istkechaukrguk.com^
 ||istlnkbn.com^
 ||istoanaugrub.xyz^
@@ -24469,6 +24473,7 @@ vkcdnservice.appspot.com^
 ||psoamaupsie.net^
 ||psoanoaweek.net^
 ||psoansumt.net^
+||psoaphorsoa.com^
 ||psoasusteech.net^
 ||psockapa.net^
 ||psohemsinso.xyz^
@@ -25841,6 +25846,7 @@ vkcdnservice.appspot.com^
 ||ridingdisguisessuffix.com^
 ||ridleward.info^
 ||ridmilestone.com^
+||riedrused.com^
 ||riffingwiener.com^
 ||rifjhukaqoh.com^
 ||rifjynxoj-k.vip^
@@ -26402,6 +26408,7 @@ vkcdnservice.appspot.com^
 ||saltconfectionery.com^
 ||saltpairwoo.live^
 ||saltsarchlyseem.com^
+||saltsmute.com^
 ||saltsupbrining.com^
 ||salutationpersecutewindows.com^
 ||salvagefloat.com^
@@ -34320,6 +34327,7 @@ vkcdnservice.appspot.com^
 ||static.tradetracker.net^
 ||supply.upjers.com^
 ||syndicate.payloadz.com^
+||t.babelmedia.global^
 ||tag.regieci.com^
 ||tags.refinery89.com^
 ||tcadserver.rain-digital.ca^
@@ -36586,6 +36594,8 @@ vkcdnservice.appspot.com^
 ||ib.snssdk.com^
 ||xlog.snssdk.com^
 ||log.snssdk.com^
+||install*.zonastat.com^
+||tags.pw.adn.cloud^
 ||api-notify.markarch.com^
 ||venatusmedia.com^
 ||metrics.nsureapi.com^
@@ -37969,6 +37979,7 @@ vkcdnservice.appspot.com^
 ||amc.yandex.ru^
 ||mc.yandex.ru^
 ||mc.yandex.com^
+||mc.yandex.md^
 ||track.segmentstream.com^
 ||vboro.de^
 ||barddfvgkhctch11.ru^
@@ -89011,6 +89022,7 @@ inapps.appsflyersdk.com^
 ||stats.sawlive.tv^
 ||stats.screenresolution.org^
 ||stats.senty.com.au^
+||stats.tiktoker.win^
 ||stats.uscreen.io^
 ||stats.varrando.com^
 ||stats.viddler.com^
@@ -89209,6 +89221,7 @@ inapps.appsflyersdk.com^
 ||x.weather.com^
 ||xp2023-pix.s3.amazonaws.com^
 ||yoast-schema-graph.com^
+||yotrack.cdn.ybn.io^
 ||adsdk.yandex.ru^
 ||analytics.samsungknox.com^
 ||extmaps-api.yandex.net^
@@ -90029,7 +90042,6 @@ inapps.appsflyersdk.com^
 ||xad.dnoticias.pt^
 ||adclient-uol.lp.uol.com.br^
 ||adv.r7.com^
-||t.babelmedia.global^
 ||butlercdn.com^
 ||assets.etus.digital^
 ||lyappreciat.info^
@@ -90135,6 +90147,7 @@ inapps.appsflyersdk.com^
 ||templates.buscape.com^
 ||yestorrents.org^
 ||oecistbenton.com^
+||vvdrhe.win^
 ||adwadvert.com.ua^
 ||nanthou.life^
 ||wrapper.bracdn.online^
@@ -92214,6 +92227,7 @@ inapps.appsflyersdk.com^
 ||zorkabiz.ru^
 ||zqizn.com^
 ||zqmwf.xyz^
+/62.76.25.2(7|8)/
 /193.200.64.24:/
 ||193.200.64.24^
 ||206.54.181.250^
@@ -93164,6 +93178,7 @@ inapps.appsflyersdk.com^
 ||tools-affil2.com^
 ||tools.islive.nl^
 ||travelads.be^
+||trickyrock.com^
 ||vpscash.nl^
 ||xpartners.nl^
 ||adnx.de^
@@ -93849,7 +93864,6 @@ inapps.appsflyersdk.com^
 ||autodeal.agilecrm.com^
 ||autoleasedi.bytelab.dk^
 ||ax.idg.se^
-||b1.trickyrock.com^
 ||backend.qimtek.se^
 ||banner.bet365partners.com^
 ||banners.instaforex.com^
@@ -100005,8 +100019,13 @@ inapps.appsflyersdk.com^
 ||51tongji.trafficmanager.net^
 ||67.21.92.*.gif
 ||cnzz.trafficmanager.net^
+||feernhuhe.com^
 ||spkh.cn^
 ||sodenneyg.com^
+||zqntbc.top^
+||lcidauv.top^
+||bekd.cn^
+||uhityllhn.com^
 ||xunqrutsl.com^
 ||jslxzx.icu^
 ||xeccotftw.com^
