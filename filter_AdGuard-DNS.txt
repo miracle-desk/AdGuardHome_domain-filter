@@ -1,8 +1,8 @@
 !
 ! Title: AdGuard DNS filter
 ! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
-! Version: 1.0.24.19
-! Last modified: 2025-04-29T00:31:27.979Z
+! Version: 1.0.24.21
+! Last modified: 2025-04-29T12:12:47.469Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -29096,6 +29096,7 @@ vkcdnservice.appspot.com^
 ||tenderlybatch.com^
 ||tendrepere.top^
 ||tenoneraliners.top^
+||tenourcagy.com^
 ||tense-winter.pro^
 ||tensorsbancos.com^
 ||tentativenegotiate.com^
@@ -36181,6 +36182,7 @@ vkcdnservice.appspot.com^
 ||deapi.sooplive.co.kr^
 ||startup.mobile.yandex.net^
 ||startup-mobile.ap.yandex-net.ru^
+||maticooads.com^
 ||ad*.zonaplus.tv^
 ||apishow.babybus.com^
 ||apppromoteapi.babybus.com^
@@ -87340,6 +87342,8 @@ vkcdnservice.appspot.com^
 ||d1udjti6mtxz9q.cloudfront.net^
 ||incoming.telemetry.mozilla.org^
 |piwik.
+||ashiato.travel.rakuten.co.jp^
+||event.notifier.rakuten.co.jp^
 ||log.tosspayments.com^
 ||event.tosspayments.com^
 ||pipeline.rd.nl^
@@ -90064,6 +90068,8 @@ inapps.appsflyersdk.com^
 ||int.vlancaa.site^
 ||int.vlancaa.fun^
 ||tok.vaicore.xyz^
+||kix-ulogl*.kwai-pro.com^
+||log-sdk.ksapisrv.com^
 ||ulogjs.ksapisrv.com^
 ||ulogs*.ksapisrv.com^
 ||adashx4id.ut.taobao.com^
@@ -92052,6 +92058,7 @@ inapps.appsflyersdk.com^
 ||pixel.poptok.com^
 ||plausible.ams.to^
 ||retrack.q-divisioncdn.de^
+||rum.mauve.eu^
 ||sp.data.funkedigital.de^
 ||stat.clichehosting.de^
 ||statistics.klicktel.de^
@@ -96720,6 +96727,7 @@ inapps.appsflyersdk.com^
 ||viagogo.se^
 ||visitanalytics.userreport.com^
 ||w.sharethis.com^
+||wb-analytics.onecruiter.com^
 ||wct-1.com^
 ||webbannons.ntm.eu^
 ||webbplatsanalys.goteborg.se^
@@ -97732,6 +97740,7 @@ inapps.appsflyersdk.com^
 ||3615407.xyz^
 ||3615738.xyz^
 ||365bet.shop^
+||3tght76h.com^
 ||456vdghgj30.dyndns.org^
 ||50gb034.xyz^
 ||555lotte.com^
@@ -98704,6 +98713,7 @@ inapps.appsflyersdk.com^
 ||gionghatvietnhivietnam2022.weebly.com^
 ||gionghatvietnhll2021.weebly.com^
 ||giovangvn999.com^
+||gl0a7loeki02do.com^
 ||globalsellingads.com^
 ||globalshopping.website^
 ||go888.me^
@@ -99897,6 +99907,7 @@ inapps.appsflyersdk.com^
 ||onlinetopchoice.com^
 ||onstraints.store^
 ||onzeage.cfd^
+||oojoictf.iqerm.link^
 ||optimagroupthuongphuong.net^
 ||ordsexecutiv.cfd^
 ||org-secured.com^
@@ -101323,6 +101334,7 @@ inapps.appsflyersdk.com^
 ||ucesreferre.club^
 ||ugvietnam.net^
 ||uhy89mb.com^
+||ukzdcnzp.bdtrjklaz.de^
 ||ullis-airbrush-shop.de^
 ||umyugu88.ru^
 ||undertheguid.cfd^
@@ -102305,6 +102317,12 @@ inapps.appsflyersdk.com^
 ||cnzz.trafficmanager.net^
 ||bxdupj.icu^
 ||cautols.com^
+||exoh.cn^
+||rhdifs.top^
+||enwuamw.top^
+||mwcnmtx.top^
+||wwok04291kl.com^
+||fvitteilse.com^
 ||oldh.cn^
 ||vcaqexl.com^
 ||hua4207.xyz^
@@ -107362,6 +107380,7 @@ analytics-*.aasaam.com
 ||letysheeps.ru^
 ||a4.overclockers.ua^
 ||novunu.football-plyus.net^
+@@||taiga.maven.io^|
 @@||tlh.gedidigital.it^|
 @@||smtp.focusgroupresearch.com^|
 @@||ap01.records.in.treasuredata.com^|
