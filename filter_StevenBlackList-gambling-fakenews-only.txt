@@ -3776,6 +3776,7 @@
 ||lt991.com^
 ||lu88.co^
 ||lu88.com^
+||lu88.pro^
 ||luck6.com^
 ||luck8.com^
 ||luck8881.com^
@@ -4047,6 +4048,15 @@
 ||mu92.com^
 ||mu922.com^
 ||mu929.com^
+||mv66.app^
+||mv66.baby^
+||mv66.biz^
+||mv66.dev^
+||mv66.game^
+||mv66.icu^
+||mv66.us^
+||mv66.vip^
+||mv88.bet^
 ||mvb88.com^
 ||mxvietnam.com^
 ||my188bet.com^
