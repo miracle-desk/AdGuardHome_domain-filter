@@ -2351,6 +2351,7 @@
 ||api.topbet.net^
 ||api.topbet.top^
 ||api.usbet.net^
+||api.usbet.win^
 ||api.v79top.com^
 ||api.v7king.com^
 ||api.vh79.com^
@@ -2815,6 +2816,7 @@
 ||dp533.com^
 ||dp568.com^
 ||dp568bet.com^
+||du88.club^
 ||du88.com^
 ||duatop2024.net^
 ||dubaivn.vip^
@@ -3142,6 +3144,7 @@
 ||hb8887.com^
 ||hb88p.com^
 ||hb88vn.co^
+||hbet.club^
 ||hbet.net^
 ||hbet.win^
 ||hcm66.com^
@@ -3407,6 +3410,7 @@
 ||k8.social^
 ||k801k.com^
 ||k81206.com^
+||k88.club^
 ||k88.pro^
 ||k88.win^
 ||k89bet.com^
@@ -3931,6 +3935,7 @@
 ||man88.net^
 ||man88.top^
 ||man88.vip^
+||man88.win^
 ||manclub.fun^
 ||manclub.live^
 ||manclub.us^
@@ -4359,6 +4364,8 @@
 ||rehonnua.org^
 ||rewards.w88bkk.com^
 ||rgames.org^
+||ricbet.com^
+||ricbet.win^
 ||rik.bet^
 ||rik.club^
 ||rik.fun^
@@ -4491,6 +4498,8 @@
 ||smart.8live.net^
 ||smartpay.lode88.vip^
 ||sn1.sin88.me^
+||so79.com^
+||so79.win^
 ||soc.sieutaixiu79.club^
 ||soc88.com^
 ||soc99.com^
@@ -4514,6 +4523,7 @@
 ||socket.hdbet.com^
 ||socket.topbet.top^
 ||socket.usbet.net^
+||socket.usbet.win^
 ||soco88.com^
 ||socvip9.club^
 ||sodo.bond^
@@ -4895,6 +4905,7 @@
 ||uk88.vip^
 ||upanh.vn88.com^
 ||usbet.net^
+||usbet.win^
 ||uu88.com^
 ||uu88.now^
 ||uu8814.net^
@@ -4936,6 +4947,8 @@
 ||vao.luky88.me^
 ||vao789club.win^
 ||vaob52.click^
+||vaobet.net^
+||vaobet.win^
 ||vaohitclub.me^
 ||vaoku.net^
 ||vb211.com^
@@ -4965,6 +4978,7 @@
 ||vibet.com^
 ||vic.win^
 ||vic88.com^
+||vic88.net^
 ||vicplay.io^
 ||victorwin555.com^
 ||vicwin.vip^
