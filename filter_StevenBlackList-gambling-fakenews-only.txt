@@ -9197,3 +9197,4 @@
 ||panels.twitch.tv^
 ||pinpages.alwaysdata.net^
 ||allotalk.com^
+||sniffies.com^
