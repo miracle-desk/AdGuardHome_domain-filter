@@ -2387,6 +2387,7 @@
 ||betlv.com^
 ||bettingroup.net^
 ||betvip.center^
+||betvip.network^
 ||betvisa.com^
 ||betvisa.dog^
 ||betvnd.cc^
