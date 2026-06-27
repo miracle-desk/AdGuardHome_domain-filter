@@ -2269,6 +2269,7 @@
 ||ano88.app^
 ||ano88.top^
 ||aoays.xyz^
+||api-client.okvipworldcup.com^
 ||api-v2.zbet.tv^
 ||api.123bhh.com^
 ||api.33beta.com^
@@ -2365,6 +2366,7 @@
 ||ball88.day^
 ||ball88.fun^
 ||ball88.games^
+||ball88.llc^
 ||ball88.mobi^
 ||ball88.red^
 ||ball88.to^
@@ -2443,8 +2445,10 @@
 ||bntv.bongvip.com^
 ||bom52.club^
 ||bom88.com^
+||bom88.cool^
 ||bom88.ing^
 ||bom88.net^
+||bom88.pics^
 ||bong.thethaowin.net^
 ||bong88.cam^
 ||bong88.com^
@@ -2544,6 +2548,7 @@
 ||connhangheo.top^
 ||coopbet.com^
 ||corona999.com^
+||cskhkjc.com^
 ||cungv9choi.com^
 ||cuoc88.net^
 ||cuoc8899.com^
@@ -2575,6 +2580,7 @@
 ||d1.debet.gs^
 ||d1.debet.info^
 ||d1.debet.lc^
+||d1.debet.med^
 ||d1.debet.mp^
 ||d1.debet.mw^
 ||d1.debet.sc^
@@ -2650,6 +2656,7 @@
 ||debet.info^
 ||debet.lc^
 ||debet.lv^
+||debet.med^
 ||debet.moi^
 ||debet.mp^
 ||debet.mw^
@@ -2664,6 +2671,7 @@
 ||debet.win^
 ||debet79.info^
 ||debet88.win^
+||debetchinhhang.top^
 ||deca.bet^
 ||deca88.com^
 ||dfbertuah.com^
@@ -2846,6 +2854,7 @@
 ||five88.id^
 ||five88.in^
 ||five88.lc^
+||five88.my^
 ||five88.net^
 ||five88.ng^
 ||five88.nl^
@@ -2859,6 +2868,7 @@
 ||five88.win^
 ||five88.wine^
 ||five88.world^
+||five88chinhhang.com^
 ||fm88.com^
 ||fm88.vip^
 ||for88.com^
@@ -2917,10 +2927,14 @@
 ||gd55id.com^
 ||gem.win^
 ||gem1.win^
+||gem88.biz^
 ||gem88.com^
 ||gem88.guru^
+||gem88.vet^
 ||gem88.win^
+||gemwin.cab^
 ||gemwin.fm^
+||gemwin.fyi^
 ||gemwin.ink^
 ||gemwin.is^
 ||gemwin.lc^
@@ -2928,11 +2942,13 @@
 ||gemwin.my^
 ||gemwin.nz^
 ||gemwin.page^
+||gemwin.tax^
 ||gemwin.to^
 ||gemwin.tv^
 ||gemwin.vc^
 ||gemwin.vin^
 ||gemwin.vip^
+||gemwinchinhhang.com^
 ||gen88.com^
 ||gi8.us^
 ||gi888.cc^
@@ -3026,6 +3042,7 @@
 ||hitclub.cafe^
 ||hitclub.com^
 ||hitclub.in^
+||hitclub.ist^
 ||hitclub.lc^
 ||hitclub.lt^
 ||hitclub.lv^
@@ -3042,6 +3059,7 @@
 ||hitclub.tv^
 ||hitclub.vin^
 ||hitclub.win^
+||hitclubchinhhang.com^
 ||hl8thai8.com^
 ||hn8.link^
 ||hong88vn.click^
@@ -3374,6 +3392,7 @@
 ||kingfun1.club^
 ||kingfun247.net^
 ||kingfunsomot.com^
+||kjcvn.com^
 ||kkwin.bio^
 ||kkwin.men^
 ||kkwin.pro^
@@ -3595,6 +3614,7 @@
 ||m1.ball88.com^
 ||m1.ball88.fun^
 ||m1.ball88.games^
+||m1.ball88.llc^
 ||m1.ball88.mobi^
 ||m1.ball88.red^
 ||m1.ball88.to^
@@ -3792,10 +3812,12 @@
 ||nhanthuong88.com^
 ||nhat.bet^
 ||nhat.bh^
+||nhat.bz^
 ||nhat.cx^
 ||nhat.game^
 ||nhat.is^
 ||nhat.it^
+||nhat.kim^
 ||nhat.my^
 ||nhat.one^
 ||nhat.pw^
@@ -3834,6 +3856,8 @@
 ||okvip.pro^
 ||okvip.today^
 ||okvip.win^
+||okvipcskh.com^
+||okvipworldcup.com^
 ||ole777vietnam.com^
 ||ole7788.com^
 ||oleviet777.com^
@@ -4052,6 +4076,7 @@
 ||s26bet.ltd^
 ||s26bet01.com^
 ||s3.sin88.fo^
+||s3.sin88.gdn^
 ||s3.sin88.lu^
 ||s3.sin88.ml^
 ||s3.sin88.ms^
@@ -4106,6 +4131,7 @@
 ||sin88.com^
 ||sin88.cv^
 ||sin88.fo^
+||sin88.gdn^
 ||sin88.im^
 ||sin88.lu^
 ||sin88.me^
@@ -4121,6 +4147,7 @@
 ||sin88.us^
 ||sin88.vip^
 ||sin88.win^
+||sin88chinhhang.com^
 ||sin88s.com^
 ||sinbet.com^
 ||sinbet.vip^
@@ -4128,6 +4155,7 @@
 ||sk.ball88.com^
 ||sk.ball88.day^
 ||sk.ball88.fun^
+||sk.ball88.llc^
 ||sk.ball88.mobi^
 ||sk.ball88.to^
 ||sk.ball88.zone^
@@ -4136,11 +4164,13 @@
 ||sk.debet.gs^
 ||sk.debet.lc^
 ||sk.debet.lv^
+||sk.debet.med^
 ||sk.debet.mw^
 ||sk.debet.st^
 ||sk.debet.vg^
 ||sk.fm88.com^
 ||sk.sin88.fo^
+||sk.sin88.gdn^
 ||sk.sin88.lu^
 ||sk.sin88.ml^
 ||sk.sin88.ms^
@@ -4298,6 +4328,7 @@
 ||sv88.vu^
 ||sv88.win^
 ||sv88a.com^
+||sv88chinhhang.com^
 ||sv88r.com^
 ||sv88vn.com^
 ||sv88vn.net^
@@ -4528,6 +4559,7 @@
 ||uytin.8day66.com^
 ||v.fa88.tv^
 ||v.hitclub.in^
+||v.hitclub.ist^
 ||v.hitclub.lv^
 ||v.hitclub.ml^
 ||v.hitclub.mu^
@@ -4808,6 +4840,7 @@
 ||web.win79.moi^
 ||web.win79.vg^
 ||web.yo88.is^
+||web.yo88.ist^
 ||web.yo88.ml^
 ||web.yo88.so^
 ||web.yo88.st^
@@ -5386,6 +5419,7 @@
 ||yo88.ae^
 ||yo88.cool^
 ||yo88.is^
+||yo88.ist^
 ||yo88.ml^
 ||yo88.pw^
 ||yo88.so^
@@ -5394,6 +5428,7 @@
 ||yo88.vg^
 ||yo88.vu^
 ||yo88.win^
+||yo88chinhhang.com^
 ||yo88vn.com^
 ||youwevnak.kg88.shop^
 ||yule12888.com^
@@ -5425,12 +5460,14 @@
 ||zowin.kim^
 ||zowin.mom^
 ||zowin.ng^
+||zowin.ph^
 ||zowin.red^
 ||zowin.sh^
 ||zowin.sx^
 ||zowin.tv^
 ||zowin.tw^
 ||zowin.uno^
+||zowin.vu^
 ||zowin.ws^
 ||a1casino.com^
 ||a23.com^
