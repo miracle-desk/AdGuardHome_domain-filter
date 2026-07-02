@@ -2284,6 +2284,7 @@
 ||api.bec88.com^
 ||api.dabet.club^
 ||api.f8bet5.com^
+||api.haybet.ws^
 ||api.hb8887.com^
 ||api.hdbet.com^
 ||api.max79.win^
@@ -2348,8 +2349,10 @@
 ||b52.game^
 ||b52.me^
 ||b52.mobi^
+||b52.nu^
 ||b52.vip^
 ||b52.win^
+||b52club.me^
 ||b52d.club^
 ||b52k.club^
 ||b52m.club^
@@ -2697,6 +2700,7 @@
 ||dp533.com^
 ||dp568.com^
 ||dp568bet.com^
+||du88.cafe^
 ||du88.club^
 ||du88.com^
 ||du88.in^
@@ -2933,6 +2937,7 @@
 ||gem88.vet^
 ||gem88.win^
 ||gemwin.cab^
+||gemwin.esq^
 ||gemwin.fm^
 ||gemwin.fyi^
 ||gemwin.ink^
@@ -3002,12 +3007,15 @@
 ||hay88.net^
 ||hay8811.com^
 ||hay8822.com^
+||haybet.ws^
 ||haywin.ac^
 ||haywin.ai^
 ||haywin.my^
 ||haywin.space^
 ||haywin.store^
+||haywin.training^
 ||haywin.vip^
+||haywinchinhhang.com^
 ||haywinvip.online^
 ||hb88.com^
 ||hb88.party^
@@ -3016,6 +3024,7 @@
 ||hb8887.com^
 ||hb88vn.co^
 ||hbet.club^
+||hbet.li^
 ||hbet.lv^
 ||hbet.net^
 ||hbet.pw^
@@ -3517,6 +3526,7 @@
 ||lu88.com^
 ||lu88.gdn^
 ||lu88.kim^
+||lu88.nz^
 ||lu88.pro^
 ||luck6.com^
 ||luck8.com^
@@ -3651,6 +3661,7 @@
 ||man79.org^
 ||man88.la^
 ||man88.net^
+||man88.ng^
 ||man88.pl^
 ||man88.pw^
 ||man88.top^
@@ -3813,6 +3824,7 @@
 ||nhat.bet^
 ||nhat.bh^
 ||nhat.bz^
+||nhat.cam^
 ||nhat.cx^
 ||nhat.game^
 ||nhat.is^
@@ -3908,6 +3920,7 @@
 ||pkwin1.com^
 ||play.789.club^
 ||play.789club.sx^
+||play.b52club.me^
 ||play.b52m.club^
 ||play.bay789.io^
 ||play.bay789.life^
@@ -3922,11 +3935,13 @@
 ||play.haywin.ai^
 ||play.haywin.space^
 ||play.haywin.store^
+||play.haywin.training^
 ||play.hit.club^
 ||play.im99.com^
 ||play.iwin.bio^
 ||play.lo88.live^
 ||play.okvip.fun^
+||play.ricwin.moi^
 ||play.ricwin.pw^
 ||play.rik88.life^
 ||play.rikvip.info^
@@ -4039,6 +4054,8 @@
 ||rgames.org^
 ||ricbet.com^
 ||ricbet.win^
+||ricwin.moi^
+||ricwin.mx^
 ||ricwin.pw^
 ||rik.bet^
 ||rik.club^
@@ -4290,7 +4307,9 @@
 ||sunwin.moi^
 ||sunwin.pro^
 ||sunwin.pw^
+||sunwin.show^
 ||sunwin.sx^
+||sunwinchinhhang.com^
 ||sunwinvn.club^
 ||sure168.asia^
 ||sut88.com^
@@ -4461,6 +4480,7 @@
 ||tin888.club^
 ||tintuc.vlott88.com^
 ||tip.club^
+||tip88.app^
 ||tip88.com^
 ||tip88vn.me^
 ||tipkeo.thethaofb88.com^
@@ -4526,6 +4546,7 @@
 ||twin5568.com^
 ||tx1.vip^
 ||tx88.com^
+||tx88.fan^
 ||tx88.fun^
 ||tx88.fyi^
 ||tx88.in^
@@ -4622,6 +4643,8 @@
 ||vic.hair^
 ||vic.win^
 ||vic88.com^
+||vic88.link^
+||vic88.mx^
 ||vic88.net^
 ||victorwin555.com^
 ||vicwin.vip^
@@ -4730,6 +4753,7 @@
 ||vsports.pro^
 ||vsports88.asia^
 ||vstar79.com^
+||vu88.ac^
 ||vu88.com^
 ||vu88.de^
 ||vu88.in^
@@ -5377,6 +5401,7 @@
 ||xemtylecacuoc.bong99.com^
 ||xibet.com^
 ||xibet.fun^
+||xibet.vg^
 ||xibet.win^
 ||xidach.8day66.com^
 ||xingtou888.com^
@@ -5455,6 +5480,7 @@
 ||zo88.vip^
 ||zoplay.top^
 ||zowin.bh^
+||zowin.esq^
 ||zowin.im^
 ||zowin.is^
 ||zowin.kim^
@@ -5469,6 +5495,7 @@
 ||zowin.uno^
 ||zowin.vu^
 ||zowin.ws^
+||zowinchinhhang.online^
 ||a1casino.com^
 ||a23.com^
 ||abcislands.ag^
