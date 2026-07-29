@@ -3331,6 +3331,7 @@
 ||k88.club^
 ||k88.mobi^
 ||k88.moe^
+||k88.mov^
 ||k88.pro^
 ||k88.tel^
 ||k88.win^
@@ -4292,6 +4293,7 @@
 ||sk.xibet.ing^
 ||sk.xibet.now^
 ||sk.xibet.nz^
+||sk.xibet.pl^
 ||sk.xibet.vu^
 ||sk.zbet.ws^
 ||sky88.bet^
@@ -4667,6 +4669,7 @@
 ||uer5.com^
 ||uk88.club^
 ||uk88.com^
+||uk88.dev^
 ||uk88.gd^
 ||uk88.how^
 ||uk88.mba^
@@ -4871,6 +4874,7 @@
 ||vu88.la^
 ||vu88.live^
 ||vu88.lv^
+||vu88.mobi^
 ||vu88.moe^
 ||vu88.mx^
 ||vu88.net^
@@ -5527,6 +5531,7 @@
 ||xibet.moi^
 ||xibet.now^
 ||xibet.nz^
+||xibet.pl^
 ||xibet.vg^
 ||xibet.vu^
 ||xibet.win^
