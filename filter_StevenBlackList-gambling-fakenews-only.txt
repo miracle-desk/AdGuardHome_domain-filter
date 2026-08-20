@@ -2278,6 +2278,7 @@
 ||api.9bet.army^
 ||api.9bet.band^
 ||api.9bet.care^
+||api.9bet.fund^
 ||api.9bet.green^
 ||api.9bet.mobi^
 ||api.9bet.photo^
@@ -2739,6 +2740,7 @@
 ||du88.club^
 ||du88.com^
 ||du88.fashion^
+||du88.football^
 ||du88.guru^
 ||du88.health^
 ||du88.in^
@@ -3020,6 +3022,7 @@
 ||go8.pub^
 ||go8.pw^
 ||go88-vn.com^
+||go88.adqc.net^
 ||go88.bayern^
 ||go88.ca^
 ||go88.club^
@@ -3027,6 +3030,7 @@
 ||go88.contractors^
 ||go88.food^
 ||go88.live^
+||go88.ls^
 ||go88.luxury^
 ||go88.md^
 ||go88.me^
@@ -3084,6 +3088,8 @@
 ||hb8887.com^
 ||hb88vn.co^
 ||hbet.ac^
+||hbet.art^
+||hbet.bar^
 ||hbet.bio^
 ||hbet.club^
 ||hbet.cz^
@@ -3361,8 +3367,11 @@
 ||k88.mobi^
 ||k88.moe^
 ||k88.mov^
+||k88.nz^
 ||k88.pro^
+||k88.sx^
 ||k88.tel^
+||k88.vc^
 ||k88.win^
 ||k89bet.com^
 ||k8asia79.com^
@@ -3620,6 +3629,7 @@
 ||lu88.nz^
 ||lu88.pro^
 ||lu88.pw^
+||lu88.tv^
 ||lu88.tw^
 ||lu88.vg^
 ||luck6.com^
@@ -4108,6 +4118,8 @@
 ||profile.w88.vin^
 ||prok8.com^
 ||pt1.fabet.win^
+||pub88.camera^
+||pub88.channel^
 ||pub88.com^
 ||pub88.day^
 ||pub88.forum^
@@ -4384,6 +4396,7 @@
 ||socket.9bet.army^
 ||socket.9bet.band^
 ||socket.9bet.care^
+||socket.9bet.fund^
 ||socket.9bet.green^
 ||socket.9bet.mobi^
 ||socket.9bet.photo^
@@ -4723,6 +4736,7 @@
 ||tx88.onl^
 ||tx88.photo^
 ||tx88.pink^
+||tx88.rest^
 ||tx88.top^
 ||tx88.vet^
 ||tx88.zone^
@@ -5123,6 +5137,7 @@
 ||wp.9bet.army^
 ||wp.9bet.band^
 ||wp.9bet.care^
+||wp.9bet.fund^
 ||wp.9bet.green^
 ||wp.9bet.mobi^
 ||wp.9bet.photo^
@@ -5710,6 +5725,7 @@
 ||zowin.ci^
 ||zowin.esq^
 ||zowin.fan^
+||zowin.fm^
 ||zowin.im^
 ||zowin.is^
 ||zowin.kim^
