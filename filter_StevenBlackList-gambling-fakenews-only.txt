@@ -2285,6 +2285,7 @@
 ||api.9bet.krd^
 ||api.9bet.mobi^
 ||api.9bet.photo^
+||api.9bet.vote^
 ||api.9bet.win^
 ||api.ae888.com^
 ||api.ae88827.com^
@@ -2521,6 +2522,7 @@
 ||bwingno1.com^
 ||bwingthethao.com^
 ||c.bong99.com^
+||c168.biz^
 ||c54373.com^
 ||c54455.com^
 ||c547777.com^
@@ -3074,6 +3076,7 @@
 ||gw.mubet.media^
 ||gw.mubet.talk^
 ||gw.mubet.tips^
+||gw.mubet.toys^
 ||gw.mubet.vip^
 ||gw.tot88.store^
 ||h3bet.com^
@@ -3810,6 +3813,7 @@
 ||man88.pl^
 ||man88.pw^
 ||man88.sh^
+||man88.spa^
 ||man88.top^
 ||man88.vc^
 ||man88.vip^
@@ -3923,6 +3927,7 @@
 ||mubet.sh^
 ||mubet.talk^
 ||mubet.tips^
+||mubet.toys^
 ||mubet.video^
 ||mubet.vip^
 ||mubet.website^
@@ -4449,6 +4454,7 @@
 ||socket.9bet.krd^
 ||socket.9bet.mobi^
 ||socket.9bet.photo^
+||socket.9bet.vote^
 ||socket.9bet.win^
 ||socket.debet.so^
 ||socket.debet.uk^
@@ -5035,6 +5041,7 @@
 ||vu88.ng^
 ||vu88.ro^
 ||vu88.sh^
+||vu88.tax^
 ||vu88.tel^
 ||vu88.tv^
 ||vu88.vu^
@@ -5208,6 +5215,7 @@
 ||wp.9bet.krd^
 ||wp.9bet.mobi^
 ||wp.9bet.photo^
+||wp.9bet.vote^
 ||wp.9bet.win^
 ||wp.debet79.info^
 ||wp.hdbet.com^
