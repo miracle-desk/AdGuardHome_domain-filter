@@ -2299,6 +2299,7 @@
 ||api.hb8887.com^
 ||api.hdbet.com^
 ||api.ku88.accountant^
+||api.ku88.cool^
 ||api.ku88.okinawa^
 ||api.max79.win^
 ||api.min88.com^
@@ -2546,6 +2547,7 @@
 ||cdn.868vip.live^
 ||cdn.megawin88.mobi^
 ||cdn.vbet88.fun^
+||cdn2.vua88.diy^
 ||cdn2.vua88.food^
 ||cdvn.vip^
 ||cf68.app^
@@ -2558,6 +2560,7 @@
 ||cf6899.com^
 ||cf68club.net^
 ||cf68vn.com^
+||chat.vua88.diy^
 ||chat.vua88.food^
 ||chatserverv.ooooooo2.com^
 ||cheer68.com^
@@ -2755,6 +2758,7 @@
 ||du88.club^
 ||du88.com^
 ||du88.diy^
+||du88.estate^
 ||du88.fashion^
 ||du88.football^
 ||du88.guru^
@@ -3080,6 +3084,7 @@
 ||gw.gen88.com^
 ||gw.mubet.care^
 ||gw.mubet.help^
+||gw.mubet.icu^
 ||gw.mubet.media^
 ||gw.mubet.talk^
 ||gw.mubet.tips^
@@ -3550,6 +3555,7 @@
 ||ku6131.net^
 ||ku777bet.com^
 ||ku88.accountant^
+||ku88.cool^
 ||ku88.fun^
 ||ku88.okinawa^
 ||ku88.pro^
@@ -3932,6 +3938,7 @@
 ||mubet.dev^
 ||mubet.hair^
 ||mubet.help^
+||mubet.icu^
 ||mubet.info^
 ||mubet.media^
 ||mubet.sh^
@@ -4302,6 +4309,7 @@
 ||s4.gen88.com^
 ||s4.mubet.care^
 ||s4.mubet.help^
+||s4.mubet.icu^
 ||s4.mubet.vip^
 ||s4.tot88.store^
 ||s555.com^
@@ -4474,6 +4482,7 @@
 ||socket.debet.win^
 ||socket.hdbet.com^
 ||socket.ku88.accountant^
+||socket.ku88.cool^
 ||socket.ku88.okinawa^
 ||socket.topbet.top^
 ||socket.usbet.cc^
@@ -4789,6 +4798,7 @@
 ||twin5568.com^
 ||tx1.vip^
 ||tx88.band^
+||tx88.barcelona^
 ||tx88.biz^
 ||tx88.boston^
 ||tx88.ch^
@@ -4928,6 +4938,7 @@
 ||vicclub.ink^
 ||vicclub.mx^
 ||vicclub.sh^
+||vicclub.trade^
 ||victorwin555.com^
 ||vicwin.vip^
 ||vietvwin.com^
@@ -5067,6 +5078,7 @@
 ||vua88.biz^
 ||vua88.club^
 ||vua88.com^
+||vua88.diy^
 ||vua88.food^
 ||vua88.host^
 ||vuabai9.com^
